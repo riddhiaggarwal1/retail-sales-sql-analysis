@@ -1,0 +1,6 @@
+segment,customers,customer_share_pct,avg_recency_days,avg_orders,avg_revenue,revenue_share_pct
+Lapsed,1033,39.6,453.0,1.07,195.95,28.4
+New / one-time,879,33.7,118.0,1.0,185.96,22.9
+At risk (was valuable),272,10.4,423.0,2.43,538.83,20.5
+Promising,275,10.5,111.0,2.0,366.92,14.1
+Loyal,150,5.7,125.0,3.46,667.49,14.0

@@ -1,0 +1,4001 @@
+customer_id,signup_date,city,channel
+1,2025-06-03,Stuttgart,Paid Search
+2,2024-12-01,Hamburg,Social
+3,2025-05-18,Cologne,Organic
+4,2024-07-06,Cologne,Paid Search
+5,2025-07-03,Berlin,Email
+6,2024-08-29,Stuttgart,Organic
+7,2025-01-02,Stuttgart,Organic
+8,2024-08-16,Düsseldorf,Paid Search
+9,2024-06-18,Frankfurt,Organic
+10,2025-08-09,Leipzig,Paid Search
+11,2024-12-06,Munich,Referral
+12,2025-03-16,Berlin,Organic
+13,2025-10-14,Munich,Organic
+14,2025-09-04,Hamburg,Paid Search
+15,2024-12-22,Düsseldorf,Social
+16,2025-03-28,Berlin,Referral
+17,2025-06-30,Frankfurt,Organic
+18,2025-08-22,Frankfurt,Paid Search
+19,2025-01-25,Frankfurt,Paid Search
+20,2025-12-15,Hamburg,Email
+21,2025-10-19,Cologne,Organic
+22,2024-06-27,Berlin,Email
+23,2025-05-12,Hamburg,Paid Search
+24,2025-11-21,Frankfurt,Referral
+25,2024-09-06,Hamburg,Organic
+26,2024-04-25,Hamburg,Paid Search
+27,2025-12-18,Munich,Paid Search
+28,2024-06-05,Munich,Paid Search
+29,2024-09-26,Leipzig,Referral
+30,2025-12-11,Cologne,Referral
+31,2025-07-20,Stuttgart,Paid Search
+32,2025-01-28,Hamburg,Paid Search
+33,2024-09-13,Berlin,Organic
+34,2025-05-05,Cologne,Organic
+35,2024-01-19,Berlin,Social
+36,2024-08-29,Stuttgart,Referral
+37,2024-04-10,Düsseldorf,Organic
+38,2024-08-17,Düsseldorf,Organic
+39,2024-09-09,Leipzig,Paid Search
+40,2024-07-29,Leipzig,Organic
+41,2024-12-01,Berlin,Paid Search
+42,2025-06-26,Hamburg,Referral
+43,2024-03-30,Hamburg,Social
+44,2024-09-14,Düsseldorf,Organic
+45,2024-06-16,Düsseldorf,Organic
+46,2024-09-14,Düsseldorf,Referral
+47,2025-09-14,Hamburg,Referral
+48,2024-03-18,Berlin,Referral
+49,2025-12-13,Cologne,Referral
+50,2024-07-09,Cologne,Paid Search
+51,2025-10-16,Munich,Referral
+52,2024-12-18,Frankfurt,Referral
+53,2025-11-20,Frankfurt,Email
+54,2025-01-17,Düsseldorf,Referral
+55,2024-06-29,Berlin,Organic
+56,2025-04-29,Stuttgart,Paid Search
+57,2024-03-26,Munich,Social
+58,2024-03-26,Munich,Paid Search
+59,2024-04-07,Cologne,Organic
+60,2025-01-04,Cologne,Referral
+61,2025-04-29,Hamburg,Organic
+62,2025-01-15,Stuttgart,Social
+63,2025-11-24,Stuttgart,Organic
+64,2024-09-06,Frankfurt,Paid Search
+65,2025-02-09,Hamburg,Referral
+66,2024-01-22,Hamburg,Social
+67,2024-04-12,Frankfurt,Organic
+68,2024-06-09,Hamburg,Paid Search
+69,2025-10-24,Munich,Paid Search
+70,2025-01-28,Frankfurt,Paid Search
+71,2025-05-19,Berlin,Referral
+72,2025-06-23,Hamburg,Social
+73,2025-11-27,Hamburg,Organic
+74,2025-10-30,Munich,Social
+75,2024-10-02,Stuttgart,Social
+76,2024-08-09,Frankfurt,Social
+77,2025-03-13,Berlin,Organic
+78,2024-05-02,Frankfurt,Paid Search
+79,2024-03-11,Munich,Paid Search
+80,2025-06-04,Düsseldorf,Organic
+81,2025-04-12,Berlin,Paid Search
+82,2024-05-21,Munich,Referral
+83,2025-04-08,Munich,Email
+84,2025-01-22,Stuttgart,Organic
+85,2025-11-04,Berlin,Email
+86,2025-11-04,Cologne,Organic
+87,2025-06-22,Leipzig,Paid Search
+88,2025-12-16,Cologne,Social
+89,2025-10-16,Munich,Referral
+90,2025-10-26,Stuttgart,Organic
+91,2025-08-30,Cologne,Paid Search
+92,2024-09-27,Hamburg,Email
+93,2024-12-21,Düsseldorf,Organic
+94,2024-08-24,Düsseldorf,Email
+95,2024-11-27,Cologne,Email
+96,2024-08-24,Leipzig,Social
+97,2024-11-12,Frankfurt,Referral
+98,2024-11-28,Stuttgart,Paid Search
+99,2025-11-27,Frankfurt,Organic
+100,2024-07-19,Frankfurt,Referral
+101,2024-03-04,Stuttgart,Social
+102,2025-07-29,Hamburg,Paid Search
+103,2024-12-22,Frankfurt,Social
+104,2024-03-11,Cologne,Paid Search
+105,2024-12-08,Stuttgart,Organic
+106,2025-05-27,Hamburg,Social
+107,2025-07-24,Frankfurt,Paid Search
+108,2025-06-22,Frankfurt,Paid Search
+109,2025-04-14,Leipzig,Organic
+110,2025-06-29,Frankfurt,Referral
+111,2025-01-06,Frankfurt,Email
+112,2024-10-13,Stuttgart,Paid Search
+113,2025-02-15,Cologne,Paid Search
+114,2025-03-17,Munich,Email
+115,2025-06-17,Stuttgart,Organic
+116,2024-05-03,Cologne,Referral
+117,2025-06-26,Cologne,Organic
+118,2024-06-22,Düsseldorf,Organic
+119,2025-05-19,Düsseldorf,Email
+120,2025-01-12,Cologne,Social
+121,2025-07-23,Leipzig,Paid Search
+122,2024-09-10,Berlin,Social
+123,2025-11-01,Hamburg,Referral
+124,2025-08-27,Düsseldorf,Organic
+125,2024-03-18,Hamburg,Organic
+126,2025-02-09,Stuttgart,Email
+127,2025-12-03,Leipzig,Referral
+128,2025-09-27,Munich,Paid Search
+129,2025-08-07,Frankfurt,Paid Search
+130,2025-08-12,Frankfurt,Email
+131,2025-08-20,Cologne,Paid Search
+132,2024-10-03,Frankfurt,Organic
+133,2024-09-02,Hamburg,Paid Search
+134,2024-06-14,Munich,Organic
+135,2025-07-16,Leipzig,Organic
+136,2024-11-14,Berlin,Paid Search
+137,2024-08-11,Berlin,Paid Search
+138,2025-10-12,Leipzig,Email
+139,2025-02-22,Frankfurt,Referral
+140,2025-08-13,Leipzig,Referral
+141,2025-04-03,Cologne,Social
+142,2025-03-02,Düsseldorf,Organic
+143,2024-02-21,Leipzig,Paid Search
+144,2025-07-27,Munich,Email
+145,2025-12-20,Leipzig,Paid Search
+146,2025-05-07,Hamburg,Social
+147,2025-06-08,Düsseldorf,Organic
+148,2024-07-22,Stuttgart,Organic
+149,2024-08-15,Leipzig,Paid Search
+150,2024-10-06,Leipzig,Referral
+151,2024-09-16,Berlin,Organic
+152,2025-08-10,Stuttgart,Organic
+153,2024-08-25,Berlin,Organic
+154,2025-08-13,Cologne,Referral
+155,2025-10-02,Cologne,Social
+156,2024-06-03,Cologne,Social
+157,2025-02-15,Stuttgart,Organic
+158,2024-07-10,Hamburg,Social
+159,2025-08-27,Frankfurt,Organic
+160,2024-05-17,Frankfurt,Organic
+161,2025-04-27,Leipzig,Referral
+162,2024-12-30,Hamburg,Social
+163,2025-05-07,Cologne,Email
+164,2024-05-11,Hamburg,Email
+165,2025-09-07,Berlin,Social
+166,2024-11-26,Stuttgart,Paid Search
+167,2024-04-08,Berlin,Social
+168,2025-10-07,Hamburg,Email
+169,2025-01-25,Düsseldorf,Paid Search
+170,2025-07-17,Frankfurt,Paid Search
+171,2025-05-22,Düsseldorf,Referral
+172,2025-02-14,Frankfurt,Email
+173,2024-11-08,Hamburg,Organic
+174,2024-10-07,Düsseldorf,Paid Search
+175,2025-04-23,Stuttgart,Social
+176,2024-02-20,Munich,Referral
+177,2025-03-01,Frankfurt,Paid Search
+178,2024-11-21,Frankfurt,Referral
+179,2025-04-14,Cologne,Paid Search
+180,2024-04-25,Düsseldorf,Social
+181,2025-04-14,Düsseldorf,Organic
+182,2025-06-09,Berlin,Paid Search
+183,2024-05-02,Cologne,Organic
+184,2024-10-27,Düsseldorf,Social
+185,2025-04-13,Stuttgart,Paid Search
+186,2024-11-29,Frankfurt,Paid Search
+187,2024-09-16,Cologne,Organic
+188,2024-11-03,Munich,Social
+189,2024-07-30,Frankfurt,Social
+190,2025-07-27,Frankfurt,Referral
+191,2025-12-20,Frankfurt,Email
+192,2024-08-28,Berlin,Organic
+193,2025-07-17,Berlin,Organic
+194,2025-12-16,Munich,Social
+195,2025-06-05,Hamburg,Email
+196,2025-10-21,Düsseldorf,Social
+197,2025-02-24,Berlin,Paid Search
+198,2024-09-17,Hamburg,Referral
+199,2025-09-22,Hamburg,Paid Search
+200,2025-04-28,Munich,Social
+201,2024-06-24,Frankfurt,Social
+202,2024-04-25,Leipzig,Organic
+203,2025-05-16,Cologne,Email
+204,2025-08-26,Düsseldorf,Paid Search
+205,2024-10-20,Leipzig,Social
+206,2024-10-26,Hamburg,Social
+207,2025-12-02,Cologne,Organic
+208,2024-09-26,Cologne,Organic
+209,2024-07-15,Berlin,Organic
+210,2025-01-08,Düsseldorf,Social
+211,2024-10-16,Frankfurt,Organic
+212,2025-07-14,Cologne,Paid Search
+213,2025-11-18,Cologne,Email
+214,2025-01-19,Munich,Paid Search
+215,2025-11-10,Hamburg,Email
+216,2024-03-29,Frankfurt,Email
+217,2025-01-28,Frankfurt,Paid Search
+218,2025-07-12,Düsseldorf,Referral
+219,2025-01-27,Leipzig,Social
+220,2025-08-02,Berlin,Social
+221,2024-05-01,Berlin,Referral
+222,2025-12-30,Frankfurt,Social
+223,2025-04-27,Munich,Email
+224,2025-02-18,Frankfurt,Social
+225,2024-07-21,Düsseldorf,Social
+226,2025-12-13,Leipzig,Paid Search
+227,2024-11-16,Munich,Social
+228,2024-11-13,Frankfurt,Social
+229,2025-06-20,Berlin,Paid Search
+230,2025-02-08,Stuttgart,Paid Search
+231,2024-05-25,Berlin,Email
+232,2025-06-17,Leipzig,Paid Search
+233,2024-03-23,Düsseldorf,Paid Search
+234,2025-05-28,Cologne,Email
+235,2024-09-28,Frankfurt,Organic
+236,2025-01-28,Hamburg,Social
+237,2024-02-21,Cologne,Social
+238,2025-07-18,Berlin,Paid Search
+239,2025-04-12,Hamburg,Organic
+240,2025-02-12,Munich,Organic
+241,2025-03-09,Frankfurt,Social
+242,2025-01-12,Düsseldorf,Paid Search
+243,2024-09-10,Leipzig,Social
+244,2024-07-29,Munich,Social
+245,2025-10-16,Leipzig,Organic
+246,2024-11-20,Frankfurt,Email
+247,2025-09-21,Frankfurt,Organic
+248,2025-10-01,Düsseldorf,Social
+249,2025-10-16,Düsseldorf,Paid Search
+250,2024-11-24,Leipzig,Social
+251,2025-02-08,Cologne,Paid Search
+252,2025-12-20,Leipzig,Organic
+253,2024-09-02,Berlin,Email
+254,2024-11-05,Leipzig,Paid Search
+255,2024-12-23,Munich,Social
+256,2025-03-07,Stuttgart,Organic
+257,2025-10-19,Düsseldorf,Referral
+258,2024-05-09,Berlin,Referral
+259,2025-07-26,Munich,Paid Search
+260,2024-04-14,Frankfurt,Email
+261,2024-11-20,Hamburg,Social
+262,2025-10-09,Leipzig,Referral
+263,2025-12-05,Düsseldorf,Social
+264,2025-10-20,Hamburg,Organic
+265,2024-09-03,Frankfurt,Social
+266,2025-12-29,Leipzig,Social
+267,2025-12-19,Hamburg,Email
+268,2025-01-31,Berlin,Social
+269,2024-03-13,Frankfurt,Email
+270,2024-12-04,Cologne,Paid Search
+271,2025-03-30,Munich,Social
+272,2024-07-12,Leipzig,Organic
+273,2025-05-24,Munich,Organic
+274,2024-09-01,Düsseldorf,Social
+275,2024-09-19,Düsseldorf,Organic
+276,2025-11-06,Munich,Social
+277,2024-04-13,Frankfurt,Referral
+278,2025-06-05,Frankfurt,Paid Search
+279,2025-02-09,Leipzig,Paid Search
+280,2025-10-10,Leipzig,Organic
+281,2025-04-25,Frankfurt,Social
+282,2024-02-11,Leipzig,Email
+283,2024-10-03,Berlin,Social
+284,2025-11-11,Frankfurt,Social
+285,2025-08-26,Stuttgart,Organic
+286,2024-08-21,Frankfurt,Organic
+287,2025-06-29,Munich,Social
+288,2025-05-30,Berlin,Referral
+289,2024-10-29,Stuttgart,Paid Search
+290,2025-07-31,Frankfurt,Organic
+291,2024-11-11,Cologne,Paid Search
+292,2024-06-09,Stuttgart,Paid Search
+293,2025-03-29,Munich,Referral
+294,2024-09-20,Düsseldorf,Email
+295,2025-12-13,Stuttgart,Organic
+296,2025-09-11,Hamburg,Paid Search
+297,2024-06-16,Leipzig,Referral
+298,2025-12-13,Stuttgart,Email
+299,2024-04-30,Frankfurt,Paid Search
+300,2025-04-02,Frankfurt,Paid Search
+301,2025-05-03,Stuttgart,Email
+302,2024-05-17,Berlin,Organic
+303,2025-05-24,Stuttgart,Referral
+304,2025-11-14,Hamburg,Organic
+305,2025-06-03,Frankfurt,Paid Search
+306,2025-06-11,Berlin,Organic
+307,2025-12-01,Düsseldorf,Paid Search
+308,2024-05-25,Munich,Organic
+309,2024-12-25,Leipzig,Paid Search
+310,2025-05-04,Leipzig,Social
+311,2025-06-15,Leipzig,Email
+312,2025-11-27,Stuttgart,Organic
+313,2024-08-20,Cologne,Paid Search
+314,2025-10-11,Stuttgart,Organic
+315,2025-04-07,Stuttgart,Referral
+316,2024-03-30,Hamburg,Organic
+317,2025-12-02,Hamburg,Email
+318,2025-06-20,Berlin,Social
+319,2024-03-18,Munich,Paid Search
+320,2025-09-01,Cologne,Organic
+321,2025-05-04,Cologne,Email
+322,2024-11-12,Berlin,Organic
+323,2024-10-05,Munich,Referral
+324,2025-04-04,Hamburg,Email
+325,2025-06-19,Berlin,Organic
+326,2024-12-04,Stuttgart,Email
+327,2024-02-02,Munich,Organic
+328,2025-08-06,Hamburg,Paid Search
+329,2025-02-22,Hamburg,Email
+330,2025-02-06,Berlin,Organic
+331,2025-07-28,Frankfurt,Referral
+332,2025-02-10,Berlin,Referral
+333,2025-12-30,Leipzig,Email
+334,2025-07-04,Düsseldorf,Paid Search
+335,2024-04-13,Munich,Organic
+336,2024-04-04,Stuttgart,Organic
+337,2024-12-19,Frankfurt,Social
+338,2025-02-07,Hamburg,Social
+339,2025-09-05,Cologne,Organic
+340,2025-01-22,Leipzig,Referral
+341,2024-11-20,Leipzig,Paid Search
+342,2025-07-30,Stuttgart,Paid Search
+343,2025-06-21,Munich,Paid Search
+344,2025-07-04,Hamburg,Paid Search
+345,2025-09-27,Hamburg,Organic
+346,2025-08-08,Munich,Paid Search
+347,2025-04-15,Stuttgart,Social
+348,2025-06-24,Leipzig,Paid Search
+349,2025-10-18,Frankfurt,Social
+350,2025-05-12,Cologne,Paid Search
+351,2024-06-29,Hamburg,Paid Search
+352,2024-11-28,Hamburg,Social
+353,2025-08-18,Leipzig,Social
+354,2025-10-05,Berlin,Referral
+355,2025-05-18,Frankfurt,Social
+356,2024-02-21,Frankfurt,Organic
+357,2025-11-17,Munich,Paid Search
+358,2025-10-19,Leipzig,Social
+359,2024-04-08,Berlin,Social
+360,2024-05-01,Leipzig,Paid Search
+361,2025-01-15,Stuttgart,Paid Search
+362,2024-10-31,Hamburg,Paid Search
+363,2025-10-27,Berlin,Organic
+364,2025-06-27,Leipzig,Organic
+365,2025-02-28,Frankfurt,Paid Search
+366,2024-08-18,Stuttgart,Paid Search
+367,2025-01-22,Düsseldorf,Organic
+368,2025-03-27,Cologne,Paid Search
+369,2024-12-29,Berlin,Social
+370,2024-08-09,Munich,Referral
+371,2025-08-19,Hamburg,Organic
+372,2024-01-20,Munich,Social
+373,2024-06-06,Cologne,Paid Search
+374,2025-03-10,Stuttgart,Email
+375,2024-04-11,Berlin,Referral
+376,2025-01-26,Hamburg,Paid Search
+377,2025-10-15,Leipzig,Social
+378,2025-07-18,Hamburg,Paid Search
+379,2025-01-05,Munich,Referral
+380,2025-09-10,Stuttgart,Social
+381,2024-04-28,Cologne,Email
+382,2025-01-26,Hamburg,Paid Search
+383,2024-12-30,Stuttgart,Paid Search
+384,2024-08-23,Hamburg,Email
+385,2025-03-16,Cologne,Organic
+386,2025-11-08,Munich,Paid Search
+387,2024-09-04,Cologne,Organic
+388,2024-07-15,Hamburg,Organic
+389,2024-07-18,Düsseldorf,Email
+390,2025-02-14,Düsseldorf,Social
+391,2025-07-01,Stuttgart,Referral
+392,2025-10-16,Munich,Social
+393,2025-01-29,Frankfurt,Paid Search
+394,2025-09-07,Stuttgart,Social
+395,2025-03-14,Düsseldorf,Paid Search
+396,2024-03-03,Frankfurt,Paid Search
+397,2024-04-16,Hamburg,Referral
+398,2025-05-21,Düsseldorf,Paid Search
+399,2025-04-30,Berlin,Referral
+400,2025-02-04,Cologne,Email
+401,2024-11-07,Munich,Paid Search
+402,2025-12-07,Stuttgart,Paid Search
+403,2025-12-21,Munich,Organic
+404,2024-03-05,Düsseldorf,Social
+405,2025-03-25,Stuttgart,Social
+406,2024-12-14,Leipzig,Organic
+407,2025-08-25,Berlin,Social
+408,2025-09-03,Hamburg,Social
+409,2024-11-13,Leipzig,Social
+410,2024-10-11,Munich,Social
+411,2024-11-16,Munich,Social
+412,2025-11-14,Leipzig,Paid Search
+413,2024-06-06,Hamburg,Social
+414,2024-10-29,Stuttgart,Paid Search
+415,2025-09-17,Hamburg,Social
+416,2025-06-10,Stuttgart,Paid Search
+417,2024-02-06,Cologne,Paid Search
+418,2024-11-22,Cologne,Email
+419,2024-08-27,Hamburg,Organic
+420,2024-10-19,Berlin,Email
+421,2025-06-19,Munich,Referral
+422,2025-05-10,Munich,Organic
+423,2025-09-27,Munich,Email
+424,2025-07-25,Stuttgart,Organic
+425,2025-06-28,Düsseldorf,Organic
+426,2025-05-19,Düsseldorf,Email
+427,2024-09-02,Düsseldorf,Organic
+428,2025-11-07,Düsseldorf,Organic
+429,2025-02-12,Leipzig,Organic
+430,2025-03-11,Munich,Paid Search
+431,2025-09-19,Munich,Email
+432,2025-10-21,Düsseldorf,Organic
+433,2025-10-21,Hamburg,Social
+434,2025-07-19,Hamburg,Paid Search
+435,2024-10-11,Frankfurt,Email
+436,2025-02-04,Leipzig,Paid Search
+437,2024-05-01,Düsseldorf,Referral
+438,2025-10-27,Leipzig,Referral
+439,2024-03-21,Cologne,Paid Search
+440,2024-12-23,Cologne,Organic
+441,2024-02-20,Stuttgart,Referral
+442,2025-09-04,Frankfurt,Organic
+443,2025-11-15,Munich,Paid Search
+444,2025-08-16,Berlin,Paid Search
+445,2025-11-08,Cologne,Organic
+446,2025-09-29,Leipzig,Paid Search
+447,2024-05-20,Frankfurt,Organic
+448,2024-05-30,Düsseldorf,Organic
+449,2024-04-01,Düsseldorf,Email
+450,2025-05-10,Cologne,Organic
+451,2025-07-23,Berlin,Organic
+452,2025-05-21,Leipzig,Organic
+453,2024-07-26,Stuttgart,Social
+454,2024-04-06,Berlin,Paid Search
+455,2024-12-26,Leipzig,Paid Search
+456,2025-12-20,Berlin,Organic
+457,2024-12-03,Cologne,Organic
+458,2025-08-01,Stuttgart,Social
+459,2024-06-10,Stuttgart,Paid Search
+460,2025-09-17,Düsseldorf,Organic
+461,2025-12-20,Munich,Paid Search
+462,2025-09-16,Düsseldorf,Organic
+463,2024-03-02,Cologne,Organic
+464,2025-10-28,Frankfurt,Paid Search
+465,2025-03-20,Düsseldorf,Referral
+466,2024-09-17,Cologne,Email
+467,2024-10-12,Berlin,Referral
+468,2025-10-17,Hamburg,Paid Search
+469,2025-09-09,Leipzig,Paid Search
+470,2025-08-07,Leipzig,Referral
+471,2024-11-20,Düsseldorf,Organic
+472,2024-12-10,Frankfurt,Email
+473,2025-09-10,Hamburg,Social
+474,2025-01-23,Munich,Referral
+475,2025-04-08,Hamburg,Paid Search
+476,2024-11-12,Düsseldorf,Organic
+477,2025-05-14,Düsseldorf,Paid Search
+478,2024-11-29,Stuttgart,Organic
+479,2025-05-21,Berlin,Paid Search
+480,2024-04-14,Stuttgart,Social
+481,2025-03-18,Munich,Social
+482,2025-12-04,Düsseldorf,Organic
+483,2024-02-28,Stuttgart,Organic
+484,2024-12-06,Berlin,Referral
+485,2025-05-15,Stuttgart,Social
+486,2024-12-13,Munich,Email
+487,2025-03-29,Frankfurt,Paid Search
+488,2024-09-14,Munich,Organic
+489,2025-03-09,Hamburg,Paid Search
+490,2024-09-24,Düsseldorf,Organic
+491,2024-08-18,Düsseldorf,Social
+492,2024-08-06,Hamburg,Organic
+493,2025-02-06,Düsseldorf,Referral
+494,2025-12-29,Stuttgart,Email
+495,2025-06-23,Frankfurt,Social
+496,2025-10-31,Munich,Referral
+497,2025-09-05,Hamburg,Paid Search
+498,2025-12-22,Cologne,Email
+499,2025-09-03,Stuttgart,Organic
+500,2025-02-16,Munich,Referral
+501,2025-05-20,Frankfurt,Organic
+502,2024-12-31,Düsseldorf,Social
+503,2025-03-26,Hamburg,Email
+504,2024-06-02,Hamburg,Paid Search
+505,2025-02-05,Stuttgart,Social
+506,2024-06-05,Munich,Email
+507,2025-08-21,Berlin,Organic
+508,2025-09-27,Frankfurt,Paid Search
+509,2024-07-07,Cologne,Paid Search
+510,2024-11-25,Frankfurt,Referral
+511,2025-10-05,Frankfurt,Organic
+512,2024-06-02,Hamburg,Paid Search
+513,2025-03-11,Munich,Organic
+514,2024-07-13,Stuttgart,Social
+515,2025-10-03,Berlin,Social
+516,2024-04-21,Frankfurt,Referral
+517,2025-06-13,Leipzig,Email
+518,2025-05-23,Frankfurt,Organic
+519,2025-06-07,Cologne,Paid Search
+520,2025-09-12,Frankfurt,Social
+521,2025-02-07,Munich,Social
+522,2025-01-29,Cologne,Paid Search
+523,2024-11-21,Stuttgart,Organic
+524,2025-08-02,Leipzig,Referral
+525,2024-06-07,Hamburg,Paid Search
+526,2024-11-05,Frankfurt,Paid Search
+527,2025-02-04,Berlin,Organic
+528,2024-10-15,Leipzig,Paid Search
+529,2024-09-13,Munich,Referral
+530,2025-09-17,Stuttgart,Referral
+531,2024-07-28,Düsseldorf,Organic
+532,2025-03-09,Berlin,Paid Search
+533,2024-04-30,Düsseldorf,Paid Search
+534,2025-12-12,Stuttgart,Organic
+535,2024-03-16,Düsseldorf,Organic
+536,2024-10-12,Hamburg,Organic
+537,2025-01-23,Stuttgart,Referral
+538,2025-08-19,Leipzig,Paid Search
+539,2024-03-19,Stuttgart,Social
+540,2025-04-13,Düsseldorf,Organic
+541,2025-08-19,Hamburg,Organic
+542,2024-06-05,Stuttgart,Organic
+543,2025-09-06,Stuttgart,Paid Search
+544,2025-08-14,Leipzig,Organic
+545,2025-03-10,Munich,Organic
+546,2025-07-20,Düsseldorf,Email
+547,2024-06-24,Munich,Referral
+548,2024-11-12,Munich,Social
+549,2024-12-28,Frankfurt,Social
+550,2025-05-08,Düsseldorf,Paid Search
+551,2025-07-17,Berlin,Organic
+552,2024-12-11,Leipzig,Social
+553,2025-05-02,Berlin,Email
+554,2025-05-10,Cologne,Organic
+555,2025-07-25,Munich,Social
+556,2025-03-25,Leipzig,Social
+557,2024-06-22,Berlin,Social
+558,2025-04-25,Cologne,Social
+559,2024-02-07,Munich,Paid Search
+560,2025-01-11,Düsseldorf,Organic
+561,2025-10-21,Berlin,Social
+562,2025-07-16,Stuttgart,Paid Search
+563,2025-12-29,Leipzig,Paid Search
+564,2024-11-02,Stuttgart,Organic
+565,2025-04-08,Frankfurt,Social
+566,2025-05-18,Cologne,Organic
+567,2024-10-07,Frankfurt,Organic
+568,2025-08-23,Düsseldorf,Social
+569,2024-11-04,Frankfurt,Paid Search
+570,2024-10-13,Leipzig,Social
+571,2025-11-03,Stuttgart,Paid Search
+572,2025-12-06,Frankfurt,Email
+573,2024-03-08,Hamburg,Referral
+574,2024-11-25,Frankfurt,Paid Search
+575,2025-08-09,Frankfurt,Organic
+576,2025-11-24,Munich,Social
+577,2024-05-18,Cologne,Social
+578,2024-09-09,Cologne,Social
+579,2025-06-05,Leipzig,Organic
+580,2024-11-14,Munich,Paid Search
+581,2024-01-15,Munich,Social
+582,2025-01-06,Düsseldorf,Referral
+583,2025-02-23,Frankfurt,Organic
+584,2024-11-07,Hamburg,Social
+585,2025-06-13,Berlin,Organic
+586,2025-11-12,Munich,Organic
+587,2025-11-24,Leipzig,Organic
+588,2025-09-02,Frankfurt,Organic
+589,2025-10-23,Hamburg,Organic
+590,2025-11-21,Düsseldorf,Paid Search
+591,2025-12-25,Düsseldorf,Paid Search
+592,2025-10-30,Düsseldorf,Organic
+593,2024-10-02,Stuttgart,Email
+594,2024-07-05,Frankfurt,Paid Search
+595,2025-07-23,Stuttgart,Organic
+596,2025-09-04,Cologne,Social
+597,2024-07-16,Leipzig,Referral
+598,2025-09-25,Hamburg,Paid Search
+599,2025-01-02,Munich,Organic
+600,2025-02-23,Berlin,Referral
+601,2024-09-23,Frankfurt,Organic
+602,2025-12-05,Berlin,Paid Search
+603,2024-09-23,Cologne,Paid Search
+604,2024-03-31,Frankfurt,Organic
+605,2024-07-03,Frankfurt,Social
+606,2025-07-06,Frankfurt,Social
+607,2024-12-10,Munich,Organic
+608,2025-02-23,Stuttgart,Paid Search
+609,2025-01-13,Düsseldorf,Paid Search
+610,2025-08-15,Cologne,Email
+611,2025-08-18,Hamburg,Social
+612,2025-03-26,Stuttgart,Paid Search
+613,2024-04-17,Berlin,Social
+614,2025-09-26,Cologne,Referral
+615,2025-04-25,Stuttgart,Organic
+616,2025-10-10,Cologne,Paid Search
+617,2025-07-22,Düsseldorf,Paid Search
+618,2025-09-14,Leipzig,Paid Search
+619,2025-02-09,Düsseldorf,Organic
+620,2025-06-26,Berlin,Paid Search
+621,2024-12-30,Cologne,Email
+622,2025-04-29,Stuttgart,Organic
+623,2025-07-12,Berlin,Paid Search
+624,2025-11-24,Düsseldorf,Organic
+625,2024-02-24,Munich,Paid Search
+626,2025-08-20,Leipzig,Referral
+627,2024-12-15,Düsseldorf,Referral
+628,2025-10-19,Leipzig,Referral
+629,2024-04-20,Munich,Referral
+630,2025-06-14,Munich,Paid Search
+631,2025-12-27,Munich,Paid Search
+632,2025-07-29,Berlin,Organic
+633,2025-08-14,Düsseldorf,Referral
+634,2025-06-26,Leipzig,Paid Search
+635,2025-09-22,Stuttgart,Organic
+636,2024-06-29,Hamburg,Organic
+637,2024-02-25,Berlin,Social
+638,2024-09-07,Berlin,Organic
+639,2025-02-02,Berlin,Social
+640,2024-09-11,Düsseldorf,Organic
+641,2024-09-02,Berlin,Organic
+642,2024-06-16,Cologne,Referral
+643,2025-09-18,Stuttgart,Social
+644,2025-04-28,Stuttgart,Email
+645,2024-09-04,Cologne,Referral
+646,2025-01-11,Munich,Organic
+647,2025-05-28,Düsseldorf,Paid Search
+648,2024-03-14,Leipzig,Paid Search
+649,2025-09-01,Leipzig,Paid Search
+650,2025-01-07,Munich,Organic
+651,2025-08-13,Cologne,Paid Search
+652,2024-10-23,Düsseldorf,Social
+653,2025-11-13,Leipzig,Social
+654,2025-04-15,Cologne,Organic
+655,2024-09-18,Hamburg,Paid Search
+656,2025-11-17,Hamburg,Email
+657,2025-04-02,Berlin,Email
+658,2024-09-29,Berlin,Social
+659,2025-10-21,Cologne,Organic
+660,2025-02-24,Stuttgart,Referral
+661,2024-10-25,Cologne,Referral
+662,2025-11-26,Hamburg,Referral
+663,2025-08-09,Cologne,Email
+664,2025-07-10,Leipzig,Social
+665,2025-11-14,Frankfurt,Social
+666,2024-12-19,Stuttgart,Paid Search
+667,2024-10-29,Düsseldorf,Paid Search
+668,2025-02-15,Düsseldorf,Email
+669,2025-08-18,Cologne,Paid Search
+670,2024-12-12,Cologne,Paid Search
+671,2025-08-06,Leipzig,Organic
+672,2024-10-19,Cologne,Organic
+673,2024-12-19,Düsseldorf,Email
+674,2025-04-11,Stuttgart,Referral
+675,2024-09-20,Düsseldorf,Email
+676,2025-02-12,Stuttgart,Social
+677,2024-07-11,Düsseldorf,Social
+678,2024-07-24,Berlin,Referral
+679,2025-03-25,Hamburg,Email
+680,2025-11-30,Berlin,Social
+681,2025-01-10,Cologne,Email
+682,2024-04-07,Cologne,Organic
+683,2025-03-13,Düsseldorf,Paid Search
+684,2025-06-18,Leipzig,Organic
+685,2024-01-27,Frankfurt,Paid Search
+686,2025-04-02,Leipzig,Organic
+687,2025-09-13,Hamburg,Referral
+688,2025-11-15,Cologne,Paid Search
+689,2024-07-30,Stuttgart,Paid Search
+690,2024-09-28,Stuttgart,Paid Search
+691,2025-12-08,Cologne,Paid Search
+692,2025-12-25,Hamburg,Organic
+693,2025-06-14,Berlin,Referral
+694,2024-05-03,Düsseldorf,Paid Search
+695,2024-03-25,Munich,Organic
+696,2024-04-22,Stuttgart,Email
+697,2025-04-21,Hamburg,Referral
+698,2025-11-02,Cologne,Referral
+699,2024-08-15,Düsseldorf,Referral
+700,2024-10-01,Frankfurt,Referral
+701,2025-11-05,Berlin,Social
+702,2024-07-20,Berlin,Referral
+703,2025-12-09,Leipzig,Social
+704,2025-11-21,Cologne,Organic
+705,2025-04-21,Stuttgart,Email
+706,2024-12-21,Hamburg,Social
+707,2025-03-10,Berlin,Referral
+708,2024-05-07,Hamburg,Organic
+709,2024-11-21,Leipzig,Email
+710,2025-12-13,Frankfurt,Paid Search
+711,2025-08-30,Cologne,Paid Search
+712,2024-12-02,Leipzig,Referral
+713,2024-07-25,Leipzig,Social
+714,2024-04-25,Cologne,Social
+715,2025-07-20,Munich,Organic
+716,2024-12-19,Munich,Email
+717,2025-08-05,Hamburg,Paid Search
+718,2024-05-01,Düsseldorf,Referral
+719,2024-12-05,Munich,Organic
+720,2024-04-27,Leipzig,Paid Search
+721,2024-05-13,Hamburg,Organic
+722,2025-05-10,Leipzig,Email
+723,2024-01-28,Hamburg,Paid Search
+724,2025-07-27,Cologne,Social
+725,2025-04-25,Leipzig,Organic
+726,2024-07-11,Frankfurt,Organic
+727,2025-03-05,Leipzig,Organic
+728,2024-10-04,Hamburg,Organic
+729,2024-12-06,Düsseldorf,Referral
+730,2025-05-08,Hamburg,Organic
+731,2024-06-12,Leipzig,Organic
+732,2024-11-15,Stuttgart,Social
+733,2025-01-29,Munich,Paid Search
+734,2024-10-23,Cologne,Social
+735,2025-02-24,Leipzig,Organic
+736,2025-12-13,Düsseldorf,Organic
+737,2025-12-13,Stuttgart,Email
+738,2024-12-16,Leipzig,Email
+739,2024-12-08,Cologne,Referral
+740,2025-05-07,Berlin,Paid Search
+741,2025-12-05,Cologne,Paid Search
+742,2025-01-28,Hamburg,Organic
+743,2025-09-20,Leipzig,Email
+744,2025-06-26,Frankfurt,Organic
+745,2024-09-08,Leipzig,Social
+746,2025-09-03,Düsseldorf,Organic
+747,2025-05-01,Leipzig,Paid Search
+748,2025-04-07,Stuttgart,Email
+749,2025-07-13,Hamburg,Email
+750,2024-05-18,Stuttgart,Organic
+751,2024-07-09,Leipzig,Social
+752,2025-12-12,Leipzig,Paid Search
+753,2024-05-15,Cologne,Organic
+754,2025-03-16,Cologne,Paid Search
+755,2025-02-02,Munich,Paid Search
+756,2024-11-24,Hamburg,Organic
+757,2024-10-19,Hamburg,Referral
+758,2024-05-25,Munich,Referral
+759,2024-11-26,Cologne,Paid Search
+760,2025-03-23,Hamburg,Paid Search
+761,2025-01-28,Stuttgart,Social
+762,2024-04-06,Hamburg,Organic
+763,2024-02-12,Hamburg,Paid Search
+764,2025-06-28,Cologne,Organic
+765,2025-03-20,Stuttgart,Social
+766,2025-04-17,Cologne,Referral
+767,2025-09-08,Munich,Social
+768,2025-06-06,Berlin,Paid Search
+769,2025-08-03,Düsseldorf,Referral
+770,2025-05-07,Cologne,Paid Search
+771,2024-08-11,Hamburg,Email
+772,2025-04-28,Munich,Email
+773,2024-12-09,Hamburg,Organic
+774,2024-09-24,Stuttgart,Referral
+775,2025-05-10,Hamburg,Social
+776,2024-11-26,Munich,Email
+777,2025-09-17,Frankfurt,Social
+778,2025-11-16,Munich,Social
+779,2024-11-01,Hamburg,Organic
+780,2024-07-23,Leipzig,Social
+781,2025-01-14,Leipzig,Organic
+782,2025-01-17,Munich,Paid Search
+783,2025-04-14,Munich,Paid Search
+784,2024-07-26,Berlin,Email
+785,2025-10-17,Düsseldorf,Referral
+786,2024-06-12,Düsseldorf,Email
+787,2025-01-08,Düsseldorf,Paid Search
+788,2025-03-02,Berlin,Organic
+789,2025-09-07,Berlin,Organic
+790,2024-10-04,Munich,Paid Search
+791,2025-08-29,Düsseldorf,Social
+792,2025-04-11,Hamburg,Organic
+793,2024-09-28,Stuttgart,Paid Search
+794,2025-04-06,Düsseldorf,Email
+795,2025-04-08,Hamburg,Referral
+796,2025-08-03,Cologne,Social
+797,2024-10-21,Düsseldorf,Referral
+798,2024-09-24,Hamburg,Referral
+799,2025-01-28,Cologne,Referral
+800,2024-08-14,Stuttgart,Social
+801,2025-10-14,Leipzig,Social
+802,2024-07-08,Cologne,Organic
+803,2025-09-17,Stuttgart,Email
+804,2025-03-30,Munich,Social
+805,2024-11-09,Frankfurt,Social
+806,2025-04-25,Hamburg,Referral
+807,2024-06-12,Leipzig,Email
+808,2025-11-16,Munich,Referral
+809,2025-07-13,Munich,Organic
+810,2025-07-19,Leipzig,Email
+811,2025-03-03,Frankfurt,Social
+812,2025-05-29,Hamburg,Paid Search
+813,2025-06-02,Hamburg,Referral
+814,2025-01-04,Stuttgart,Social
+815,2025-02-08,Berlin,Paid Search
+816,2025-10-18,Hamburg,Email
+817,2025-07-31,Stuttgart,Paid Search
+818,2025-10-08,Leipzig,Email
+819,2024-08-20,Cologne,Paid Search
+820,2025-03-06,Frankfurt,Paid Search
+821,2024-11-19,Düsseldorf,Social
+822,2025-09-02,Berlin,Referral
+823,2024-03-13,Düsseldorf,Social
+824,2024-02-03,Munich,Referral
+825,2025-01-30,Leipzig,Organic
+826,2024-08-08,Munich,Social
+827,2025-10-26,Frankfurt,Paid Search
+828,2024-05-03,Hamburg,Paid Search
+829,2024-12-13,Munich,Referral
+830,2024-03-20,Cologne,Social
+831,2025-01-22,Hamburg,Organic
+832,2024-01-05,Munich,Paid Search
+833,2025-05-08,Düsseldorf,Paid Search
+834,2024-01-22,Hamburg,Social
+835,2025-12-24,Munich,Paid Search
+836,2025-02-23,Hamburg,Organic
+837,2025-07-30,Stuttgart,Organic
+838,2024-12-10,Leipzig,Organic
+839,2025-08-25,Munich,Email
+840,2025-06-07,Hamburg,Social
+841,2025-03-29,Munich,Organic
+842,2025-01-29,Munich,Social
+843,2025-11-16,Düsseldorf,Social
+844,2025-10-13,Hamburg,Organic
+845,2024-06-16,Leipzig,Organic
+846,2024-11-29,Munich,Paid Search
+847,2024-09-13,Cologne,Social
+848,2025-04-13,Frankfurt,Social
+849,2025-08-28,Frankfurt,Social
+850,2024-08-10,Cologne,Social
+851,2025-08-10,Berlin,Organic
+852,2025-08-31,Cologne,Email
+853,2025-03-06,Düsseldorf,Organic
+854,2025-06-05,Berlin,Organic
+855,2025-12-23,Munich,Referral
+856,2024-12-24,Leipzig,Email
+857,2024-12-09,Düsseldorf,Social
+858,2025-12-05,Berlin,Email
+859,2025-05-04,Cologne,Organic
+860,2024-03-06,Leipzig,Organic
+861,2025-03-14,Leipzig,Social
+862,2025-01-18,Munich,Paid Search
+863,2024-10-06,Cologne,Paid Search
+864,2025-12-16,Stuttgart,Organic
+865,2024-12-26,Hamburg,Social
+866,2024-10-30,Cologne,Paid Search
+867,2024-03-27,Leipzig,Organic
+868,2024-05-25,Berlin,Social
+869,2024-10-29,Munich,Social
+870,2024-05-28,Berlin,Social
+871,2024-07-06,Frankfurt,Referral
+872,2024-07-09,Frankfurt,Organic
+873,2025-08-01,Berlin,Organic
+874,2024-11-17,Hamburg,Paid Search
+875,2024-09-25,Hamburg,Referral
+876,2025-03-07,Berlin,Paid Search
+877,2025-03-09,Stuttgart,Social
+878,2024-07-01,Hamburg,Email
+879,2024-08-29,Berlin,Paid Search
+880,2025-10-13,Berlin,Organic
+881,2025-02-19,Munich,Paid Search
+882,2024-07-19,Berlin,Referral
+883,2025-04-13,Leipzig,Referral
+884,2024-08-26,Stuttgart,Organic
+885,2024-10-01,Stuttgart,Organic
+886,2024-05-28,Berlin,Social
+887,2024-07-20,Berlin,Email
+888,2025-12-05,Düsseldorf,Organic
+889,2025-10-17,Frankfurt,Email
+890,2024-11-11,Berlin,Social
+891,2024-12-11,Frankfurt,Organic
+892,2025-08-05,Stuttgart,Organic
+893,2025-05-07,Cologne,Paid Search
+894,2025-07-31,Cologne,Paid Search
+895,2024-06-25,Berlin,Referral
+896,2024-09-01,Berlin,Paid Search
+897,2025-12-03,Leipzig,Organic
+898,2025-10-07,Hamburg,Social
+899,2024-08-10,Leipzig,Referral
+900,2025-03-04,Munich,Organic
+901,2025-07-19,Cologne,Organic
+902,2025-11-04,Stuttgart,Paid Search
+903,2025-02-10,Hamburg,Social
+904,2025-03-13,Leipzig,Social
+905,2024-04-14,Leipzig,Social
+906,2025-06-20,Frankfurt,Organic
+907,2024-09-23,Leipzig,Paid Search
+908,2025-07-13,Stuttgart,Social
+909,2025-02-06,Cologne,Organic
+910,2024-06-12,Hamburg,Email
+911,2024-06-29,Düsseldorf,Organic
+912,2024-11-02,Stuttgart,Organic
+913,2025-12-11,Frankfurt,Organic
+914,2025-02-13,Hamburg,Referral
+915,2024-07-01,Berlin,Social
+916,2024-08-18,Munich,Referral
+917,2024-05-01,Stuttgart,Organic
+918,2024-12-30,Frankfurt,Organic
+919,2024-09-22,Berlin,Referral
+920,2025-12-04,Cologne,Referral
+921,2024-05-04,Munich,Organic
+922,2024-05-30,Cologne,Organic
+923,2024-06-07,Stuttgart,Email
+924,2025-07-04,Hamburg,Referral
+925,2025-05-01,Hamburg,Organic
+926,2024-02-11,Düsseldorf,Organic
+927,2025-09-14,Stuttgart,Organic
+928,2024-05-31,Berlin,Referral
+929,2024-07-10,Leipzig,Social
+930,2025-03-07,Leipzig,Paid Search
+931,2024-07-14,Munich,Organic
+932,2024-10-04,Munich,Paid Search
+933,2024-02-28,Cologne,Social
+934,2025-06-10,Düsseldorf,Paid Search
+935,2024-03-30,Munich,Organic
+936,2025-01-15,Cologne,Social
+937,2025-05-31,Berlin,Email
+938,2025-12-25,Stuttgart,Email
+939,2025-02-24,Stuttgart,Email
+940,2025-11-12,Leipzig,Paid Search
+941,2024-09-30,Cologne,Organic
+942,2024-02-21,Frankfurt,Email
+943,2024-03-27,Stuttgart,Referral
+944,2025-08-21,Munich,Referral
+945,2024-05-09,Frankfurt,Social
+946,2025-03-31,Berlin,Email
+947,2025-08-19,Leipzig,Referral
+948,2024-12-01,Munich,Email
+949,2024-07-17,Stuttgart,Social
+950,2025-11-13,Stuttgart,Organic
+951,2025-12-02,Cologne,Social
+952,2025-09-30,Düsseldorf,Email
+953,2025-04-06,Berlin,Organic
+954,2024-04-30,Cologne,Organic
+955,2024-02-08,Stuttgart,Paid Search
+956,2025-11-15,Munich,Organic
+957,2024-11-21,Stuttgart,Organic
+958,2024-03-29,Munich,Organic
+959,2025-08-25,Stuttgart,Email
+960,2025-12-09,Leipzig,Paid Search
+961,2025-05-03,Stuttgart,Paid Search
+962,2024-06-12,Leipzig,Organic
+963,2025-09-04,Stuttgart,Referral
+964,2024-07-15,Stuttgart,Referral
+965,2024-08-25,Munich,Social
+966,2024-12-18,Frankfurt,Social
+967,2024-06-04,Leipzig,Social
+968,2025-10-08,Berlin,Email
+969,2024-07-22,Cologne,Paid Search
+970,2025-06-06,Düsseldorf,Organic
+971,2024-06-16,Cologne,Social
+972,2024-11-25,Hamburg,Paid Search
+973,2025-09-22,Stuttgart,Social
+974,2025-02-02,Cologne,Organic
+975,2025-07-08,Hamburg,Paid Search
+976,2025-07-24,Düsseldorf,Organic
+977,2025-08-01,Leipzig,Referral
+978,2025-03-05,Leipzig,Paid Search
+979,2024-05-11,Cologne,Paid Search
+980,2024-07-05,Berlin,Organic
+981,2024-10-19,Hamburg,Paid Search
+982,2024-04-13,Leipzig,Organic
+983,2024-07-04,Hamburg,Organic
+984,2024-11-19,Düsseldorf,Referral
+985,2025-07-15,Munich,Paid Search
+986,2025-05-17,Berlin,Paid Search
+987,2024-05-11,Cologne,Organic
+988,2025-01-08,Frankfurt,Social
+989,2025-06-18,Hamburg,Organic
+990,2024-03-17,Düsseldorf,Social
+991,2024-06-28,Leipzig,Paid Search
+992,2024-04-27,Düsseldorf,Email
+993,2024-08-06,Munich,Organic
+994,2025-06-05,Düsseldorf,Referral
+995,2025-10-04,Leipzig,Paid Search
+996,2025-02-19,Frankfurt,Referral
+997,2024-05-01,Munich,Paid Search
+998,2024-12-13,Munich,Paid Search
+999,2025-02-02,Düsseldorf,Organic
+1000,2024-09-25,Berlin,Email
+1001,2024-06-25,Hamburg,Social
+1002,2024-04-25,Leipzig,Paid Search
+1003,2025-12-14,Berlin,Social
+1004,2025-10-02,Leipzig,Email
+1005,2025-12-12,Düsseldorf,Social
+1006,2025-04-25,Frankfurt,Organic
+1007,2024-04-18,Berlin,Referral
+1008,2025-03-11,Munich,Referral
+1009,2024-05-29,Munich,Email
+1010,2025-12-02,Cologne,Organic
+1011,2025-09-14,Leipzig,Organic
+1012,2024-04-18,Cologne,Social
+1013,2025-12-29,Frankfurt,Social
+1014,2024-11-06,Hamburg,Social
+1015,2024-04-26,Stuttgart,Social
+1016,2025-10-12,Berlin,Paid Search
+1017,2025-09-01,Leipzig,Social
+1018,2024-05-21,Hamburg,Organic
+1019,2025-11-19,Hamburg,Social
+1020,2025-09-01,Stuttgart,Referral
+1021,2025-10-24,Düsseldorf,Organic
+1022,2025-04-25,Munich,Paid Search
+1023,2024-10-04,Leipzig,Organic
+1024,2024-03-04,Stuttgart,Referral
+1025,2025-07-06,Düsseldorf,Organic
+1026,2025-11-17,Berlin,Referral
+1027,2024-11-19,Frankfurt,Email
+1028,2024-10-08,Hamburg,Paid Search
+1029,2025-12-15,Frankfurt,Organic
+1030,2025-12-16,Stuttgart,Paid Search
+1031,2024-09-29,Hamburg,Paid Search
+1032,2024-07-27,Leipzig,Organic
+1033,2025-08-05,Stuttgart,Email
+1034,2025-09-21,Munich,Paid Search
+1035,2024-04-04,Leipzig,Social
+1036,2024-06-12,Berlin,Referral
+1037,2024-07-15,Cologne,Referral
+1038,2025-09-30,Düsseldorf,Organic
+1039,2024-03-18,Cologne,Paid Search
+1040,2024-10-03,Leipzig,Email
+1041,2025-06-03,Berlin,Organic
+1042,2024-09-08,Düsseldorf,Paid Search
+1043,2024-07-18,Stuttgart,Referral
+1044,2024-11-24,Frankfurt,Email
+1045,2025-08-10,Frankfurt,Social
+1046,2024-02-19,Cologne,Organic
+1047,2025-10-12,Cologne,Social
+1048,2024-09-29,Berlin,Paid Search
+1049,2025-10-16,Berlin,Referral
+1050,2025-02-21,Munich,Organic
+1051,2025-05-13,Frankfurt,Organic
+1052,2025-05-17,Frankfurt,Referral
+1053,2025-01-18,Stuttgart,Paid Search
+1054,2025-02-11,Frankfurt,Organic
+1055,2025-06-28,Leipzig,Email
+1056,2025-05-02,Stuttgart,Organic
+1057,2025-04-18,Frankfurt,Social
+1058,2024-10-21,Hamburg,Organic
+1059,2024-11-18,Stuttgart,Organic
+1060,2025-10-14,Frankfurt,Organic
+1061,2024-07-27,Cologne,Paid Search
+1062,2025-11-05,Leipzig,Email
+1063,2025-06-18,Berlin,Social
+1064,2025-06-15,Frankfurt,Referral
+1065,2025-11-09,Berlin,Paid Search
+1066,2025-05-02,Cologne,Referral
+1067,2024-11-23,Düsseldorf,Social
+1068,2025-11-09,Frankfurt,Social
+1069,2025-10-05,Munich,Email
+1070,2024-10-18,Frankfurt,Paid Search
+1071,2025-07-27,Munich,Social
+1072,2025-12-01,Hamburg,Referral
+1073,2024-08-24,Frankfurt,Organic
+1074,2025-01-16,Stuttgart,Referral
+1075,2024-09-23,Hamburg,Organic
+1076,2025-02-18,Hamburg,Referral
+1077,2025-02-19,Hamburg,Organic
+1078,2025-10-18,Frankfurt,Paid Search
+1079,2025-01-11,Munich,Referral
+1080,2024-06-13,Leipzig,Organic
+1081,2025-12-23,Düsseldorf,Referral
+1082,2024-06-18,Munich,Referral
+1083,2025-08-28,Munich,Paid Search
+1084,2024-11-01,Düsseldorf,Organic
+1085,2024-10-03,Munich,Email
+1086,2025-04-27,Hamburg,Organic
+1087,2024-06-06,Leipzig,Paid Search
+1088,2025-01-04,Leipzig,Referral
+1089,2024-01-14,Stuttgart,Paid Search
+1090,2025-12-03,Cologne,Referral
+1091,2024-02-05,Cologne,Organic
+1092,2024-08-27,Frankfurt,Referral
+1093,2024-06-06,Frankfurt,Paid Search
+1094,2024-07-09,Frankfurt,Email
+1095,2025-12-02,Stuttgart,Paid Search
+1096,2025-01-25,Munich,Social
+1097,2024-11-22,Stuttgart,Referral
+1098,2025-08-11,Leipzig,Organic
+1099,2024-02-07,Munich,Organic
+1100,2024-08-15,Munich,Organic
+1101,2024-05-31,Berlin,Social
+1102,2024-12-15,Berlin,Social
+1103,2025-05-08,Hamburg,Organic
+1104,2025-06-14,Hamburg,Organic
+1105,2025-01-13,Frankfurt,Paid Search
+1106,2025-02-21,Berlin,Organic
+1107,2024-10-23,Frankfurt,Social
+1108,2025-05-26,Leipzig,Social
+1109,2025-09-27,Hamburg,Organic
+1110,2024-10-10,Düsseldorf,Email
+1111,2024-08-05,Frankfurt,Organic
+1112,2025-09-27,Stuttgart,Referral
+1113,2025-07-14,Berlin,Organic
+1114,2025-04-10,Düsseldorf,Referral
+1115,2024-11-14,Hamburg,Organic
+1116,2025-11-09,Düsseldorf,Email
+1117,2024-06-24,Hamburg,Organic
+1118,2025-07-26,Frankfurt,Organic
+1119,2025-06-08,Frankfurt,Paid Search
+1120,2024-09-25,Munich,Organic
+1121,2025-10-21,Stuttgart,Referral
+1122,2025-09-10,Hamburg,Paid Search
+1123,2024-05-04,Berlin,Email
+1124,2024-01-23,Munich,Organic
+1125,2024-11-12,Frankfurt,Referral
+1126,2025-10-24,Stuttgart,Organic
+1127,2024-07-23,Düsseldorf,Paid Search
+1128,2024-10-01,Düsseldorf,Paid Search
+1129,2025-09-09,Munich,Social
+1130,2024-05-22,Berlin,Social
+1131,2025-12-20,Hamburg,Email
+1132,2025-01-13,Düsseldorf,Social
+1133,2024-07-21,Stuttgart,Paid Search
+1134,2025-05-19,Munich,Referral
+1135,2025-02-26,Leipzig,Paid Search
+1136,2025-01-29,Stuttgart,Organic
+1137,2024-01-28,Cologne,Referral
+1138,2025-12-18,Stuttgart,Social
+1139,2025-03-22,Hamburg,Social
+1140,2025-01-24,Düsseldorf,Social
+1141,2024-11-25,Leipzig,Social
+1142,2024-06-23,Berlin,Email
+1143,2024-01-26,Düsseldorf,Referral
+1144,2025-10-09,Hamburg,Referral
+1145,2025-08-12,Stuttgart,Paid Search
+1146,2025-12-14,Cologne,Organic
+1147,2025-04-11,Cologne,Paid Search
+1148,2024-04-18,Düsseldorf,Paid Search
+1149,2024-04-27,Stuttgart,Paid Search
+1150,2024-05-27,Berlin,Paid Search
+1151,2024-05-12,Berlin,Paid Search
+1152,2025-09-24,Frankfurt,Email
+1153,2025-10-30,Düsseldorf,Social
+1154,2025-12-03,Berlin,Paid Search
+1155,2025-09-19,Stuttgart,Email
+1156,2025-04-17,Düsseldorf,Social
+1157,2025-07-22,Düsseldorf,Paid Search
+1158,2024-05-23,Cologne,Email
+1159,2024-01-08,Frankfurt,Paid Search
+1160,2025-04-09,Hamburg,Paid Search
+1161,2024-03-13,Munich,Organic
+1162,2025-09-22,Leipzig,Social
+1163,2024-05-16,Cologne,Social
+1164,2024-05-29,Cologne,Referral
+1165,2025-02-09,Stuttgart,Email
+1166,2024-05-17,Hamburg,Paid Search
+1167,2025-08-24,Munich,Paid Search
+1168,2025-12-11,Berlin,Organic
+1169,2025-04-13,Düsseldorf,Paid Search
+1170,2025-11-19,Munich,Email
+1171,2025-07-07,Munich,Organic
+1172,2024-05-13,Stuttgart,Social
+1173,2025-03-12,Cologne,Paid Search
+1174,2024-10-03,Frankfurt,Referral
+1175,2025-02-06,Leipzig,Organic
+1176,2025-05-14,Frankfurt,Referral
+1177,2025-10-04,Stuttgart,Paid Search
+1178,2025-07-19,Cologne,Referral
+1179,2024-08-07,Frankfurt,Social
+1180,2025-07-04,Munich,Referral
+1181,2025-12-20,Munich,Social
+1182,2025-03-12,Stuttgart,Social
+1183,2025-07-18,Düsseldorf,Email
+1184,2025-05-01,Leipzig,Referral
+1185,2025-06-27,Frankfurt,Referral
+1186,2025-10-23,Berlin,Paid Search
+1187,2025-03-24,Munich,Organic
+1188,2024-03-21,Frankfurt,Organic
+1189,2025-08-11,Frankfurt,Organic
+1190,2025-07-02,Berlin,Organic
+1191,2025-07-07,Berlin,Organic
+1192,2024-12-04,Cologne,Paid Search
+1193,2025-08-06,Cologne,Social
+1194,2025-03-17,Frankfurt,Email
+1195,2025-07-08,Leipzig,Organic
+1196,2024-12-24,Stuttgart,Referral
+1197,2025-12-12,Frankfurt,Organic
+1198,2024-08-08,Düsseldorf,Referral
+1199,2025-09-26,Stuttgart,Referral
+1200,2025-08-14,Cologne,Paid Search
+1201,2025-08-26,Frankfurt,Referral
+1202,2025-02-04,Hamburg,Referral
+1203,2024-07-26,Hamburg,Organic
+1204,2024-12-17,Frankfurt,Paid Search
+1205,2024-06-07,Frankfurt,Social
+1206,2024-01-16,Munich,Paid Search
+1207,2024-03-06,Berlin,Referral
+1208,2025-08-25,Frankfurt,Social
+1209,2025-03-03,Stuttgart,Social
+1210,2024-04-12,Cologne,Social
+1211,2025-12-07,Munich,Paid Search
+1212,2025-01-13,Hamburg,Paid Search
+1213,2024-11-27,Stuttgart,Referral
+1214,2024-11-14,Düsseldorf,Organic
+1215,2025-12-29,Berlin,Email
+1216,2024-05-23,Cologne,Paid Search
+1217,2025-11-08,Cologne,Social
+1218,2025-12-08,Stuttgart,Social
+1219,2024-12-20,Hamburg,Email
+1220,2024-12-23,Frankfurt,Paid Search
+1221,2024-02-15,Stuttgart,Paid Search
+1222,2025-03-19,Düsseldorf,Paid Search
+1223,2024-03-10,Cologne,Referral
+1224,2024-11-06,Hamburg,Organic
+1225,2024-07-10,Berlin,Referral
+1226,2025-05-29,Cologne,Organic
+1227,2025-10-16,Hamburg,Paid Search
+1228,2024-08-10,Leipzig,Email
+1229,2025-06-10,Munich,Referral
+1230,2024-02-14,Berlin,Social
+1231,2024-04-27,Frankfurt,Organic
+1232,2025-04-16,Cologne,Social
+1233,2025-11-11,Düsseldorf,Paid Search
+1234,2025-05-31,Berlin,Paid Search
+1235,2024-12-25,Berlin,Organic
+1236,2025-06-07,Berlin,Social
+1237,2025-07-13,Hamburg,Organic
+1238,2024-10-15,Hamburg,Social
+1239,2024-10-09,Leipzig,Referral
+1240,2024-12-29,Düsseldorf,Social
+1241,2024-06-30,Leipzig,Organic
+1242,2025-09-07,Frankfurt,Email
+1243,2025-12-09,Stuttgart,Organic
+1244,2025-12-07,Munich,Organic
+1245,2024-05-31,Leipzig,Organic
+1246,2025-04-03,Frankfurt,Referral
+1247,2024-08-14,Stuttgart,Social
+1248,2024-08-15,Munich,Referral
+1249,2024-07-04,Frankfurt,Organic
+1250,2024-08-01,Berlin,Organic
+1251,2025-10-09,Düsseldorf,Referral
+1252,2025-06-09,Hamburg,Organic
+1253,2024-09-15,Düsseldorf,Organic
+1254,2025-12-04,Cologne,Paid Search
+1255,2024-05-09,Cologne,Social
+1256,2024-11-04,Frankfurt,Paid Search
+1257,2025-07-08,Stuttgart,Organic
+1258,2025-09-13,Munich,Referral
+1259,2024-01-14,Cologne,Organic
+1260,2025-07-19,Frankfurt,Social
+1261,2025-10-02,Stuttgart,Organic
+1262,2025-10-24,Stuttgart,Paid Search
+1263,2025-08-25,Hamburg,Paid Search
+1264,2024-07-17,Frankfurt,Social
+1265,2025-10-13,Cologne,Organic
+1266,2024-09-25,Hamburg,Referral
+1267,2025-07-28,Berlin,Referral
+1268,2025-09-16,Cologne,Social
+1269,2025-11-09,Düsseldorf,Social
+1270,2025-06-14,Leipzig,Organic
+1271,2024-08-25,Frankfurt,Email
+1272,2024-06-10,Hamburg,Paid Search
+1273,2024-12-30,Cologne,Paid Search
+1274,2025-10-07,Munich,Email
+1275,2025-08-15,Munich,Organic
+1276,2024-07-20,Munich,Referral
+1277,2025-08-03,Stuttgart,Paid Search
+1278,2024-03-06,Cologne,Email
+1279,2024-04-01,Berlin,Paid Search
+1280,2025-06-23,Stuttgart,Paid Search
+1281,2024-12-24,Berlin,Referral
+1282,2024-03-06,Hamburg,Social
+1283,2025-07-14,Frankfurt,Paid Search
+1284,2025-09-29,Munich,Organic
+1285,2024-12-16,Hamburg,Paid Search
+1286,2025-03-20,Cologne,Paid Search
+1287,2025-03-20,Stuttgart,Paid Search
+1288,2025-03-01,Berlin,Paid Search
+1289,2025-03-11,Munich,Organic
+1290,2024-08-30,Frankfurt,Paid Search
+1291,2024-08-15,Stuttgart,Organic
+1292,2025-05-13,Cologne,Email
+1293,2025-01-12,Hamburg,Paid Search
+1294,2025-02-25,Cologne,Paid Search
+1295,2025-05-06,Leipzig,Social
+1296,2024-02-12,Munich,Organic
+1297,2024-06-11,Munich,Paid Search
+1298,2024-03-24,Munich,Organic
+1299,2025-03-20,Berlin,Paid Search
+1300,2025-10-24,Frankfurt,Social
+1301,2025-12-01,Düsseldorf,Organic
+1302,2025-10-18,Leipzig,Organic
+1303,2025-05-13,Munich,Email
+1304,2025-05-27,Munich,Paid Search
+1305,2025-07-27,Düsseldorf,Paid Search
+1306,2025-05-10,Leipzig,Organic
+1307,2024-12-23,Cologne,Organic
+1308,2025-03-24,Leipzig,Referral
+1309,2025-09-24,Munich,Social
+1310,2025-02-22,Berlin,Social
+1311,2025-10-23,Hamburg,Paid Search
+1312,2024-05-03,Berlin,Social
+1313,2025-11-03,Leipzig,Email
+1314,2025-03-24,Berlin,Paid Search
+1315,2025-07-11,Düsseldorf,Paid Search
+1316,2025-09-03,Hamburg,Paid Search
+1317,2025-01-19,Cologne,Organic
+1318,2025-11-11,Leipzig,Organic
+1319,2024-09-21,Berlin,Organic
+1320,2025-04-28,Berlin,Organic
+1321,2024-12-15,Stuttgart,Organic
+1322,2025-01-08,Leipzig,Organic
+1323,2025-06-13,Leipzig,Organic
+1324,2025-04-20,Leipzig,Social
+1325,2025-08-14,Düsseldorf,Paid Search
+1326,2024-07-19,Düsseldorf,Social
+1327,2024-09-18,Stuttgart,Paid Search
+1328,2025-08-25,Munich,Paid Search
+1329,2025-10-11,Cologne,Social
+1330,2025-02-02,Munich,Social
+1331,2024-05-10,Stuttgart,Paid Search
+1332,2025-09-09,Berlin,Social
+1333,2024-07-04,Berlin,Referral
+1334,2025-09-12,Düsseldorf,Email
+1335,2025-11-20,Hamburg,Paid Search
+1336,2024-09-25,Berlin,Paid Search
+1337,2025-07-27,Leipzig,Referral
+1338,2025-05-21,Berlin,Paid Search
+1339,2025-12-01,Düsseldorf,Email
+1340,2025-01-28,Frankfurt,Organic
+1341,2024-08-02,Cologne,Email
+1342,2025-05-22,Stuttgart,Social
+1343,2024-09-06,Munich,Organic
+1344,2024-04-26,Leipzig,Organic
+1345,2024-11-30,Cologne,Paid Search
+1346,2025-03-21,Hamburg,Social
+1347,2025-11-16,Stuttgart,Paid Search
+1348,2024-11-26,Cologne,Email
+1349,2025-05-16,Leipzig,Organic
+1350,2025-04-26,Leipzig,Organic
+1351,2025-03-14,Frankfurt,Social
+1352,2024-11-21,Frankfurt,Organic
+1353,2025-10-23,Frankfurt,Email
+1354,2025-07-09,Düsseldorf,Referral
+1355,2025-08-23,Düsseldorf,Email
+1356,2025-07-01,Berlin,Referral
+1357,2025-02-26,Leipzig,Organic
+1358,2025-06-02,Cologne,Referral
+1359,2025-09-09,Stuttgart,Paid Search
+1360,2025-03-20,Frankfurt,Organic
+1361,2024-09-13,Stuttgart,Organic
+1362,2024-04-15,Düsseldorf,Referral
+1363,2024-11-02,Frankfurt,Organic
+1364,2024-07-23,Cologne,Social
+1365,2025-03-09,Cologne,Organic
+1366,2025-10-21,Cologne,Organic
+1367,2025-09-29,Stuttgart,Email
+1368,2024-06-30,Hamburg,Organic
+1369,2025-06-28,Berlin,Social
+1370,2025-08-19,Berlin,Paid Search
+1371,2025-10-07,Stuttgart,Paid Search
+1372,2025-03-05,Frankfurt,Referral
+1373,2025-03-04,Frankfurt,Referral
+1374,2024-12-31,Munich,Email
+1375,2024-03-22,Düsseldorf,Email
+1376,2025-11-27,Stuttgart,Organic
+1377,2024-12-28,Munich,Social
+1378,2025-02-09,Düsseldorf,Organic
+1379,2024-11-03,Cologne,Organic
+1380,2024-12-18,Stuttgart,Organic
+1381,2025-05-20,Frankfurt,Organic
+1382,2024-09-05,Stuttgart,Paid Search
+1383,2024-12-09,Cologne,Paid Search
+1384,2025-01-15,Stuttgart,Email
+1385,2025-10-10,Munich,Organic
+1386,2025-04-24,Cologne,Referral
+1387,2025-09-17,Cologne,Social
+1388,2025-04-14,Cologne,Referral
+1389,2024-06-21,Munich,Referral
+1390,2025-02-20,Leipzig,Organic
+1391,2025-03-09,Stuttgart,Referral
+1392,2025-08-31,Berlin,Paid Search
+1393,2025-01-01,Berlin,Social
+1394,2024-08-18,Hamburg,Organic
+1395,2025-02-04,Stuttgart,Paid Search
+1396,2024-12-05,Frankfurt,Social
+1397,2024-11-24,Stuttgart,Paid Search
+1398,2025-10-18,Cologne,Referral
+1399,2025-04-28,Munich,Social
+1400,2025-12-19,Stuttgart,Organic
+1401,2025-06-26,Düsseldorf,Paid Search
+1402,2025-10-30,Frankfurt,Paid Search
+1403,2025-02-14,Munich,Referral
+1404,2025-06-06,Leipzig,Referral
+1405,2025-05-31,Hamburg,Social
+1406,2024-04-18,Stuttgart,Paid Search
+1407,2024-11-04,Frankfurt,Organic
+1408,2025-05-16,Düsseldorf,Paid Search
+1409,2025-08-29,Düsseldorf,Referral
+1410,2025-01-11,Berlin,Organic
+1411,2024-06-02,Frankfurt,Organic
+1412,2025-11-28,Hamburg,Social
+1413,2024-08-14,Hamburg,Paid Search
+1414,2024-04-02,Berlin,Referral
+1415,2024-02-17,Hamburg,Paid Search
+1416,2024-05-13,Hamburg,Social
+1417,2025-06-15,Frankfurt,Referral
+1418,2024-08-29,Düsseldorf,Social
+1419,2025-05-29,Munich,Organic
+1420,2024-02-20,Stuttgart,Social
+1421,2025-10-16,Frankfurt,Paid Search
+1422,2025-04-10,Munich,Organic
+1423,2025-05-06,Leipzig,Paid Search
+1424,2025-03-25,Frankfurt,Social
+1425,2025-11-10,Cologne,Paid Search
+1426,2025-09-12,Stuttgart,Paid Search
+1427,2025-01-10,Berlin,Organic
+1428,2024-01-01,Munich,Email
+1429,2024-11-23,Berlin,Paid Search
+1430,2025-07-05,Düsseldorf,Paid Search
+1431,2024-10-22,Frankfurt,Email
+1432,2025-05-10,Stuttgart,Email
+1433,2024-07-27,Leipzig,Referral
+1434,2024-12-29,Leipzig,Organic
+1435,2025-09-25,Hamburg,Organic
+1436,2025-01-17,Frankfurt,Organic
+1437,2024-10-11,Frankfurt,Social
+1438,2025-01-11,Munich,Referral
+1439,2024-06-13,Düsseldorf,Organic
+1440,2025-05-23,Düsseldorf,Organic
+1441,2024-07-27,Berlin,Organic
+1442,2025-12-14,Hamburg,Organic
+1443,2024-10-09,Düsseldorf,Organic
+1444,2025-07-28,Munich,Organic
+1445,2024-01-31,Leipzig,Organic
+1446,2024-10-31,Stuttgart,Email
+1447,2025-02-14,Stuttgart,Email
+1448,2024-04-20,Munich,Email
+1449,2024-03-25,Hamburg,Email
+1450,2025-04-06,Frankfurt,Organic
+1451,2025-09-19,Hamburg,Email
+1452,2025-12-17,Leipzig,Social
+1453,2025-08-23,Berlin,Paid Search
+1454,2024-08-05,Hamburg,Social
+1455,2025-03-23,Düsseldorf,Referral
+1456,2024-12-25,Stuttgart,Referral
+1457,2024-07-02,Hamburg,Social
+1458,2024-09-17,Cologne,Social
+1459,2024-12-05,Cologne,Organic
+1460,2025-12-16,Leipzig,Organic
+1461,2024-11-09,Frankfurt,Organic
+1462,2025-05-03,Cologne,Paid Search
+1463,2024-01-22,Düsseldorf,Organic
+1464,2025-07-05,Hamburg,Organic
+1465,2024-09-14,Stuttgart,Paid Search
+1466,2025-11-22,Berlin,Referral
+1467,2024-03-29,Hamburg,Social
+1468,2024-06-03,Stuttgart,Organic
+1469,2025-09-12,Cologne,Paid Search
+1470,2024-02-10,Munich,Paid Search
+1471,2024-09-15,Düsseldorf,Organic
+1472,2025-04-16,Düsseldorf,Paid Search
+1473,2024-07-28,Stuttgart,Organic
+1474,2024-11-09,Munich,Paid Search
+1475,2024-04-08,Frankfurt,Organic
+1476,2025-09-20,Düsseldorf,Paid Search
+1477,2024-01-04,Leipzig,Social
+1478,2025-08-01,Stuttgart,Referral
+1479,2025-08-26,Hamburg,Organic
+1480,2025-06-17,Leipzig,Paid Search
+1481,2024-07-28,Munich,Social
+1482,2025-05-20,Stuttgart,Paid Search
+1483,2024-05-19,Hamburg,Paid Search
+1484,2024-03-10,Munich,Referral
+1485,2025-10-21,Düsseldorf,Organic
+1486,2024-07-30,Leipzig,Organic
+1487,2025-06-17,Frankfurt,Paid Search
+1488,2024-03-17,Hamburg,Organic
+1489,2024-01-29,Düsseldorf,Referral
+1490,2025-11-21,Düsseldorf,Email
+1491,2025-09-10,Leipzig,Organic
+1492,2025-09-22,Berlin,Email
+1493,2025-09-23,Berlin,Organic
+1494,2025-08-02,Hamburg,Email
+1495,2025-11-30,Hamburg,Referral
+1496,2024-05-11,Leipzig,Organic
+1497,2024-07-28,Cologne,Paid Search
+1498,2025-04-23,Leipzig,Referral
+1499,2025-08-09,Stuttgart,Email
+1500,2025-06-27,Leipzig,Social
+1501,2025-10-26,Munich,Organic
+1502,2025-04-11,Munich,Paid Search
+1503,2025-03-31,Stuttgart,Social
+1504,2025-11-06,Stuttgart,Social
+1505,2025-10-05,Leipzig,Paid Search
+1506,2025-09-24,Cologne,Paid Search
+1507,2025-04-19,Frankfurt,Organic
+1508,2024-12-05,Leipzig,Paid Search
+1509,2024-01-02,Frankfurt,Organic
+1510,2025-05-10,Frankfurt,Paid Search
+1511,2024-01-17,Cologne,Referral
+1512,2025-10-11,Frankfurt,Organic
+1513,2025-11-16,Munich,Paid Search
+1514,2024-05-04,Munich,Paid Search
+1515,2024-06-14,Cologne,Paid Search
+1516,2024-09-01,Hamburg,Email
+1517,2025-04-24,Cologne,Social
+1518,2025-08-02,Düsseldorf,Social
+1519,2024-07-14,Hamburg,Email
+1520,2025-05-09,Leipzig,Paid Search
+1521,2024-04-18,Stuttgart,Organic
+1522,2024-11-26,Leipzig,Email
+1523,2025-11-22,Cologne,Organic
+1524,2025-08-09,Berlin,Email
+1525,2025-06-02,Berlin,Social
+1526,2024-10-26,Munich,Organic
+1527,2024-11-11,Munich,Social
+1528,2024-03-18,Leipzig,Social
+1529,2025-12-15,Hamburg,Email
+1530,2024-08-24,Leipzig,Organic
+1531,2024-06-23,Düsseldorf,Paid Search
+1532,2025-04-24,Leipzig,Organic
+1533,2024-09-24,Leipzig,Paid Search
+1534,2025-08-25,Munich,Organic
+1535,2025-02-25,Leipzig,Organic
+1536,2025-06-13,Cologne,Organic
+1537,2024-09-09,Leipzig,Organic
+1538,2024-11-09,Hamburg,Referral
+1539,2024-05-21,Stuttgart,Paid Search
+1540,2024-11-26,Berlin,Paid Search
+1541,2025-08-22,Stuttgart,Organic
+1542,2025-05-22,Düsseldorf,Referral
+1543,2025-05-27,Cologne,Paid Search
+1544,2024-08-06,Hamburg,Paid Search
+1545,2024-05-21,Munich,Organic
+1546,2025-10-18,Berlin,Email
+1547,2024-11-23,Frankfurt,Email
+1548,2025-02-05,Cologne,Organic
+1549,2025-08-05,Frankfurt,Organic
+1550,2025-04-10,Munich,Social
+1551,2025-07-09,Leipzig,Social
+1552,2025-05-02,Berlin,Social
+1553,2024-09-19,Cologne,Organic
+1554,2025-09-03,Berlin,Social
+1555,2025-02-15,Hamburg,Referral
+1556,2024-12-25,Stuttgart,Organic
+1557,2025-10-16,Leipzig,Organic
+1558,2024-08-31,Hamburg,Paid Search
+1559,2025-11-07,Hamburg,Paid Search
+1560,2024-07-26,Düsseldorf,Paid Search
+1561,2025-04-18,Berlin,Social
+1562,2024-09-13,Stuttgart,Paid Search
+1563,2025-03-03,Berlin,Social
+1564,2024-11-25,Frankfurt,Paid Search
+1565,2024-09-04,Frankfurt,Referral
+1566,2025-09-16,Leipzig,Social
+1567,2025-10-31,Berlin,Email
+1568,2025-11-30,Cologne,Referral
+1569,2024-06-26,Munich,Referral
+1570,2024-04-27,Cologne,Paid Search
+1571,2025-01-14,Leipzig,Social
+1572,2025-12-14,Stuttgart,Referral
+1573,2025-02-04,Munich,Organic
+1574,2025-04-30,Cologne,Social
+1575,2025-10-15,Munich,Paid Search
+1576,2025-01-22,Munich,Referral
+1577,2025-06-16,Munich,Social
+1578,2024-11-04,Hamburg,Social
+1579,2024-07-24,Munich,Email
+1580,2025-07-28,Leipzig,Email
+1581,2025-12-09,Frankfurt,Paid Search
+1582,2024-06-26,Munich,Organic
+1583,2024-07-24,Frankfurt,Email
+1584,2025-05-16,Cologne,Social
+1585,2024-08-31,Hamburg,Organic
+1586,2025-07-05,Düsseldorf,Paid Search
+1587,2025-07-19,Leipzig,Paid Search
+1588,2025-03-04,Cologne,Organic
+1589,2024-08-27,Berlin,Paid Search
+1590,2025-11-19,Cologne,Referral
+1591,2025-08-06,Cologne,Referral
+1592,2024-04-05,Düsseldorf,Referral
+1593,2025-10-17,Stuttgart,Paid Search
+1594,2025-10-17,Leipzig,Referral
+1595,2025-01-05,Leipzig,Organic
+1596,2025-07-24,Berlin,Paid Search
+1597,2025-03-23,Berlin,Paid Search
+1598,2025-10-24,Leipzig,Organic
+1599,2025-12-22,Leipzig,Organic
+1600,2025-03-20,Berlin,Social
+1601,2024-07-28,Frankfurt,Paid Search
+1602,2025-08-25,Munich,Organic
+1603,2025-01-17,Berlin,Social
+1604,2025-07-06,Düsseldorf,Referral
+1605,2025-09-26,Hamburg,Paid Search
+1606,2024-07-20,Munich,Social
+1607,2024-12-28,Berlin,Paid Search
+1608,2024-07-19,Cologne,Social
+1609,2025-10-26,Stuttgart,Organic
+1610,2025-07-07,Munich,Referral
+1611,2025-07-23,Hamburg,Organic
+1612,2025-07-16,Hamburg,Social
+1613,2025-03-25,Munich,Paid Search
+1614,2024-12-18,Munich,Paid Search
+1615,2025-11-12,Munich,Social
+1616,2024-07-05,Berlin,Organic
+1617,2025-01-15,Düsseldorf,Paid Search
+1618,2024-10-14,Munich,Organic
+1619,2025-12-09,Frankfurt,Organic
+1620,2024-01-27,Düsseldorf,Paid Search
+1621,2025-04-07,Düsseldorf,Organic
+1622,2024-09-05,Düsseldorf,Social
+1623,2025-02-07,Berlin,Paid Search
+1624,2024-09-10,Cologne,Paid Search
+1625,2024-03-16,Stuttgart,Organic
+1626,2024-03-02,Frankfurt,Referral
+1627,2024-11-14,Hamburg,Organic
+1628,2025-01-13,Frankfurt,Organic
+1629,2025-05-19,Munich,Social
+1630,2025-12-12,Stuttgart,Social
+1631,2025-11-23,Frankfurt,Organic
+1632,2024-11-08,Hamburg,Referral
+1633,2025-08-16,Hamburg,Email
+1634,2024-10-17,Frankfurt,Organic
+1635,2024-11-13,Cologne,Paid Search
+1636,2025-07-10,Hamburg,Social
+1637,2025-04-24,Hamburg,Referral
+1638,2025-02-27,Frankfurt,Social
+1639,2025-01-20,Frankfurt,Email
+1640,2025-03-26,Stuttgart,Referral
+1641,2025-11-20,Düsseldorf,Social
+1642,2025-03-22,Düsseldorf,Social
+1643,2025-09-14,Cologne,Referral
+1644,2025-07-17,Berlin,Referral
+1645,2024-05-27,Hamburg,Paid Search
+1646,2025-08-03,Leipzig,Organic
+1647,2025-01-11,Cologne,Paid Search
+1648,2024-01-26,Frankfurt,Organic
+1649,2024-09-18,Frankfurt,Organic
+1650,2025-03-14,Berlin,Paid Search
+1651,2024-05-23,Leipzig,Paid Search
+1652,2025-07-27,Berlin,Social
+1653,2025-09-27,Stuttgart,Organic
+1654,2025-11-18,Düsseldorf,Paid Search
+1655,2025-09-07,Düsseldorf,Social
+1656,2024-06-29,Stuttgart,Paid Search
+1657,2025-02-13,Berlin,Email
+1658,2025-09-29,Stuttgart,Organic
+1659,2025-04-14,Stuttgart,Organic
+1660,2025-09-09,Stuttgart,Referral
+1661,2024-04-05,Berlin,Organic
+1662,2024-11-20,Munich,Paid Search
+1663,2025-04-24,Hamburg,Paid Search
+1664,2025-10-16,Stuttgart,Email
+1665,2025-07-18,Hamburg,Organic
+1666,2025-03-08,Düsseldorf,Organic
+1667,2025-09-26,Frankfurt,Paid Search
+1668,2024-07-16,Berlin,Paid Search
+1669,2025-08-27,Düsseldorf,Referral
+1670,2025-03-13,Munich,Email
+1671,2024-07-29,Frankfurt,Referral
+1672,2025-08-26,Hamburg,Organic
+1673,2025-09-22,Munich,Referral
+1674,2024-08-10,Leipzig,Organic
+1675,2025-07-20,Berlin,Paid Search
+1676,2024-10-31,Hamburg,Organic
+1677,2024-11-16,Hamburg,Referral
+1678,2025-03-23,Frankfurt,Social
+1679,2024-02-12,Cologne,Email
+1680,2024-11-07,Frankfurt,Organic
+1681,2025-03-30,Hamburg,Email
+1682,2024-10-02,Hamburg,Organic
+1683,2024-02-01,Hamburg,Social
+1684,2024-08-11,Stuttgart,Paid Search
+1685,2024-10-01,Frankfurt,Referral
+1686,2025-04-26,Frankfurt,Organic
+1687,2025-05-20,Düsseldorf,Paid Search
+1688,2024-03-19,Berlin,Organic
+1689,2024-05-15,Leipzig,Organic
+1690,2024-12-27,Düsseldorf,Social
+1691,2025-05-22,Cologne,Paid Search
+1692,2025-07-20,Hamburg,Social
+1693,2025-12-16,Düsseldorf,Email
+1694,2025-04-22,Düsseldorf,Organic
+1695,2024-05-07,Düsseldorf,Paid Search
+1696,2025-02-18,Munich,Referral
+1697,2025-10-14,Stuttgart,Social
+1698,2024-12-27,Stuttgart,Social
+1699,2025-09-02,Düsseldorf,Referral
+1700,2025-03-01,Hamburg,Organic
+1701,2024-11-29,Munich,Paid Search
+1702,2024-10-09,Munich,Paid Search
+1703,2025-03-15,Hamburg,Paid Search
+1704,2024-11-10,Frankfurt,Social
+1705,2025-03-31,Leipzig,Paid Search
+1706,2024-09-06,Munich,Organic
+1707,2025-12-16,Stuttgart,Paid Search
+1708,2024-08-13,Leipzig,Social
+1709,2025-08-31,Stuttgart,Paid Search
+1710,2025-04-07,Hamburg,Organic
+1711,2025-08-05,Düsseldorf,Social
+1712,2024-05-23,Stuttgart,Social
+1713,2025-04-14,Munich,Email
+1714,2024-10-28,Hamburg,Paid Search
+1715,2025-07-03,Leipzig,Social
+1716,2024-11-11,Berlin,Social
+1717,2024-04-30,Berlin,Email
+1718,2025-08-15,Düsseldorf,Social
+1719,2025-03-30,Düsseldorf,Paid Search
+1720,2024-08-02,Stuttgart,Social
+1721,2024-10-22,Frankfurt,Email
+1722,2025-11-15,Stuttgart,Referral
+1723,2025-12-25,Leipzig,Social
+1724,2025-10-06,Berlin,Referral
+1725,2024-12-11,Berlin,Paid Search
+1726,2024-01-04,Stuttgart,Social
+1727,2024-05-19,Berlin,Organic
+1728,2024-09-03,Leipzig,Social
+1729,2025-05-28,Leipzig,Social
+1730,2024-12-20,Munich,Paid Search
+1731,2025-02-21,Leipzig,Organic
+1732,2025-10-04,Leipzig,Paid Search
+1733,2024-06-28,Munich,Referral
+1734,2024-06-10,Berlin,Organic
+1735,2024-06-19,Leipzig,Referral
+1736,2025-12-17,Munich,Organic
+1737,2025-06-07,Düsseldorf,Paid Search
+1738,2025-11-01,Leipzig,Social
+1739,2025-05-27,Leipzig,Paid Search
+1740,2025-04-12,Stuttgart,Paid Search
+1741,2024-08-27,Berlin,Paid Search
+1742,2025-04-28,Cologne,Email
+1743,2025-07-19,Stuttgart,Organic
+1744,2024-02-27,Düsseldorf,Organic
+1745,2025-07-15,Düsseldorf,Organic
+1746,2025-12-09,Frankfurt,Organic
+1747,2025-02-15,Hamburg,Organic
+1748,2024-09-11,Hamburg,Social
+1749,2025-07-03,Frankfurt,Paid Search
+1750,2025-05-20,Berlin,Referral
+1751,2025-02-17,Düsseldorf,Paid Search
+1752,2025-04-26,Stuttgart,Paid Search
+1753,2025-12-09,Frankfurt,Email
+1754,2024-07-10,Frankfurt,Social
+1755,2025-07-28,Berlin,Social
+1756,2025-05-30,Berlin,Social
+1757,2025-06-16,Berlin,Organic
+1758,2024-10-13,Hamburg,Organic
+1759,2025-10-09,Munich,Organic
+1760,2025-05-22,Frankfurt,Organic
+1761,2024-01-31,Munich,Organic
+1762,2025-11-11,Düsseldorf,Social
+1763,2024-12-12,Cologne,Organic
+1764,2025-02-28,Berlin,Email
+1765,2024-11-23,Munich,Organic
+1766,2025-05-09,Düsseldorf,Email
+1767,2025-08-12,Leipzig,Paid Search
+1768,2024-09-05,Munich,Paid Search
+1769,2024-08-15,Stuttgart,Social
+1770,2024-03-23,Hamburg,Organic
+1771,2024-03-21,Düsseldorf,Paid Search
+1772,2024-10-23,Cologne,Social
+1773,2024-12-19,Düsseldorf,Social
+1774,2024-09-24,Leipzig,Paid Search
+1775,2024-01-27,Düsseldorf,Referral
+1776,2024-12-20,Berlin,Paid Search
+1777,2024-05-07,Stuttgart,Paid Search
+1778,2025-12-06,Frankfurt,Paid Search
+1779,2024-11-17,Hamburg,Organic
+1780,2024-09-19,Düsseldorf,Social
+1781,2025-08-24,Cologne,Social
+1782,2025-03-22,Munich,Social
+1783,2024-11-01,Berlin,Organic
+1784,2025-09-27,Hamburg,Organic
+1785,2025-03-26,Stuttgart,Social
+1786,2024-08-22,Cologne,Organic
+1787,2024-02-27,Berlin,Social
+1788,2025-11-27,Cologne,Social
+1789,2025-12-03,Hamburg,Social
+1790,2024-04-26,Leipzig,Social
+1791,2025-06-16,Munich,Referral
+1792,2025-11-03,Frankfurt,Social
+1793,2024-10-18,Hamburg,Social
+1794,2025-06-05,Frankfurt,Referral
+1795,2025-08-22,Stuttgart,Social
+1796,2024-09-20,Frankfurt,Email
+1797,2025-08-27,Stuttgart,Paid Search
+1798,2025-12-28,Frankfurt,Organic
+1799,2024-07-18,Cologne,Organic
+1800,2025-05-19,Düsseldorf,Organic
+1801,2024-05-17,Leipzig,Paid Search
+1802,2024-08-21,Düsseldorf,Social
+1803,2025-07-21,Hamburg,Organic
+1804,2024-04-09,Düsseldorf,Social
+1805,2024-02-07,Berlin,Paid Search
+1806,2025-11-23,Frankfurt,Social
+1807,2024-06-26,Leipzig,Paid Search
+1808,2025-04-26,Düsseldorf,Paid Search
+1809,2025-02-23,Hamburg,Paid Search
+1810,2025-04-04,Düsseldorf,Organic
+1811,2024-05-29,Stuttgart,Paid Search
+1812,2024-11-16,Berlin,Paid Search
+1813,2025-06-01,Hamburg,Referral
+1814,2024-12-09,Stuttgart,Referral
+1815,2024-04-20,Frankfurt,Paid Search
+1816,2025-06-11,Berlin,Organic
+1817,2025-12-13,Frankfurt,Social
+1818,2025-07-10,Stuttgart,Referral
+1819,2025-03-01,Düsseldorf,Referral
+1820,2025-08-02,Cologne,Organic
+1821,2024-02-16,Cologne,Referral
+1822,2025-03-03,Frankfurt,Organic
+1823,2025-03-09,Düsseldorf,Referral
+1824,2025-12-12,Stuttgart,Organic
+1825,2024-03-25,Berlin,Email
+1826,2025-01-05,Düsseldorf,Organic
+1827,2025-11-27,Munich,Referral
+1828,2025-08-06,Hamburg,Organic
+1829,2024-03-02,Berlin,Organic
+1830,2025-02-19,Berlin,Referral
+1831,2024-09-09,Berlin,Social
+1832,2024-07-14,Frankfurt,Organic
+1833,2025-09-21,Munich,Organic
+1834,2025-09-29,Hamburg,Organic
+1835,2024-05-23,Cologne,Social
+1836,2024-04-01,Stuttgart,Organic
+1837,2025-09-16,Leipzig,Referral
+1838,2024-11-09,Munich,Referral
+1839,2024-11-07,Cologne,Referral
+1840,2025-08-19,Stuttgart,Social
+1841,2024-04-02,Leipzig,Organic
+1842,2024-07-10,Munich,Paid Search
+1843,2025-01-28,Berlin,Referral
+1844,2024-06-10,Leipzig,Email
+1845,2025-08-27,Düsseldorf,Organic
+1846,2024-04-20,Hamburg,Organic
+1847,2025-07-16,Frankfurt,Social
+1848,2025-01-13,Düsseldorf,Email
+1849,2025-07-08,Frankfurt,Organic
+1850,2025-03-25,Munich,Paid Search
+1851,2025-05-19,Munich,Organic
+1852,2025-07-22,Hamburg,Social
+1853,2025-05-29,Stuttgart,Email
+1854,2025-01-15,Cologne,Social
+1855,2024-05-26,Hamburg,Paid Search
+1856,2025-05-24,Cologne,Referral
+1857,2025-02-14,Cologne,Social
+1858,2024-10-05,Munich,Organic
+1859,2025-07-03,Düsseldorf,Referral
+1860,2025-03-08,Berlin,Organic
+1861,2024-03-22,Cologne,Paid Search
+1862,2025-01-25,Düsseldorf,Paid Search
+1863,2024-03-10,Munich,Social
+1864,2024-07-01,Hamburg,Organic
+1865,2024-04-10,Düsseldorf,Organic
+1866,2025-05-08,Cologne,Paid Search
+1867,2025-08-09,Cologne,Referral
+1868,2025-08-28,Hamburg,Paid Search
+1869,2024-09-05,Cologne,Paid Search
+1870,2024-12-16,Düsseldorf,Organic
+1871,2025-05-03,Leipzig,Organic
+1872,2024-06-20,Düsseldorf,Referral
+1873,2024-07-19,Düsseldorf,Paid Search
+1874,2025-07-24,Frankfurt,Social
+1875,2024-08-08,Berlin,Organic
+1876,2024-10-08,Düsseldorf,Organic
+1877,2025-02-10,Stuttgart,Organic
+1878,2024-08-22,Munich,Organic
+1879,2025-09-03,Munich,Social
+1880,2025-04-28,Cologne,Social
+1881,2024-04-26,Düsseldorf,Referral
+1882,2025-10-15,Düsseldorf,Organic
+1883,2025-09-30,Leipzig,Organic
+1884,2025-08-03,Stuttgart,Organic
+1885,2025-01-25,Munich,Organic
+1886,2025-11-13,Leipzig,Referral
+1887,2025-12-20,Düsseldorf,Organic
+1888,2025-08-01,Leipzig,Paid Search
+1889,2025-03-30,Hamburg,Paid Search
+1890,2025-02-06,Berlin,Organic
+1891,2025-07-08,Cologne,Paid Search
+1892,2024-06-09,Hamburg,Organic
+1893,2024-02-02,Munich,Social
+1894,2025-07-14,Berlin,Referral
+1895,2025-12-18,Munich,Paid Search
+1896,2025-10-21,Stuttgart,Paid Search
+1897,2025-05-29,Berlin,Social
+1898,2025-10-14,Stuttgart,Organic
+1899,2025-03-30,Frankfurt,Organic
+1900,2025-07-11,Cologne,Social
+1901,2025-09-02,Stuttgart,Organic
+1902,2025-08-02,Stuttgart,Organic
+1903,2025-10-29,Stuttgart,Organic
+1904,2025-02-15,Stuttgart,Organic
+1905,2024-07-16,Hamburg,Social
+1906,2025-04-18,Munich,Email
+1907,2025-12-20,Hamburg,Organic
+1908,2025-06-11,Cologne,Social
+1909,2025-08-13,Stuttgart,Email
+1910,2024-11-30,Leipzig,Organic
+1911,2024-10-05,Stuttgart,Organic
+1912,2025-02-06,Hamburg,Paid Search
+1913,2025-02-18,Frankfurt,Paid Search
+1914,2025-02-06,Hamburg,Paid Search
+1915,2024-07-27,Hamburg,Referral
+1916,2024-04-19,Frankfurt,Referral
+1917,2025-12-08,Munich,Organic
+1918,2024-10-04,Düsseldorf,Social
+1919,2024-06-25,Berlin,Organic
+1920,2024-10-17,Munich,Referral
+1921,2025-02-20,Berlin,Paid Search
+1922,2024-10-16,Cologne,Organic
+1923,2025-09-29,Stuttgart,Paid Search
+1924,2025-01-10,Stuttgart,Paid Search
+1925,2025-03-01,Düsseldorf,Social
+1926,2025-02-10,Frankfurt,Social
+1927,2024-07-13,Düsseldorf,Organic
+1928,2024-12-13,Berlin,Organic
+1929,2024-06-23,Munich,Organic
+1930,2025-05-24,Frankfurt,Organic
+1931,2024-07-22,Munich,Organic
+1932,2024-07-04,Stuttgart,Organic
+1933,2025-04-26,Stuttgart,Paid Search
+1934,2024-07-24,Berlin,Social
+1935,2025-06-21,Munich,Referral
+1936,2024-12-14,Munich,Paid Search
+1937,2025-03-31,Berlin,Organic
+1938,2025-01-05,Munich,Paid Search
+1939,2025-12-02,Munich,Referral
+1940,2024-01-13,Stuttgart,Social
+1941,2025-06-10,Frankfurt,Organic
+1942,2025-12-14,Munich,Email
+1943,2025-09-09,Düsseldorf,Social
+1944,2024-11-20,Düsseldorf,Organic
+1945,2025-11-05,Hamburg,Organic
+1946,2024-10-28,Cologne,Paid Search
+1947,2025-02-02,Berlin,Organic
+1948,2025-05-17,Cologne,Organic
+1949,2025-08-29,Cologne,Email
+1950,2024-02-12,Düsseldorf,Paid Search
+1951,2025-06-28,Leipzig,Referral
+1952,2024-08-01,Berlin,Paid Search
+1953,2025-11-10,Munich,Paid Search
+1954,2025-07-22,Leipzig,Paid Search
+1955,2024-12-14,Stuttgart,Organic
+1956,2024-10-28,Hamburg,Paid Search
+1957,2024-08-19,Leipzig,Referral
+1958,2025-09-11,Leipzig,Organic
+1959,2025-07-29,Hamburg,Paid Search
+1960,2024-06-19,Stuttgart,Paid Search
+1961,2024-04-05,Leipzig,Referral
+1962,2024-04-28,Frankfurt,Paid Search
+1963,2025-01-12,Munich,Social
+1964,2024-08-05,Frankfurt,Email
+1965,2025-04-13,Frankfurt,Organic
+1966,2025-09-29,Düsseldorf,Paid Search
+1967,2024-08-26,Munich,Email
+1968,2024-09-24,Düsseldorf,Referral
+1969,2024-06-01,Frankfurt,Social
+1970,2025-01-13,Cologne,Paid Search
+1971,2024-02-20,Düsseldorf,Email
+1972,2025-12-27,Stuttgart,Organic
+1973,2025-04-30,Frankfurt,Social
+1974,2025-05-29,Hamburg,Paid Search
+1975,2024-12-14,Berlin,Social
+1976,2025-10-05,Berlin,Organic
+1977,2024-06-21,Munich,Paid Search
+1978,2024-12-03,Stuttgart,Organic
+1979,2025-01-15,Stuttgart,Referral
+1980,2024-03-16,Hamburg,Organic
+1981,2025-03-19,Munich,Email
+1982,2025-08-19,Munich,Social
+1983,2025-04-07,Frankfurt,Referral
+1984,2024-10-01,Stuttgart,Social
+1985,2024-05-05,Munich,Social
+1986,2024-01-28,Stuttgart,Paid Search
+1987,2025-08-28,Munich,Paid Search
+1988,2024-05-12,Cologne,Organic
+1989,2025-09-27,Hamburg,Email
+1990,2025-01-14,Hamburg,Referral
+1991,2025-09-20,Düsseldorf,Referral
+1992,2024-11-26,Munich,Social
+1993,2025-09-19,Stuttgart,Referral
+1994,2024-07-14,Hamburg,Paid Search
+1995,2024-08-24,Munich,Referral
+1996,2025-07-05,Cologne,Paid Search
+1997,2024-06-07,Hamburg,Organic
+1998,2024-04-17,Leipzig,Email
+1999,2024-03-09,Berlin,Organic
+2000,2025-02-17,Berlin,Referral
+2001,2024-04-05,Hamburg,Social
+2002,2025-08-30,Cologne,Referral
+2003,2025-05-04,Stuttgart,Organic
+2004,2024-02-21,Frankfurt,Organic
+2005,2025-12-02,Munich,Paid Search
+2006,2025-10-11,Cologne,Email
+2007,2025-03-13,Berlin,Organic
+2008,2025-03-28,Frankfurt,Social
+2009,2024-07-13,Berlin,Email
+2010,2025-12-16,Cologne,Organic
+2011,2025-11-17,Düsseldorf,Referral
+2012,2024-12-09,Düsseldorf,Social
+2013,2025-06-26,Stuttgart,Organic
+2014,2025-12-20,Cologne,Paid Search
+2015,2025-01-07,Stuttgart,Email
+2016,2024-06-01,Munich,Organic
+2017,2025-03-07,Frankfurt,Paid Search
+2018,2025-04-15,Stuttgart,Organic
+2019,2025-03-05,Düsseldorf,Paid Search
+2020,2025-05-12,Düsseldorf,Paid Search
+2021,2024-08-27,Leipzig,Paid Search
+2022,2024-07-28,Düsseldorf,Organic
+2023,2025-11-27,Berlin,Paid Search
+2024,2025-12-30,Hamburg,Paid Search
+2025,2024-12-30,Hamburg,Paid Search
+2026,2024-05-28,Hamburg,Paid Search
+2027,2025-08-06,Munich,Referral
+2028,2024-04-03,Stuttgart,Referral
+2029,2024-08-06,Leipzig,Email
+2030,2024-05-31,Düsseldorf,Email
+2031,2024-10-06,Frankfurt,Social
+2032,2025-08-15,Leipzig,Email
+2033,2024-12-02,Leipzig,Social
+2034,2025-12-24,Munich,Paid Search
+2035,2025-08-21,Frankfurt,Organic
+2036,2025-03-03,Munich,Organic
+2037,2024-02-22,Hamburg,Social
+2038,2025-03-08,Munich,Organic
+2039,2024-12-21,Munich,Social
+2040,2024-10-24,Hamburg,Social
+2041,2025-06-19,Düsseldorf,Paid Search
+2042,2025-09-05,Düsseldorf,Organic
+2043,2025-03-03,Stuttgart,Organic
+2044,2025-09-14,Berlin,Paid Search
+2045,2025-12-04,Leipzig,Organic
+2046,2025-10-25,Düsseldorf,Organic
+2047,2024-11-02,Düsseldorf,Paid Search
+2048,2024-03-01,Frankfurt,Organic
+2049,2025-10-27,Leipzig,Organic
+2050,2024-06-11,Düsseldorf,Social
+2051,2025-08-19,Düsseldorf,Social
+2052,2025-06-18,Düsseldorf,Social
+2053,2025-02-22,Berlin,Referral
+2054,2024-12-27,Leipzig,Paid Search
+2055,2025-05-23,Frankfurt,Paid Search
+2056,2024-11-06,Berlin,Organic
+2057,2024-06-05,Berlin,Paid Search
+2058,2025-08-20,Leipzig,Social
+2059,2024-05-07,Stuttgart,Paid Search
+2060,2025-01-10,Cologne,Organic
+2061,2024-09-13,Hamburg,Social
+2062,2025-11-11,Frankfurt,Organic
+2063,2024-05-23,Stuttgart,Organic
+2064,2024-03-03,Leipzig,Social
+2065,2025-04-22,Frankfurt,Referral
+2066,2024-02-09,Berlin,Paid Search
+2067,2025-12-23,Leipzig,Paid Search
+2068,2024-11-08,Düsseldorf,Organic
+2069,2024-05-09,Stuttgart,Social
+2070,2025-03-07,Stuttgart,Email
+2071,2024-07-09,Leipzig,Organic
+2072,2024-08-07,Hamburg,Social
+2073,2025-10-02,Frankfurt,Paid Search
+2074,2024-09-26,Leipzig,Organic
+2075,2025-09-12,Hamburg,Social
+2076,2025-07-23,Stuttgart,Social
+2077,2024-10-02,Düsseldorf,Social
+2078,2025-01-20,Hamburg,Paid Search
+2079,2025-06-13,Frankfurt,Paid Search
+2080,2025-01-24,Cologne,Paid Search
+2081,2025-01-11,Düsseldorf,Organic
+2082,2025-06-25,Berlin,Paid Search
+2083,2025-05-29,Munich,Paid Search
+2084,2025-04-28,Düsseldorf,Organic
+2085,2024-09-28,Leipzig,Social
+2086,2025-11-24,Berlin,Social
+2087,2025-03-24,Munich,Paid Search
+2088,2024-09-07,Frankfurt,Social
+2089,2025-10-04,Hamburg,Paid Search
+2090,2025-06-02,Frankfurt,Email
+2091,2025-09-23,Frankfurt,Social
+2092,2025-07-04,Cologne,Organic
+2093,2024-05-22,Cologne,Organic
+2094,2025-09-07,Düsseldorf,Paid Search
+2095,2025-04-17,Berlin,Paid Search
+2096,2024-08-07,Berlin,Organic
+2097,2024-09-21,Munich,Email
+2098,2025-06-08,Düsseldorf,Organic
+2099,2025-08-30,Hamburg,Organic
+2100,2024-11-02,Hamburg,Organic
+2101,2025-11-05,Stuttgart,Paid Search
+2102,2025-06-25,Leipzig,Referral
+2103,2025-11-29,Munich,Social
+2104,2024-09-04,Hamburg,Social
+2105,2025-03-24,Frankfurt,Email
+2106,2025-03-07,Hamburg,Organic
+2107,2025-08-24,Leipzig,Paid Search
+2108,2025-09-12,Leipzig,Social
+2109,2024-08-20,Cologne,Organic
+2110,2025-12-14,Frankfurt,Paid Search
+2111,2025-10-15,Stuttgart,Organic
+2112,2025-07-12,Leipzig,Organic
+2113,2025-02-21,Frankfurt,Organic
+2114,2025-10-24,Stuttgart,Referral
+2115,2025-02-21,Frankfurt,Paid Search
+2116,2024-02-10,Berlin,Referral
+2117,2025-10-03,Berlin,Social
+2118,2025-07-07,Cologne,Email
+2119,2024-09-17,Stuttgart,Paid Search
+2120,2025-11-07,Cologne,Social
+2121,2025-10-12,Leipzig,Paid Search
+2122,2025-11-20,Frankfurt,Referral
+2123,2024-04-30,Cologne,Email
+2124,2024-10-21,Munich,Referral
+2125,2025-11-14,Leipzig,Social
+2126,2025-09-03,Hamburg,Organic
+2127,2025-09-22,Düsseldorf,Referral
+2128,2025-08-03,Stuttgart,Referral
+2129,2025-07-23,Hamburg,Referral
+2130,2025-09-23,Hamburg,Social
+2131,2024-11-29,Stuttgart,Social
+2132,2025-02-07,Berlin,Organic
+2133,2025-06-07,Düsseldorf,Organic
+2134,2025-09-04,Leipzig,Organic
+2135,2024-08-06,Hamburg,Paid Search
+2136,2024-05-20,Munich,Organic
+2137,2025-10-06,Stuttgart,Social
+2138,2025-02-06,Munich,Referral
+2139,2024-09-23,Stuttgart,Social
+2140,2025-09-09,Leipzig,Organic
+2141,2024-12-10,Leipzig,Paid Search
+2142,2025-11-30,Cologne,Referral
+2143,2024-02-09,Cologne,Organic
+2144,2025-11-09,Cologne,Referral
+2145,2024-09-24,Berlin,Referral
+2146,2025-01-02,Frankfurt,Paid Search
+2147,2024-06-24,Munich,Referral
+2148,2025-12-01,Leipzig,Organic
+2149,2025-08-25,Düsseldorf,Referral
+2150,2024-05-27,Cologne,Social
+2151,2025-12-01,Frankfurt,Email
+2152,2024-10-13,Munich,Paid Search
+2153,2025-01-23,Cologne,Organic
+2154,2025-12-28,Cologne,Organic
+2155,2025-01-14,Munich,Paid Search
+2156,2024-02-20,Cologne,Referral
+2157,2025-05-23,Stuttgart,Referral
+2158,2025-05-01,Hamburg,Social
+2159,2024-01-24,Stuttgart,Organic
+2160,2025-12-16,Cologne,Paid Search
+2161,2025-07-20,Frankfurt,Social
+2162,2024-04-12,Berlin,Social
+2163,2024-11-15,Stuttgart,Organic
+2164,2025-12-29,Berlin,Referral
+2165,2024-01-15,Leipzig,Paid Search
+2166,2024-10-24,Stuttgart,Paid Search
+2167,2024-06-09,Berlin,Referral
+2168,2025-04-30,Düsseldorf,Organic
+2169,2025-11-22,Munich,Referral
+2170,2024-04-29,Leipzig,Social
+2171,2024-06-17,Berlin,Organic
+2172,2025-12-19,Frankfurt,Paid Search
+2173,2025-08-10,Frankfurt,Referral
+2174,2025-11-07,Frankfurt,Organic
+2175,2025-03-21,Munich,Paid Search
+2176,2024-11-03,Munich,Referral
+2177,2025-04-14,Düsseldorf,Referral
+2178,2024-03-21,Cologne,Organic
+2179,2024-07-23,Munich,Paid Search
+2180,2025-07-16,Düsseldorf,Paid Search
+2181,2024-03-07,Düsseldorf,Paid Search
+2182,2025-02-10,Munich,Organic
+2183,2024-06-01,Frankfurt,Organic
+2184,2024-07-21,Frankfurt,Organic
+2185,2025-04-19,Cologne,Social
+2186,2025-05-02,Munich,Referral
+2187,2025-01-13,Düsseldorf,Organic
+2188,2025-06-28,Berlin,Referral
+2189,2024-10-11,Hamburg,Referral
+2190,2024-12-29,Hamburg,Social
+2191,2025-09-30,Hamburg,Organic
+2192,2025-02-11,Düsseldorf,Social
+2193,2025-02-07,Berlin,Referral
+2194,2024-11-13,Düsseldorf,Organic
+2195,2024-11-10,Munich,Social
+2196,2024-08-15,Frankfurt,Organic
+2197,2024-11-08,Hamburg,Organic
+2198,2025-04-09,Hamburg,Social
+2199,2025-01-01,Leipzig,Organic
+2200,2024-04-29,Munich,Referral
+2201,2024-12-25,Munich,Paid Search
+2202,2024-05-29,Leipzig,Paid Search
+2203,2025-08-03,Munich,Referral
+2204,2024-12-04,Stuttgart,Organic
+2205,2025-03-18,Leipzig,Paid Search
+2206,2025-02-22,Leipzig,Social
+2207,2024-04-30,Stuttgart,Paid Search
+2208,2025-05-21,Leipzig,Paid Search
+2209,2024-05-02,Düsseldorf,Paid Search
+2210,2025-06-28,Munich,Social
+2211,2025-11-22,Hamburg,Paid Search
+2212,2024-10-16,Düsseldorf,Paid Search
+2213,2024-10-23,Frankfurt,Referral
+2214,2025-10-03,Frankfurt,Paid Search
+2215,2025-04-22,Berlin,Social
+2216,2025-03-18,Leipzig,Paid Search
+2217,2024-05-04,Frankfurt,Social
+2218,2024-12-02,Berlin,Social
+2219,2024-05-23,Munich,Social
+2220,2025-09-01,Berlin,Email
+2221,2024-04-23,Frankfurt,Referral
+2222,2024-11-02,Düsseldorf,Social
+2223,2025-05-27,Munich,Organic
+2224,2024-08-15,Frankfurt,Organic
+2225,2025-10-20,Berlin,Organic
+2226,2024-01-16,Munich,Organic
+2227,2025-06-15,Leipzig,Paid Search
+2228,2025-10-18,Düsseldorf,Referral
+2229,2024-10-24,Stuttgart,Email
+2230,2025-07-07,Leipzig,Referral
+2231,2025-09-12,Munich,Organic
+2232,2024-01-30,Berlin,Organic
+2233,2025-07-10,Berlin,Organic
+2234,2024-08-13,Cologne,Social
+2235,2025-01-26,Cologne,Social
+2236,2024-04-26,Munich,Email
+2237,2025-02-21,Munich,Organic
+2238,2025-11-06,Düsseldorf,Social
+2239,2025-12-11,Düsseldorf,Paid Search
+2240,2025-05-03,Leipzig,Organic
+2241,2024-03-19,Leipzig,Organic
+2242,2025-12-19,Frankfurt,Email
+2243,2024-03-02,Düsseldorf,Paid Search
+2244,2024-08-31,Berlin,Organic
+2245,2025-01-17,Hamburg,Paid Search
+2246,2024-09-28,Düsseldorf,Social
+2247,2024-05-25,Stuttgart,Social
+2248,2025-02-03,Munich,Paid Search
+2249,2024-10-13,Stuttgart,Organic
+2250,2025-01-28,Stuttgart,Paid Search
+2251,2025-11-17,Düsseldorf,Referral
+2252,2024-06-08,Leipzig,Organic
+2253,2025-12-08,Stuttgart,Email
+2254,2025-09-07,Munich,Email
+2255,2025-05-26,Hamburg,Organic
+2256,2025-06-22,Cologne,Organic
+2257,2024-06-30,Leipzig,Paid Search
+2258,2025-11-29,Cologne,Paid Search
+2259,2024-08-13,Berlin,Organic
+2260,2024-12-04,Munich,Organic
+2261,2024-07-16,Berlin,Referral
+2262,2025-09-13,Hamburg,Paid Search
+2263,2025-05-23,Cologne,Organic
+2264,2025-03-01,Stuttgart,Referral
+2265,2025-08-22,Frankfurt,Email
+2266,2025-11-03,Hamburg,Referral
+2267,2025-07-16,Düsseldorf,Referral
+2268,2025-09-08,Hamburg,Referral
+2269,2025-12-17,Hamburg,Email
+2270,2025-09-23,Hamburg,Organic
+2271,2024-07-09,Cologne,Organic
+2272,2025-11-11,Frankfurt,Organic
+2273,2025-07-17,Düsseldorf,Email
+2274,2025-08-01,Stuttgart,Organic
+2275,2024-11-17,Cologne,Organic
+2276,2025-01-28,Berlin,Paid Search
+2277,2024-09-11,Stuttgart,Email
+2278,2024-10-13,Frankfurt,Organic
+2279,2024-12-14,Stuttgart,Email
+2280,2025-05-30,Leipzig,Organic
+2281,2025-09-02,Leipzig,Organic
+2282,2025-01-11,Düsseldorf,Paid Search
+2283,2025-12-04,Stuttgart,Paid Search
+2284,2025-11-29,Berlin,Paid Search
+2285,2025-07-23,Hamburg,Paid Search
+2286,2024-04-24,Munich,Paid Search
+2287,2025-01-25,Berlin,Paid Search
+2288,2025-06-18,Berlin,Social
+2289,2025-12-18,Frankfurt,Referral
+2290,2025-01-15,Frankfurt,Referral
+2291,2025-07-25,Stuttgart,Paid Search
+2292,2024-01-20,Munich,Organic
+2293,2025-07-12,Cologne,Paid Search
+2294,2025-10-29,Düsseldorf,Social
+2295,2025-07-11,Leipzig,Referral
+2296,2025-08-26,Hamburg,Referral
+2297,2024-03-02,Munich,Paid Search
+2298,2025-03-23,Cologne,Paid Search
+2299,2024-05-02,Stuttgart,Social
+2300,2025-08-15,Berlin,Organic
+2301,2025-10-31,Frankfurt,Paid Search
+2302,2024-09-08,Leipzig,Email
+2303,2025-12-23,Berlin,Organic
+2304,2025-10-03,Stuttgart,Organic
+2305,2024-06-01,Hamburg,Email
+2306,2025-02-04,Berlin,Social
+2307,2025-02-07,Cologne,Referral
+2308,2024-11-28,Munich,Organic
+2309,2025-07-21,Cologne,Paid Search
+2310,2024-05-14,Cologne,Paid Search
+2311,2025-09-22,Hamburg,Paid Search
+2312,2024-06-21,Leipzig,Paid Search
+2313,2024-04-21,Munich,Organic
+2314,2025-02-22,Stuttgart,Paid Search
+2315,2025-06-28,Leipzig,Paid Search
+2316,2025-10-20,Leipzig,Social
+2317,2025-12-29,Düsseldorf,Social
+2318,2025-07-31,Munich,Paid Search
+2319,2024-06-19,Düsseldorf,Organic
+2320,2024-06-06,Hamburg,Social
+2321,2025-07-09,Berlin,Paid Search
+2322,2025-08-09,Stuttgart,Referral
+2323,2025-11-17,Leipzig,Organic
+2324,2024-05-19,Frankfurt,Paid Search
+2325,2024-03-06,Stuttgart,Organic
+2326,2024-10-26,Frankfurt,Paid Search
+2327,2025-02-28,Munich,Email
+2328,2025-08-31,Frankfurt,Paid Search
+2329,2025-10-30,Düsseldorf,Organic
+2330,2024-01-08,Hamburg,Paid Search
+2331,2025-10-19,Frankfurt,Paid Search
+2332,2025-04-21,Leipzig,Referral
+2333,2025-02-21,Munich,Social
+2334,2025-08-18,Düsseldorf,Paid Search
+2335,2025-08-18,Munich,Social
+2336,2025-10-17,Leipzig,Paid Search
+2337,2024-12-24,Stuttgart,Referral
+2338,2025-04-05,Düsseldorf,Referral
+2339,2025-08-03,Munich,Social
+2340,2025-07-16,Frankfurt,Social
+2341,2025-04-18,Hamburg,Organic
+2342,2024-07-31,Berlin,Social
+2343,2025-12-07,Düsseldorf,Paid Search
+2344,2025-03-11,Munich,Organic
+2345,2025-12-10,Cologne,Organic
+2346,2024-09-11,Düsseldorf,Social
+2347,2024-04-24,Stuttgart,Paid Search
+2348,2025-01-03,Berlin,Organic
+2349,2024-11-21,Berlin,Organic
+2350,2025-10-13,Frankfurt,Paid Search
+2351,2024-04-30,Munich,Referral
+2352,2024-10-12,Hamburg,Organic
+2353,2024-06-28,Munich,Referral
+2354,2024-03-28,Munich,Referral
+2355,2024-02-18,Leipzig,Organic
+2356,2024-05-08,Stuttgart,Organic
+2357,2024-09-21,Hamburg,Referral
+2358,2024-03-20,Cologne,Organic
+2359,2025-03-05,Leipzig,Email
+2360,2025-12-03,Stuttgart,Organic
+2361,2025-02-14,Düsseldorf,Paid Search
+2362,2024-02-21,Berlin,Social
+2363,2024-09-29,Hamburg,Referral
+2364,2024-09-12,Munich,Social
+2365,2024-10-26,Hamburg,Paid Search
+2366,2025-10-06,Munich,Paid Search
+2367,2024-12-14,Cologne,Referral
+2368,2025-04-03,Düsseldorf,Paid Search
+2369,2024-03-08,Frankfurt,Email
+2370,2025-06-14,Berlin,Organic
+2371,2025-11-24,Frankfurt,Paid Search
+2372,2025-10-02,Stuttgart,Paid Search
+2373,2025-10-03,Frankfurt,Organic
+2374,2024-03-12,Hamburg,Social
+2375,2024-10-23,Hamburg,Paid Search
+2376,2025-09-27,Frankfurt,Social
+2377,2025-10-24,Stuttgart,Organic
+2378,2025-10-27,Frankfurt,Referral
+2379,2025-12-19,Frankfurt,Social
+2380,2024-09-11,Stuttgart,Referral
+2381,2024-08-14,Stuttgart,Referral
+2382,2024-02-02,Berlin,Social
+2383,2025-05-18,Berlin,Organic
+2384,2025-06-26,Düsseldorf,Paid Search
+2385,2025-08-18,Hamburg,Paid Search
+2386,2025-04-03,Düsseldorf,Referral
+2387,2025-06-25,Leipzig,Paid Search
+2388,2025-09-25,Munich,Paid Search
+2389,2025-10-02,Berlin,Email
+2390,2024-06-02,Cologne,Paid Search
+2391,2025-02-01,Berlin,Organic
+2392,2025-08-16,Stuttgart,Social
+2393,2024-07-30,Frankfurt,Email
+2394,2025-09-14,Düsseldorf,Organic
+2395,2025-12-13,Düsseldorf,Organic
+2396,2025-11-08,Cologne,Social
+2397,2024-01-18,Leipzig,Referral
+2398,2024-05-20,Düsseldorf,Organic
+2399,2024-07-12,Munich,Organic
+2400,2024-04-04,Hamburg,Organic
+2401,2024-06-04,Cologne,Referral
+2402,2025-10-25,Frankfurt,Social
+2403,2024-07-30,Frankfurt,Social
+2404,2025-07-01,Berlin,Referral
+2405,2025-11-26,Berlin,Social
+2406,2025-10-10,Leipzig,Paid Search
+2407,2024-10-03,Düsseldorf,Social
+2408,2025-03-07,Berlin,Paid Search
+2409,2025-10-27,Frankfurt,Organic
+2410,2025-11-15,Stuttgart,Paid Search
+2411,2024-01-15,Hamburg,Organic
+2412,2025-10-25,Cologne,Email
+2413,2025-12-18,Hamburg,Paid Search
+2414,2025-11-15,Stuttgart,Organic
+2415,2024-10-30,Hamburg,Social
+2416,2024-02-19,Berlin,Paid Search
+2417,2025-05-08,Stuttgart,Social
+2418,2025-10-02,Düsseldorf,Organic
+2419,2024-09-06,Berlin,Paid Search
+2420,2025-09-21,Cologne,Paid Search
+2421,2025-11-29,Düsseldorf,Email
+2422,2025-08-19,Hamburg,Social
+2423,2024-04-25,Berlin,Organic
+2424,2024-12-17,Hamburg,Referral
+2425,2025-08-30,Düsseldorf,Organic
+2426,2024-03-23,Leipzig,Social
+2427,2024-04-04,Berlin,Social
+2428,2024-10-19,Hamburg,Paid Search
+2429,2025-05-23,Berlin,Paid Search
+2430,2025-02-07,Leipzig,Paid Search
+2431,2025-10-25,Stuttgart,Social
+2432,2025-06-13,Berlin,Social
+2433,2025-02-07,Cologne,Paid Search
+2434,2024-05-17,Hamburg,Organic
+2435,2025-05-08,Munich,Email
+2436,2025-06-04,Leipzig,Organic
+2437,2025-02-25,Munich,Social
+2438,2024-09-09,Berlin,Email
+2439,2024-06-04,Stuttgart,Social
+2440,2024-10-31,Munich,Referral
+2441,2024-06-22,Stuttgart,Paid Search
+2442,2024-10-16,Munich,Referral
+2443,2024-03-26,Berlin,Paid Search
+2444,2025-01-17,Cologne,Organic
+2445,2025-06-06,Hamburg,Organic
+2446,2024-11-22,Düsseldorf,Social
+2447,2025-05-12,Stuttgart,Paid Search
+2448,2025-05-22,Munich,Paid Search
+2449,2024-05-14,Berlin,Referral
+2450,2025-03-07,Cologne,Referral
+2451,2025-07-08,Cologne,Paid Search
+2452,2024-09-06,Stuttgart,Social
+2453,2025-09-13,Leipzig,Paid Search
+2454,2024-07-24,Stuttgart,Referral
+2455,2024-01-23,Hamburg,Paid Search
+2456,2024-06-18,Stuttgart,Paid Search
+2457,2024-03-11,Cologne,Organic
+2458,2024-10-11,Frankfurt,Organic
+2459,2025-07-23,Cologne,Paid Search
+2460,2024-07-19,Frankfurt,Organic
+2461,2025-11-11,Munich,Organic
+2462,2024-12-18,Hamburg,Email
+2463,2024-11-19,Düsseldorf,Organic
+2464,2024-09-07,Munich,Email
+2465,2025-11-28,Leipzig,Referral
+2466,2025-10-24,Munich,Organic
+2467,2025-10-26,Cologne,Organic
+2468,2024-07-30,Stuttgart,Paid Search
+2469,2024-11-05,Cologne,Paid Search
+2470,2025-11-17,Cologne,Email
+2471,2025-10-10,Munich,Organic
+2472,2024-11-12,Frankfurt,Organic
+2473,2025-10-21,Düsseldorf,Referral
+2474,2024-08-13,Düsseldorf,Organic
+2475,2025-09-04,Munich,Social
+2476,2025-03-15,Stuttgart,Email
+2477,2025-03-09,Stuttgart,Paid Search
+2478,2025-07-20,Düsseldorf,Paid Search
+2479,2025-07-21,Frankfurt,Paid Search
+2480,2025-04-30,Berlin,Social
+2481,2024-08-12,Düsseldorf,Referral
+2482,2025-10-15,Frankfurt,Paid Search
+2483,2025-01-19,Munich,Paid Search
+2484,2025-11-25,Hamburg,Paid Search
+2485,2024-06-10,Düsseldorf,Organic
+2486,2025-03-22,Berlin,Organic
+2487,2025-02-15,Leipzig,Social
+2488,2025-02-05,Stuttgart,Paid Search
+2489,2025-09-12,Leipzig,Paid Search
+2490,2024-02-15,Frankfurt,Paid Search
+2491,2025-06-09,Hamburg,Paid Search
+2492,2024-10-18,Hamburg,Paid Search
+2493,2025-09-01,Hamburg,Referral
+2494,2024-05-27,Cologne,Paid Search
+2495,2024-11-16,Frankfurt,Social
+2496,2024-10-24,Frankfurt,Email
+2497,2024-07-29,Munich,Social
+2498,2025-12-30,Frankfurt,Email
+2499,2024-01-21,Stuttgart,Organic
+2500,2025-08-30,Leipzig,Paid Search
+2501,2025-09-22,Berlin,Email
+2502,2025-02-19,Munich,Paid Search
+2503,2025-10-17,Cologne,Organic
+2504,2025-02-21,Düsseldorf,Paid Search
+2505,2025-07-26,Hamburg,Paid Search
+2506,2024-11-01,Leipzig,Organic
+2507,2024-08-14,Berlin,Paid Search
+2508,2024-12-15,Munich,Social
+2509,2024-10-27,Düsseldorf,Social
+2510,2025-09-15,Stuttgart,Email
+2511,2024-08-26,Leipzig,Paid Search
+2512,2025-08-18,Frankfurt,Social
+2513,2024-11-11,Berlin,Organic
+2514,2025-11-17,Stuttgart,Organic
+2515,2025-04-22,Leipzig,Email
+2516,2025-12-20,Leipzig,Organic
+2517,2024-04-02,Düsseldorf,Paid Search
+2518,2024-05-18,Düsseldorf,Social
+2519,2025-06-05,Munich,Paid Search
+2520,2024-05-13,Berlin,Social
+2521,2025-09-24,Berlin,Social
+2522,2024-07-26,Leipzig,Organic
+2523,2024-10-10,Hamburg,Organic
+2524,2025-02-08,Berlin,Paid Search
+2525,2024-07-13,Leipzig,Referral
+2526,2024-12-27,Munich,Referral
+2527,2025-04-02,Hamburg,Paid Search
+2528,2024-12-25,Cologne,Referral
+2529,2024-06-06,Leipzig,Organic
+2530,2025-09-19,Munich,Social
+2531,2025-05-14,Cologne,Referral
+2532,2025-03-11,Frankfurt,Social
+2533,2024-08-07,Düsseldorf,Referral
+2534,2024-04-02,Cologne,Paid Search
+2535,2025-03-26,Düsseldorf,Referral
+2536,2025-02-11,Hamburg,Social
+2537,2024-10-13,Düsseldorf,Referral
+2538,2024-11-25,Frankfurt,Email
+2539,2024-12-27,Munich,Email
+2540,2025-01-12,Leipzig,Organic
+2541,2025-02-10,Munich,Referral
+2542,2025-07-11,Berlin,Organic
+2543,2024-09-07,Frankfurt,Referral
+2544,2025-10-26,Hamburg,Paid Search
+2545,2025-07-11,Cologne,Social
+2546,2025-11-10,Hamburg,Paid Search
+2547,2025-12-28,Hamburg,Organic
+2548,2025-03-12,Leipzig,Email
+2549,2025-02-05,Berlin,Organic
+2550,2025-02-13,Düsseldorf,Organic
+2551,2024-12-20,Cologne,Social
+2552,2024-12-30,Hamburg,Organic
+2553,2025-07-18,Düsseldorf,Organic
+2554,2025-02-28,Cologne,Organic
+2555,2025-07-20,Düsseldorf,Paid Search
+2556,2025-09-21,Munich,Email
+2557,2025-10-01,Munich,Social
+2558,2024-10-18,Leipzig,Paid Search
+2559,2024-07-10,Berlin,Social
+2560,2025-06-29,Stuttgart,Organic
+2561,2024-07-18,Cologne,Social
+2562,2025-01-30,Hamburg,Organic
+2563,2024-12-26,Berlin,Paid Search
+2564,2025-05-11,Leipzig,Organic
+2565,2025-08-21,Stuttgart,Referral
+2566,2025-11-10,Berlin,Organic
+2567,2025-01-16,Stuttgart,Referral
+2568,2025-09-21,Hamburg,Social
+2569,2024-08-22,Munich,Referral
+2570,2025-07-26,Hamburg,Organic
+2571,2025-09-18,Cologne,Paid Search
+2572,2025-05-27,Leipzig,Referral
+2573,2025-11-27,Cologne,Organic
+2574,2024-05-15,Berlin,Paid Search
+2575,2025-01-03,Leipzig,Paid Search
+2576,2024-08-16,Frankfurt,Organic
+2577,2025-06-12,Hamburg,Paid Search
+2578,2025-10-28,Düsseldorf,Paid Search
+2579,2025-12-21,Munich,Organic
+2580,2024-09-16,Stuttgart,Organic
+2581,2025-12-20,Munich,Social
+2582,2024-11-15,Stuttgart,Social
+2583,2025-12-18,Hamburg,Social
+2584,2024-11-17,Düsseldorf,Social
+2585,2024-12-20,Cologne,Social
+2586,2025-03-12,Berlin,Social
+2587,2024-09-01,Hamburg,Social
+2588,2024-10-29,Cologne,Social
+2589,2025-05-24,Stuttgart,Organic
+2590,2025-03-09,Leipzig,Organic
+2591,2024-08-09,Düsseldorf,Organic
+2592,2025-08-04,Frankfurt,Paid Search
+2593,2024-11-04,Berlin,Email
+2594,2025-03-23,Frankfurt,Referral
+2595,2025-08-11,Stuttgart,Organic
+2596,2024-11-22,Berlin,Organic
+2597,2025-11-09,Cologne,Social
+2598,2025-09-10,Cologne,Social
+2599,2025-05-17,Stuttgart,Paid Search
+2600,2024-07-23,Hamburg,Social
+2601,2025-10-19,Cologne,Organic
+2602,2024-03-20,Cologne,Referral
+2603,2024-06-02,Cologne,Organic
+2604,2024-09-04,Düsseldorf,Organic
+2605,2024-10-31,Cologne,Social
+2606,2025-01-18,Frankfurt,Social
+2607,2024-10-12,Cologne,Paid Search
+2608,2024-10-01,Hamburg,Email
+2609,2025-12-04,Leipzig,Paid Search
+2610,2024-07-10,Leipzig,Paid Search
+2611,2025-08-17,Düsseldorf,Email
+2612,2024-02-08,Hamburg,Paid Search
+2613,2025-08-16,Munich,Referral
+2614,2025-04-13,Leipzig,Organic
+2615,2025-02-14,Leipzig,Paid Search
+2616,2025-04-18,Stuttgart,Paid Search
+2617,2024-06-13,Munich,Paid Search
+2618,2025-11-14,Stuttgart,Organic
+2619,2025-03-04,Leipzig,Referral
+2620,2025-12-14,Düsseldorf,Paid Search
+2621,2024-10-28,Hamburg,Referral
+2622,2025-01-08,Hamburg,Organic
+2623,2024-12-22,Cologne,Social
+2624,2025-08-18,Stuttgart,Referral
+2625,2025-03-16,Stuttgart,Paid Search
+2626,2025-07-10,Leipzig,Social
+2627,2025-08-02,Berlin,Organic
+2628,2025-11-17,Berlin,Paid Search
+2629,2025-07-11,Frankfurt,Social
+2630,2025-05-16,Munich,Referral
+2631,2024-09-18,Munich,Social
+2632,2024-01-28,Leipzig,Email
+2633,2024-12-31,Hamburg,Social
+2634,2025-03-22,Leipzig,Organic
+2635,2024-07-08,Frankfurt,Paid Search
+2636,2025-03-10,Leipzig,Paid Search
+2637,2025-05-03,Hamburg,Social
+2638,2024-05-18,Stuttgart,Social
+2639,2025-09-17,Cologne,Organic
+2640,2025-11-22,Frankfurt,Paid Search
+2641,2024-01-17,Düsseldorf,Organic
+2642,2024-01-06,Leipzig,Organic
+2643,2025-03-26,Leipzig,Social
+2644,2024-07-12,Munich,Paid Search
+2645,2024-08-04,Hamburg,Organic
+2646,2025-02-05,Munich,Email
+2647,2024-08-07,Cologne,Social
+2648,2024-09-22,Leipzig,Referral
+2649,2025-01-29,Hamburg,Referral
+2650,2025-10-18,Frankfurt,Organic
+2651,2024-04-25,Hamburg,Organic
+2652,2024-11-22,Düsseldorf,Social
+2653,2025-02-28,Berlin,Email
+2654,2024-03-30,Berlin,Email
+2655,2025-06-21,Berlin,Email
+2656,2024-05-06,Berlin,Paid Search
+2657,2024-12-16,Frankfurt,Paid Search
+2658,2025-11-23,Stuttgart,Paid Search
+2659,2025-05-15,Stuttgart,Paid Search
+2660,2025-12-30,Stuttgart,Email
+2661,2025-06-21,Berlin,Paid Search
+2662,2025-12-17,Hamburg,Referral
+2663,2024-01-10,Leipzig,Referral
+2664,2025-07-27,Munich,Referral
+2665,2024-02-16,Frankfurt,Organic
+2666,2025-12-04,Cologne,Email
+2667,2024-12-11,Düsseldorf,Social
+2668,2025-03-19,Berlin,Social
+2669,2025-12-23,Stuttgart,Referral
+2670,2024-02-03,Berlin,Paid Search
+2671,2025-12-14,Düsseldorf,Social
+2672,2024-09-02,Hamburg,Paid Search
+2673,2024-11-26,Düsseldorf,Referral
+2674,2025-12-23,Hamburg,Referral
+2675,2025-08-02,Cologne,Organic
+2676,2025-07-19,Berlin,Referral
+2677,2024-06-05,Frankfurt,Email
+2678,2025-09-28,Düsseldorf,Referral
+2679,2024-07-10,Hamburg,Paid Search
+2680,2025-02-26,Cologne,Paid Search
+2681,2024-08-15,Hamburg,Email
+2682,2024-05-15,Berlin,Referral
+2683,2024-07-03,Leipzig,Referral
+2684,2025-08-20,Frankfurt,Organic
+2685,2025-06-22,Hamburg,Referral
+2686,2025-06-21,Düsseldorf,Referral
+2687,2024-04-30,Cologne,Social
+2688,2025-11-23,Hamburg,Email
+2689,2025-06-08,Leipzig,Paid Search
+2690,2025-06-14,Leipzig,Email
+2691,2025-09-14,Hamburg,Organic
+2692,2024-10-16,Stuttgart,Organic
+2693,2025-08-05,Hamburg,Referral
+2694,2025-04-25,Stuttgart,Organic
+2695,2025-12-05,Berlin,Social
+2696,2024-10-30,Cologne,Social
+2697,2025-10-06,Stuttgart,Referral
+2698,2025-08-23,Munich,Email
+2699,2025-03-22,Cologne,Social
+2700,2024-05-16,Düsseldorf,Organic
+2701,2024-11-03,Frankfurt,Email
+2702,2025-09-30,Düsseldorf,Paid Search
+2703,2024-06-22,Berlin,Organic
+2704,2025-05-11,Hamburg,Paid Search
+2705,2024-10-03,Düsseldorf,Email
+2706,2025-05-31,Frankfurt,Organic
+2707,2025-07-15,Stuttgart,Paid Search
+2708,2024-06-27,Cologne,Social
+2709,2025-07-12,Munich,Organic
+2710,2025-10-12,Frankfurt,Social
+2711,2025-12-22,Munich,Social
+2712,2025-12-26,Stuttgart,Paid Search
+2713,2025-01-17,Stuttgart,Paid Search
+2714,2025-08-15,Frankfurt,Paid Search
+2715,2024-10-09,Leipzig,Referral
+2716,2024-05-07,Berlin,Paid Search
+2717,2025-10-08,Düsseldorf,Social
+2718,2025-06-15,Düsseldorf,Social
+2719,2025-07-10,Munich,Organic
+2720,2024-08-14,Cologne,Email
+2721,2025-08-02,Hamburg,Organic
+2722,2025-06-29,Munich,Referral
+2723,2024-12-16,Munich,Referral
+2724,2025-11-20,Düsseldorf,Organic
+2725,2024-07-20,Stuttgart,Organic
+2726,2025-05-08,Leipzig,Referral
+2727,2024-09-11,Leipzig,Organic
+2728,2025-03-02,Munich,Social
+2729,2025-06-14,Hamburg,Paid Search
+2730,2025-08-27,Leipzig,Referral
+2731,2024-10-04,Stuttgart,Social
+2732,2024-01-26,Hamburg,Organic
+2733,2025-03-03,Cologne,Social
+2734,2024-02-13,Düsseldorf,Social
+2735,2024-10-03,Munich,Social
+2736,2024-12-22,Leipzig,Referral
+2737,2024-10-21,Stuttgart,Organic
+2738,2024-04-02,Munich,Referral
+2739,2025-01-05,Leipzig,Social
+2740,2025-04-15,Düsseldorf,Paid Search
+2741,2024-04-02,Hamburg,Email
+2742,2025-08-13,Hamburg,Organic
+2743,2024-07-21,Munich,Social
+2744,2024-01-15,Stuttgart,Paid Search
+2745,2024-05-31,Cologne,Organic
+2746,2025-06-14,Frankfurt,Organic
+2747,2025-10-09,Hamburg,Organic
+2748,2025-03-14,Munich,Paid Search
+2749,2025-01-17,Berlin,Referral
+2750,2024-09-13,Frankfurt,Organic
+2751,2025-06-18,Düsseldorf,Paid Search
+2752,2025-07-09,Stuttgart,Paid Search
+2753,2025-05-16,Hamburg,Paid Search
+2754,2025-06-20,Berlin,Organic
+2755,2024-07-27,Cologne,Organic
+2756,2025-12-07,Cologne,Social
+2757,2025-05-07,Leipzig,Organic
+2758,2024-04-13,Leipzig,Organic
+2759,2025-06-12,Düsseldorf,Organic
+2760,2024-04-23,Leipzig,Organic
+2761,2025-11-28,Cologne,Organic
+2762,2024-04-09,Cologne,Social
+2763,2025-07-21,Munich,Social
+2764,2025-01-15,Leipzig,Organic
+2765,2024-12-18,Cologne,Referral
+2766,2024-04-17,Hamburg,Organic
+2767,2025-07-03,Stuttgart,Paid Search
+2768,2025-06-06,Stuttgart,Paid Search
+2769,2025-08-27,Cologne,Organic
+2770,2024-10-03,Cologne,Organic
+2771,2024-12-18,Hamburg,Organic
+2772,2024-07-17,Frankfurt,Social
+2773,2025-05-05,Hamburg,Email
+2774,2025-03-28,Frankfurt,Social
+2775,2025-04-12,Berlin,Social
+2776,2024-07-12,Leipzig,Referral
+2777,2024-07-21,Leipzig,Email
+2778,2025-02-22,Berlin,Organic
+2779,2025-07-04,Munich,Social
+2780,2024-06-18,Frankfurt,Social
+2781,2024-03-21,Stuttgart,Social
+2782,2025-07-17,Leipzig,Organic
+2783,2025-07-16,Stuttgart,Organic
+2784,2025-09-08,Frankfurt,Paid Search
+2785,2025-12-04,Cologne,Paid Search
+2786,2024-10-26,Frankfurt,Referral
+2787,2025-01-06,Hamburg,Paid Search
+2788,2025-06-03,Cologne,Organic
+2789,2025-11-30,Berlin,Organic
+2790,2024-04-24,Düsseldorf,Organic
+2791,2025-09-14,Leipzig,Organic
+2792,2025-06-28,Munich,Referral
+2793,2025-02-24,Hamburg,Paid Search
+2794,2025-01-05,Berlin,Social
+2795,2025-07-21,Stuttgart,Social
+2796,2024-09-10,Berlin,Social
+2797,2025-05-17,Cologne,Referral
+2798,2024-07-16,Munich,Paid Search
+2799,2025-03-18,Leipzig,Referral
+2800,2025-03-07,Hamburg,Organic
+2801,2024-11-19,Hamburg,Social
+2802,2024-10-15,Frankfurt,Paid Search
+2803,2024-08-16,Leipzig,Social
+2804,2024-08-20,Berlin,Paid Search
+2805,2025-11-25,Düsseldorf,Referral
+2806,2024-03-26,Düsseldorf,Organic
+2807,2024-11-12,Berlin,Paid Search
+2808,2024-11-27,Leipzig,Social
+2809,2024-12-01,Düsseldorf,Organic
+2810,2024-08-04,Munich,Paid Search
+2811,2025-01-09,Berlin,Referral
+2812,2024-06-29,Cologne,Social
+2813,2025-02-18,Stuttgart,Paid Search
+2814,2025-01-21,Frankfurt,Organic
+2815,2024-05-18,Düsseldorf,Paid Search
+2816,2024-07-05,Leipzig,Paid Search
+2817,2024-01-16,Cologne,Referral
+2818,2024-05-20,Munich,Organic
+2819,2024-12-29,Berlin,Social
+2820,2024-07-03,Düsseldorf,Organic
+2821,2025-12-08,Hamburg,Referral
+2822,2025-01-16,Munich,Social
+2823,2024-11-10,Leipzig,Email
+2824,2025-03-11,Leipzig,Referral
+2825,2024-06-08,Berlin,Referral
+2826,2024-06-03,Berlin,Paid Search
+2827,2025-08-21,Stuttgart,Organic
+2828,2025-01-22,Berlin,Social
+2829,2025-01-25,Düsseldorf,Organic
+2830,2024-04-22,Munich,Paid Search
+2831,2025-07-30,Frankfurt,Organic
+2832,2025-08-21,Cologne,Referral
+2833,2025-06-22,Düsseldorf,Paid Search
+2834,2025-07-16,Munich,Email
+2835,2024-07-27,Munich,Referral
+2836,2024-08-29,Berlin,Organic
+2837,2024-10-03,Munich,Organic
+2838,2025-01-20,Hamburg,Social
+2839,2025-10-16,Frankfurt,Paid Search
+2840,2025-07-12,Cologne,Referral
+2841,2024-11-18,Leipzig,Paid Search
+2842,2025-06-08,Frankfurt,Paid Search
+2843,2024-12-07,Leipzig,Referral
+2844,2024-09-12,Munich,Referral
+2845,2024-03-07,Stuttgart,Organic
+2846,2024-08-16,Hamburg,Paid Search
+2847,2025-01-23,Düsseldorf,Organic
+2848,2024-12-07,Hamburg,Paid Search
+2849,2025-06-23,Munich,Social
+2850,2024-11-14,Stuttgart,Social
+2851,2025-08-07,Stuttgart,Social
+2852,2024-09-05,Leipzig,Organic
+2853,2024-04-27,Hamburg,Organic
+2854,2024-03-07,Cologne,Referral
+2855,2024-07-31,Hamburg,Paid Search
+2856,2024-04-14,Stuttgart,Paid Search
+2857,2024-10-24,Cologne,Paid Search
+2858,2025-03-31,Munich,Organic
+2859,2024-07-30,Frankfurt,Social
+2860,2025-10-31,Stuttgart,Email
+2861,2025-11-02,Hamburg,Paid Search
+2862,2025-11-11,Leipzig,Organic
+2863,2025-03-25,Berlin,Referral
+2864,2024-07-09,Munich,Organic
+2865,2024-10-15,Berlin,Referral
+2866,2025-09-06,Leipzig,Social
+2867,2025-03-06,Hamburg,Paid Search
+2868,2024-07-08,Leipzig,Email
+2869,2025-04-19,Frankfurt,Paid Search
+2870,2024-08-11,Cologne,Organic
+2871,2025-05-07,Düsseldorf,Organic
+2872,2025-03-12,Frankfurt,Social
+2873,2024-10-25,Frankfurt,Organic
+2874,2025-04-12,Berlin,Organic
+2875,2025-03-31,Munich,Organic
+2876,2025-11-29,Munich,Organic
+2877,2024-09-30,Cologne,Email
+2878,2025-12-25,Hamburg,Organic
+2879,2024-01-06,Stuttgart,Paid Search
+2880,2024-11-09,Frankfurt,Referral
+2881,2025-07-25,Frankfurt,Paid Search
+2882,2024-11-09,Berlin,Organic
+2883,2025-09-23,Frankfurt,Organic
+2884,2024-07-17,Hamburg,Referral
+2885,2025-07-26,Frankfurt,Social
+2886,2025-10-19,Cologne,Social
+2887,2025-09-19,Frankfurt,Organic
+2888,2024-08-09,Leipzig,Social
+2889,2024-06-29,Leipzig,Organic
+2890,2024-12-11,Hamburg,Referral
+2891,2025-03-07,Munich,Paid Search
+2892,2024-07-28,Munich,Paid Search
+2893,2025-06-10,Munich,Organic
+2894,2025-10-28,Cologne,Email
+2895,2024-04-08,Cologne,Organic
+2896,2025-02-08,Leipzig,Social
+2897,2024-05-10,Berlin,Paid Search
+2898,2025-05-14,Berlin,Paid Search
+2899,2024-05-19,Berlin,Organic
+2900,2024-06-09,Frankfurt,Email
+2901,2024-06-18,Berlin,Social
+2902,2025-09-05,Hamburg,Organic
+2903,2025-04-06,Hamburg,Email
+2904,2024-08-08,Düsseldorf,Paid Search
+2905,2025-09-18,Düsseldorf,Paid Search
+2906,2024-06-28,Frankfurt,Organic
+2907,2025-05-29,Berlin,Organic
+2908,2024-05-12,Leipzig,Organic
+2909,2024-06-17,Berlin,Referral
+2910,2024-08-27,Stuttgart,Paid Search
+2911,2025-06-15,Leipzig,Organic
+2912,2025-07-04,Hamburg,Social
+2913,2025-03-04,Cologne,Referral
+2914,2024-05-11,Stuttgart,Referral
+2915,2024-04-15,Stuttgart,Paid Search
+2916,2025-11-18,Berlin,Referral
+2917,2025-05-15,Stuttgart,Organic
+2918,2025-05-12,Munich,Social
+2919,2025-11-01,Frankfurt,Social
+2920,2024-11-27,Düsseldorf,Organic
+2921,2025-06-19,Hamburg,Referral
+2922,2025-09-03,Munich,Referral
+2923,2025-08-27,Munich,Organic
+2924,2024-12-26,Düsseldorf,Social
+2925,2025-09-17,Leipzig,Organic
+2926,2025-12-08,Hamburg,Organic
+2927,2024-11-08,Leipzig,Organic
+2928,2024-11-30,Düsseldorf,Paid Search
+2929,2025-07-08,Stuttgart,Paid Search
+2930,2024-06-14,Cologne,Referral
+2931,2024-12-21,Düsseldorf,Paid Search
+2932,2025-03-31,Leipzig,Email
+2933,2024-04-23,Cologne,Social
+2934,2025-07-14,Berlin,Organic
+2935,2024-08-09,Stuttgart,Referral
+2936,2025-04-16,Hamburg,Referral
+2937,2024-03-29,Munich,Paid Search
+2938,2024-10-18,Leipzig,Organic
+2939,2024-09-09,Berlin,Email
+2940,2025-08-09,Munich,Organic
+2941,2024-12-17,Leipzig,Organic
+2942,2024-12-13,Hamburg,Social
+2943,2025-02-22,Munich,Social
+2944,2024-02-22,Hamburg,Paid Search
+2945,2024-09-11,Leipzig,Organic
+2946,2024-06-24,Munich,Organic
+2947,2025-08-10,Frankfurt,Social
+2948,2025-02-18,Düsseldorf,Social
+2949,2025-08-29,Frankfurt,Social
+2950,2024-05-20,Berlin,Organic
+2951,2025-05-15,Munich,Organic
+2952,2024-01-25,Düsseldorf,Email
+2953,2025-04-13,Frankfurt,Email
+2954,2025-07-18,Munich,Paid Search
+2955,2024-10-01,Leipzig,Organic
+2956,2025-12-18,Cologne,Organic
+2957,2025-01-02,Leipzig,Organic
+2958,2024-07-23,Hamburg,Social
+2959,2025-09-19,Stuttgart,Paid Search
+2960,2025-06-14,Leipzig,Paid Search
+2961,2024-07-07,Leipzig,Email
+2962,2024-08-01,Hamburg,Organic
+2963,2024-12-07,Stuttgart,Email
+2964,2024-02-20,Hamburg,Organic
+2965,2024-04-04,Frankfurt,Social
+2966,2024-07-27,Berlin,Organic
+2967,2024-09-07,Berlin,Organic
+2968,2025-04-19,Berlin,Email
+2969,2024-03-15,Frankfurt,Organic
+2970,2024-01-21,Frankfurt,Paid Search
+2971,2025-12-08,Stuttgart,Paid Search
+2972,2025-08-12,Munich,Social
+2973,2025-07-14,Leipzig,Organic
+2974,2025-11-03,Munich,Paid Search
+2975,2024-02-14,Düsseldorf,Email
+2976,2025-05-04,Frankfurt,Referral
+2977,2024-07-04,Hamburg,Social
+2978,2025-10-28,Cologne,Organic
+2979,2025-10-27,Munich,Email
+2980,2025-08-22,Stuttgart,Organic
+2981,2025-02-03,Frankfurt,Organic
+2982,2024-12-05,Leipzig,Referral
+2983,2024-03-06,Leipzig,Social
+2984,2024-09-06,Hamburg,Referral
+2985,2025-12-07,Düsseldorf,Social
+2986,2024-05-07,Frankfurt,Organic
+2987,2025-04-09,Hamburg,Referral
+2988,2025-03-09,Munich,Paid Search
+2989,2025-11-24,Frankfurt,Organic
+2990,2025-04-27,Hamburg,Paid Search
+2991,2024-07-20,Frankfurt,Email
+2992,2025-12-23,Düsseldorf,Referral
+2993,2025-06-12,Hamburg,Organic
+2994,2025-12-15,Stuttgart,Paid Search
+2995,2025-10-13,Munich,Paid Search
+2996,2025-01-29,Stuttgart,Paid Search
+2997,2024-12-14,Düsseldorf,Social
+2998,2024-09-24,Berlin,Referral
+2999,2025-05-25,Cologne,Social
+3000,2025-07-12,Munich,Social
+3001,2025-10-09,Munich,Organic
+3002,2025-04-23,Cologne,Referral
+3003,2024-12-25,Hamburg,Paid Search
+3004,2024-11-27,Düsseldorf,Paid Search
+3005,2024-05-18,Hamburg,Organic
+3006,2025-11-15,Leipzig,Referral
+3007,2024-08-05,Stuttgart,Paid Search
+3008,2024-11-22,Cologne,Social
+3009,2025-07-14,Frankfurt,Paid Search
+3010,2025-02-08,Düsseldorf,Paid Search
+3011,2024-06-20,Berlin,Organic
+3012,2025-12-24,Berlin,Email
+3013,2025-11-25,Leipzig,Paid Search
+3014,2025-12-19,Cologne,Organic
+3015,2025-10-18,Leipzig,Referral
+3016,2024-09-30,Hamburg,Social
+3017,2024-06-17,Hamburg,Organic
+3018,2024-10-21,Leipzig,Social
+3019,2025-03-26,Frankfurt,Social
+3020,2024-07-24,Leipzig,Organic
+3021,2024-11-22,Munich,Email
+3022,2024-08-05,Düsseldorf,Referral
+3023,2025-02-22,Munich,Social
+3024,2025-12-12,Leipzig,Paid Search
+3025,2025-09-22,Cologne,Social
+3026,2024-04-17,Munich,Social
+3027,2024-11-09,Stuttgart,Referral
+3028,2024-01-31,Munich,Referral
+3029,2025-03-09,Leipzig,Paid Search
+3030,2024-09-24,Düsseldorf,Social
+3031,2025-11-29,Düsseldorf,Referral
+3032,2025-06-05,Berlin,Social
+3033,2024-08-21,Leipzig,Referral
+3034,2025-07-10,Leipzig,Email
+3035,2024-08-19,Cologne,Organic
+3036,2025-12-15,Berlin,Social
+3037,2024-12-12,Frankfurt,Paid Search
+3038,2025-11-03,Hamburg,Paid Search
+3039,2025-07-12,Düsseldorf,Social
+3040,2025-01-11,Leipzig,Paid Search
+3041,2025-03-25,Hamburg,Email
+3042,2025-11-20,Stuttgart,Paid Search
+3043,2024-07-18,Leipzig,Social
+3044,2024-12-20,Leipzig,Email
+3045,2025-06-02,Hamburg,Social
+3046,2025-12-28,Hamburg,Email
+3047,2024-04-29,Leipzig,Organic
+3048,2024-05-13,Hamburg,Social
+3049,2025-06-02,Berlin,Paid Search
+3050,2025-06-23,Cologne,Referral
+3051,2024-08-24,Leipzig,Paid Search
+3052,2024-05-23,Hamburg,Referral
+3053,2024-11-28,Düsseldorf,Email
+3054,2025-01-11,Leipzig,Email
+3055,2024-01-19,Cologne,Paid Search
+3056,2025-03-14,Frankfurt,Organic
+3057,2024-10-28,Leipzig,Referral
+3058,2025-06-26,Leipzig,Organic
+3059,2024-02-26,Stuttgart,Organic
+3060,2025-10-02,Stuttgart,Paid Search
+3061,2024-11-17,Leipzig,Referral
+3062,2024-09-08,Cologne,Referral
+3063,2025-05-22,Berlin,Paid Search
+3064,2025-09-10,Munich,Social
+3065,2025-11-27,Munich,Paid Search
+3066,2025-01-04,Munich,Paid Search
+3067,2025-01-27,Munich,Organic
+3068,2025-03-12,Leipzig,Social
+3069,2025-10-04,Frankfurt,Social
+3070,2025-09-30,Stuttgart,Organic
+3071,2024-08-09,Leipzig,Organic
+3072,2024-01-26,Munich,Email
+3073,2024-02-19,Hamburg,Social
+3074,2025-04-25,Munich,Organic
+3075,2025-12-21,Stuttgart,Social
+3076,2024-07-26,Cologne,Social
+3077,2024-10-20,Cologne,Paid Search
+3078,2025-07-28,Leipzig,Email
+3079,2025-08-23,Frankfurt,Social
+3080,2024-04-22,Berlin,Organic
+3081,2025-06-05,Hamburg,Social
+3082,2024-05-20,Hamburg,Referral
+3083,2024-05-16,Munich,Organic
+3084,2024-05-02,Stuttgart,Paid Search
+3085,2025-11-12,Hamburg,Organic
+3086,2025-03-04,Hamburg,Organic
+3087,2025-03-01,Cologne,Social
+3088,2025-07-05,Stuttgart,Paid Search
+3089,2025-06-02,Munich,Paid Search
+3090,2024-07-20,Munich,Organic
+3091,2025-06-18,Berlin,Social
+3092,2024-05-26,Stuttgart,Paid Search
+3093,2025-02-27,Berlin,Social
+3094,2024-07-02,Hamburg,Social
+3095,2024-07-31,Berlin,Organic
+3096,2025-03-21,Cologne,Email
+3097,2025-10-17,Cologne,Organic
+3098,2024-02-21,Hamburg,Organic
+3099,2025-07-29,Frankfurt,Referral
+3100,2024-10-03,Hamburg,Organic
+3101,2024-11-27,Frankfurt,Social
+3102,2025-02-16,Leipzig,Email
+3103,2025-03-18,Cologne,Paid Search
+3104,2024-09-15,Frankfurt,Organic
+3105,2025-12-10,Frankfurt,Organic
+3106,2024-07-08,Düsseldorf,Organic
+3107,2025-01-24,Frankfurt,Paid Search
+3108,2025-09-18,Leipzig,Social
+3109,2025-01-22,Stuttgart,Social
+3110,2025-11-04,Düsseldorf,Email
+3111,2024-07-09,Frankfurt,Organic
+3112,2025-05-04,Stuttgart,Organic
+3113,2025-01-01,Stuttgart,Organic
+3114,2025-01-22,Cologne,Organic
+3115,2024-04-12,Stuttgart,Social
+3116,2024-06-20,Berlin,Paid Search
+3117,2024-11-05,Stuttgart,Organic
+3118,2024-08-17,Stuttgart,Social
+3119,2025-11-04,Leipzig,Social
+3120,2024-10-10,Cologne,Organic
+3121,2024-05-12,Hamburg,Organic
+3122,2025-04-26,Leipzig,Social
+3123,2024-11-04,Cologne,Paid Search
+3124,2024-03-17,Berlin,Paid Search
+3125,2025-12-25,Hamburg,Paid Search
+3126,2025-02-06,Leipzig,Social
+3127,2024-09-04,Berlin,Organic
+3128,2025-06-08,Berlin,Referral
+3129,2025-11-12,Leipzig,Organic
+3130,2024-03-02,Berlin,Paid Search
+3131,2024-11-19,Düsseldorf,Organic
+3132,2024-05-05,Frankfurt,Email
+3133,2024-10-03,Leipzig,Email
+3134,2024-04-19,Düsseldorf,Email
+3135,2025-05-20,Düsseldorf,Paid Search
+3136,2025-03-05,Hamburg,Social
+3137,2025-10-04,Hamburg,Referral
+3138,2024-02-21,Berlin,Organic
+3139,2024-06-14,Leipzig,Referral
+3140,2024-08-27,Stuttgart,Organic
+3141,2025-09-18,Berlin,Paid Search
+3142,2025-11-24,Frankfurt,Referral
+3143,2025-10-27,Berlin,Organic
+3144,2025-12-01,Stuttgart,Organic
+3145,2025-07-05,Leipzig,Email
+3146,2024-09-30,Munich,Organic
+3147,2025-05-02,Stuttgart,Organic
+3148,2025-10-15,Leipzig,Email
+3149,2025-06-04,Cologne,Social
+3150,2025-04-28,Frankfurt,Social
+3151,2024-11-07,Cologne,Social
+3152,2024-05-01,Hamburg,Email
+3153,2024-11-30,Cologne,Email
+3154,2025-06-18,Cologne,Social
+3155,2025-07-09,Düsseldorf,Organic
+3156,2024-03-29,Cologne,Organic
+3157,2025-02-17,Düsseldorf,Paid Search
+3158,2024-05-14,Stuttgart,Organic
+3159,2025-08-17,Düsseldorf,Paid Search
+3160,2025-06-15,Hamburg,Email
+3161,2025-11-13,Stuttgart,Organic
+3162,2024-12-23,Cologne,Paid Search
+3163,2025-08-28,Frankfurt,Organic
+3164,2025-01-17,Hamburg,Social
+3165,2024-06-22,Hamburg,Referral
+3166,2024-09-07,Munich,Referral
+3167,2024-09-27,Düsseldorf,Paid Search
+3168,2024-11-29,Hamburg,Organic
+3169,2024-12-01,Leipzig,Organic
+3170,2025-03-11,Berlin,Paid Search
+3171,2025-01-30,Berlin,Paid Search
+3172,2025-06-11,Leipzig,Social
+3173,2024-08-01,Munich,Organic
+3174,2025-05-08,Düsseldorf,Paid Search
+3175,2025-03-22,Berlin,Organic
+3176,2025-06-10,Cologne,Referral
+3177,2024-05-24,Frankfurt,Referral
+3178,2024-09-06,Frankfurt,Paid Search
+3179,2024-08-27,Leipzig,Social
+3180,2024-12-27,Frankfurt,Organic
+3181,2025-03-06,Cologne,Organic
+3182,2024-11-26,Frankfurt,Organic
+3183,2025-08-01,Düsseldorf,Organic
+3184,2025-08-04,Cologne,Referral
+3185,2024-07-12,Munich,Social
+3186,2024-07-26,Munich,Referral
+3187,2025-12-10,Leipzig,Social
+3188,2024-11-16,Frankfurt,Organic
+3189,2025-10-25,Berlin,Organic
+3190,2025-05-08,Berlin,Referral
+3191,2025-03-02,Hamburg,Organic
+3192,2024-03-12,Frankfurt,Organic
+3193,2025-09-29,Munich,Paid Search
+3194,2025-08-14,Hamburg,Email
+3195,2024-10-26,Düsseldorf,Social
+3196,2025-03-03,Frankfurt,Paid Search
+3197,2025-06-20,Düsseldorf,Organic
+3198,2024-01-30,Stuttgart,Paid Search
+3199,2025-10-31,Düsseldorf,Email
+3200,2024-05-22,Berlin,Social
+3201,2024-06-23,Cologne,Paid Search
+3202,2025-06-18,Düsseldorf,Organic
+3203,2024-02-23,Leipzig,Social
+3204,2024-12-04,Cologne,Social
+3205,2025-11-17,Hamburg,Paid Search
+3206,2025-12-12,Düsseldorf,Referral
+3207,2025-12-24,Munich,Referral
+3208,2024-09-26,Stuttgart,Social
+3209,2024-12-26,Frankfurt,Paid Search
+3210,2024-10-29,Stuttgart,Organic
+3211,2025-09-29,Düsseldorf,Organic
+3212,2025-04-21,Stuttgart,Email
+3213,2024-10-14,Düsseldorf,Referral
+3214,2025-11-20,Munich,Organic
+3215,2025-03-25,Munich,Organic
+3216,2024-10-25,Frankfurt,Organic
+3217,2024-02-02,Frankfurt,Organic
+3218,2025-09-24,Düsseldorf,Organic
+3219,2024-10-27,Berlin,Paid Search
+3220,2024-03-18,Frankfurt,Organic
+3221,2025-08-31,Munich,Paid Search
+3222,2025-12-05,Munich,Social
+3223,2025-12-28,Hamburg,Organic
+3224,2024-10-16,Stuttgart,Organic
+3225,2024-09-14,Leipzig,Social
+3226,2025-01-17,Hamburg,Referral
+3227,2025-11-01,Frankfurt,Referral
+3228,2024-07-15,Stuttgart,Paid Search
+3229,2025-09-12,Cologne,Organic
+3230,2024-09-15,Cologne,Paid Search
+3231,2024-10-23,Düsseldorf,Organic
+3232,2025-04-08,Leipzig,Paid Search
+3233,2024-05-05,Stuttgart,Paid Search
+3234,2025-03-12,Stuttgart,Social
+3235,2025-02-17,Leipzig,Paid Search
+3236,2025-12-09,Berlin,Paid Search
+3237,2025-12-07,Munich,Paid Search
+3238,2025-05-22,Cologne,Paid Search
+3239,2025-04-30,Frankfurt,Paid Search
+3240,2024-03-22,Munich,Email
+3241,2025-01-04,Düsseldorf,Organic
+3242,2025-10-02,Frankfurt,Organic
+3243,2025-09-26,Stuttgart,Social
+3244,2025-05-09,Düsseldorf,Email
+3245,2025-07-07,Hamburg,Referral
+3246,2025-08-05,Berlin,Social
+3247,2025-07-13,Düsseldorf,Paid Search
+3248,2024-06-12,Munich,Referral
+3249,2024-10-23,Berlin,Paid Search
+3250,2025-09-12,Cologne,Social
+3251,2024-05-23,Hamburg,Organic
+3252,2025-03-22,Hamburg,Organic
+3253,2025-02-20,Düsseldorf,Email
+3254,2024-12-26,Frankfurt,Referral
+3255,2025-01-05,Cologne,Referral
+3256,2025-10-03,Düsseldorf,Paid Search
+3257,2025-10-13,Leipzig,Social
+3258,2024-06-21,Munich,Organic
+3259,2025-09-20,Munich,Social
+3260,2025-03-17,Cologne,Social
+3261,2025-02-22,Hamburg,Organic
+3262,2025-12-08,Frankfurt,Paid Search
+3263,2024-12-27,Hamburg,Social
+3264,2025-02-14,Munich,Email
+3265,2024-02-19,Leipzig,Paid Search
+3266,2024-01-25,Düsseldorf,Paid Search
+3267,2024-03-09,Munich,Referral
+3268,2025-02-16,Frankfurt,Social
+3269,2024-01-22,Cologne,Organic
+3270,2024-11-27,Leipzig,Social
+3271,2025-03-18,Munich,Organic
+3272,2024-11-29,Stuttgart,Social
+3273,2025-02-11,Munich,Referral
+3274,2024-10-06,Frankfurt,Email
+3275,2025-11-18,Düsseldorf,Organic
+3276,2024-12-16,Munich,Paid Search
+3277,2025-04-27,Frankfurt,Referral
+3278,2024-06-06,Stuttgart,Paid Search
+3279,2025-05-02,Hamburg,Email
+3280,2024-03-12,Munich,Referral
+3281,2024-08-31,Düsseldorf,Social
+3282,2025-11-24,Cologne,Paid Search
+3283,2025-12-20,Cologne,Email
+3284,2024-05-15,Leipzig,Referral
+3285,2025-08-14,Hamburg,Paid Search
+3286,2024-03-31,Berlin,Organic
+3287,2025-10-06,Stuttgart,Organic
+3288,2025-05-16,Munich,Email
+3289,2024-11-07,Leipzig,Social
+3290,2024-06-09,Cologne,Social
+3291,2024-08-02,Frankfurt,Paid Search
+3292,2024-08-26,Leipzig,Social
+3293,2025-09-17,Cologne,Email
+3294,2024-04-25,Hamburg,Organic
+3295,2024-08-09,Berlin,Email
+3296,2024-12-04,Hamburg,Paid Search
+3297,2024-11-21,Düsseldorf,Social
+3298,2024-07-29,Düsseldorf,Organic
+3299,2025-03-10,Munich,Paid Search
+3300,2025-09-10,Leipzig,Paid Search
+3301,2025-10-21,Munich,Social
+3302,2025-08-30,Hamburg,Organic
+3303,2025-03-09,Stuttgart,Organic
+3304,2024-02-12,Frankfurt,Email
+3305,2025-11-18,Stuttgart,Organic
+3306,2024-04-07,Frankfurt,Referral
+3307,2024-04-14,Frankfurt,Social
+3308,2025-01-01,Hamburg,Organic
+3309,2025-05-01,Frankfurt,Referral
+3310,2025-06-14,Leipzig,Organic
+3311,2024-09-23,Berlin,Paid Search
+3312,2024-06-15,Stuttgart,Paid Search
+3313,2025-11-19,Berlin,Social
+3314,2024-09-03,Berlin,Organic
+3315,2024-11-25,Leipzig,Organic
+3316,2025-05-11,Hamburg,Social
+3317,2025-10-29,Munich,Paid Search
+3318,2024-09-30,Berlin,Organic
+3319,2025-03-07,Stuttgart,Organic
+3320,2025-01-23,Cologne,Paid Search
+3321,2024-02-10,Cologne,Organic
+3322,2025-04-01,Berlin,Referral
+3323,2025-04-12,Leipzig,Organic
+3324,2025-07-09,Leipzig,Paid Search
+3325,2025-04-10,Hamburg,Organic
+3326,2025-11-03,Stuttgart,Referral
+3327,2024-11-29,Berlin,Paid Search
+3328,2024-09-05,Berlin,Organic
+3329,2024-08-28,Berlin,Social
+3330,2025-12-26,Cologne,Organic
+3331,2025-09-16,Munich,Organic
+3332,2025-01-28,Stuttgart,Organic
+3333,2024-11-27,Cologne,Social
+3334,2025-12-29,Leipzig,Organic
+3335,2025-02-24,Hamburg,Organic
+3336,2024-04-16,Cologne,Referral
+3337,2025-03-06,Stuttgart,Social
+3338,2025-11-04,Düsseldorf,Referral
+3339,2025-07-20,Frankfurt,Referral
+3340,2025-10-19,Frankfurt,Organic
+3341,2024-11-05,Hamburg,Paid Search
+3342,2024-03-22,Düsseldorf,Referral
+3343,2024-10-07,Munich,Organic
+3344,2025-10-03,Frankfurt,Paid Search
+3345,2025-08-06,Stuttgart,Organic
+3346,2025-07-27,Berlin,Email
+3347,2025-12-18,Düsseldorf,Social
+3348,2025-12-05,Berlin,Organic
+3349,2024-09-30,Frankfurt,Social
+3350,2025-09-25,Frankfurt,Organic
+3351,2025-10-10,Berlin,Paid Search
+3352,2025-10-15,Berlin,Paid Search
+3353,2024-08-26,Leipzig,Paid Search
+3354,2025-03-31,Berlin,Social
+3355,2025-04-05,Berlin,Paid Search
+3356,2025-11-11,Stuttgart,Email
+3357,2025-11-18,Cologne,Referral
+3358,2025-08-15,Leipzig,Paid Search
+3359,2025-10-17,Berlin,Email
+3360,2025-09-13,Frankfurt,Social
+3361,2025-10-13,Düsseldorf,Referral
+3362,2025-01-18,Frankfurt,Social
+3363,2024-07-05,Cologne,Paid Search
+3364,2024-06-08,Frankfurt,Organic
+3365,2024-04-25,Frankfurt,Organic
+3366,2024-11-19,Frankfurt,Paid Search
+3367,2024-12-06,Berlin,Social
+3368,2024-06-01,Stuttgart,Social
+3369,2025-09-30,Düsseldorf,Email
+3370,2025-02-13,Düsseldorf,Paid Search
+3371,2024-03-02,Cologne,Paid Search
+3372,2025-01-08,Hamburg,Social
+3373,2024-10-05,Stuttgart,Social
+3374,2025-12-05,Frankfurt,Paid Search
+3375,2025-08-20,Düsseldorf,Organic
+3376,2024-06-04,Munich,Social
+3377,2025-10-20,Cologne,Social
+3378,2024-05-23,Düsseldorf,Organic
+3379,2025-04-30,Cologne,Organic
+3380,2024-03-30,Frankfurt,Social
+3381,2025-12-17,Stuttgart,Organic
+3382,2025-04-05,Cologne,Organic
+3383,2024-11-27,Düsseldorf,Organic
+3384,2024-05-22,Cologne,Organic
+3385,2024-11-10,Leipzig,Paid Search
+3386,2024-04-10,Frankfurt,Paid Search
+3387,2024-06-18,Stuttgart,Paid Search
+3388,2024-11-17,Stuttgart,Paid Search
+3389,2025-02-18,Berlin,Referral
+3390,2024-07-03,Munich,Organic
+3391,2025-11-12,Cologne,Organic
+3392,2025-09-14,Stuttgart,Paid Search
+3393,2025-11-27,Berlin,Paid Search
+3394,2025-06-16,Hamburg,Organic
+3395,2025-12-06,Cologne,Referral
+3396,2025-04-20,Leipzig,Referral
+3397,2025-04-04,Berlin,Organic
+3398,2025-05-17,Düsseldorf,Social
+3399,2024-11-04,Frankfurt,Organic
+3400,2025-11-11,Stuttgart,Paid Search
+3401,2024-08-31,Hamburg,Paid Search
+3402,2025-07-08,Leipzig,Paid Search
+3403,2024-12-06,Hamburg,Paid Search
+3404,2025-11-13,Cologne,Social
+3405,2025-02-04,Munich,Paid Search
+3406,2025-11-19,Leipzig,Organic
+3407,2025-06-27,Frankfurt,Social
+3408,2025-09-07,Hamburg,Paid Search
+3409,2024-04-21,Munich,Paid Search
+3410,2025-04-27,Cologne,Social
+3411,2025-11-05,Berlin,Referral
+3412,2024-07-09,Düsseldorf,Paid Search
+3413,2025-08-07,Berlin,Organic
+3414,2025-09-29,Munich,Organic
+3415,2025-12-25,Leipzig,Organic
+3416,2025-11-07,Leipzig,Paid Search
+3417,2025-07-10,Frankfurt,Organic
+3418,2024-05-27,Stuttgart,Referral
+3419,2025-05-07,Berlin,Social
+3420,2024-04-13,Düsseldorf,Referral
+3421,2025-11-11,Leipzig,Social
+3422,2024-10-14,Munich,Paid Search
+3423,2025-08-01,Hamburg,Social
+3424,2024-06-26,Stuttgart,Organic
+3425,2025-06-26,Stuttgart,Paid Search
+3426,2025-01-28,Frankfurt,Paid Search
+3427,2025-11-30,Frankfurt,Organic
+3428,2025-03-05,Leipzig,Organic
+3429,2024-10-11,Munich,Paid Search
+3430,2025-12-05,Cologne,Organic
+3431,2025-01-22,Stuttgart,Organic
+3432,2024-05-09,Hamburg,Organic
+3433,2024-10-13,Cologne,Paid Search
+3434,2025-10-28,Frankfurt,Organic
+3435,2025-12-24,Cologne,Email
+3436,2025-06-22,Cologne,Organic
+3437,2025-04-12,Munich,Paid Search
+3438,2024-02-19,Cologne,Referral
+3439,2024-01-18,Berlin,Email
+3440,2024-12-11,Leipzig,Organic
+3441,2025-07-31,Düsseldorf,Paid Search
+3442,2024-10-19,Hamburg,Organic
+3443,2025-02-01,Frankfurt,Paid Search
+3444,2024-04-26,Frankfurt,Organic
+3445,2025-07-31,Stuttgart,Organic
+3446,2025-09-11,Cologne,Social
+3447,2025-07-28,Stuttgart,Paid Search
+3448,2024-10-05,Hamburg,Social
+3449,2025-07-16,Berlin,Paid Search
+3450,2025-01-24,Stuttgart,Referral
+3451,2024-07-29,Berlin,Social
+3452,2025-12-02,Cologne,Social
+3453,2024-06-13,Cologne,Paid Search
+3454,2025-06-26,Munich,Organic
+3455,2025-02-27,Düsseldorf,Organic
+3456,2024-10-09,Hamburg,Organic
+3457,2025-12-03,Cologne,Referral
+3458,2024-01-10,Cologne,Organic
+3459,2025-07-18,Frankfurt,Organic
+3460,2025-05-20,Cologne,Social
+3461,2025-06-04,Munich,Paid Search
+3462,2025-10-24,Frankfurt,Email
+3463,2025-06-23,Leipzig,Paid Search
+3464,2025-05-11,Frankfurt,Paid Search
+3465,2024-05-06,Frankfurt,Organic
+3466,2025-01-15,Cologne,Paid Search
+3467,2025-06-20,Düsseldorf,Organic
+3468,2025-12-06,Stuttgart,Social
+3469,2025-07-10,Düsseldorf,Social
+3470,2025-10-02,Leipzig,Referral
+3471,2025-07-04,Frankfurt,Organic
+3472,2025-03-14,Leipzig,Referral
+3473,2024-03-30,Frankfurt,Email
+3474,2025-06-27,Düsseldorf,Paid Search
+3475,2025-01-19,Berlin,Organic
+3476,2024-09-29,Stuttgart,Social
+3477,2025-06-04,Düsseldorf,Organic
+3478,2025-01-08,Munich,Social
+3479,2025-04-02,Hamburg,Email
+3480,2025-12-02,Stuttgart,Social
+3481,2024-06-06,Berlin,Paid Search
+3482,2025-09-10,Stuttgart,Organic
+3483,2025-11-12,Hamburg,Email
+3484,2025-06-15,Stuttgart,Paid Search
+3485,2025-04-01,Leipzig,Referral
+3486,2025-10-13,Munich,Organic
+3487,2025-11-11,Cologne,Paid Search
+3488,2025-04-13,Berlin,Organic
+3489,2024-03-01,Hamburg,Organic
+3490,2025-03-11,Berlin,Email
+3491,2024-07-01,Cologne,Paid Search
+3492,2025-06-01,Berlin,Social
+3493,2024-10-02,Leipzig,Organic
+3494,2025-06-15,Frankfurt,Organic
+3495,2025-10-15,Leipzig,Organic
+3496,2024-02-09,Munich,Social
+3497,2024-05-05,Leipzig,Social
+3498,2024-08-01,Frankfurt,Social
+3499,2025-08-31,Berlin,Paid Search
+3500,2024-10-24,Hamburg,Paid Search
+3501,2024-09-26,Düsseldorf,Social
+3502,2024-12-16,Cologne,Paid Search
+3503,2025-12-12,Düsseldorf,Social
+3504,2024-10-11,Cologne,Social
+3505,2024-12-20,Leipzig,Referral
+3506,2025-12-04,Hamburg,Email
+3507,2025-02-06,Berlin,Social
+3508,2024-12-31,Stuttgart,Organic
+3509,2025-02-22,Frankfurt,Organic
+3510,2024-11-15,Hamburg,Email
+3511,2024-05-05,Düsseldorf,Organic
+3512,2025-05-08,Leipzig,Organic
+3513,2025-05-22,Cologne,Paid Search
+3514,2024-03-28,Leipzig,Paid Search
+3515,2024-10-31,Munich,Paid Search
+3516,2024-03-01,Leipzig,Social
+3517,2025-10-20,Cologne,Organic
+3518,2025-08-14,Düsseldorf,Email
+3519,2024-11-01,Stuttgart,Social
+3520,2025-02-12,Hamburg,Paid Search
+3521,2025-11-17,Hamburg,Paid Search
+3522,2024-12-16,Munich,Email
+3523,2025-03-22,Cologne,Organic
+3524,2025-01-27,Berlin,Referral
+3525,2025-10-28,Düsseldorf,Paid Search
+3526,2024-06-15,Leipzig,Referral
+3527,2025-01-01,Leipzig,Organic
+3528,2025-12-28,Frankfurt,Social
+3529,2025-03-24,Stuttgart,Social
+3530,2025-04-19,Frankfurt,Organic
+3531,2025-03-25,Stuttgart,Organic
+3532,2025-03-22,Düsseldorf,Organic
+3533,2024-08-14,Munich,Paid Search
+3534,2024-07-07,Düsseldorf,Social
+3535,2024-01-23,Munich,Paid Search
+3536,2025-02-18,Berlin,Referral
+3537,2024-10-31,Hamburg,Organic
+3538,2025-04-03,Berlin,Paid Search
+3539,2025-05-28,Hamburg,Social
+3540,2024-11-28,Cologne,Social
+3541,2024-11-24,Cologne,Organic
+3542,2024-10-03,Leipzig,Email
+3543,2025-05-02,Leipzig,Paid Search
+3544,2025-11-24,Cologne,Social
+3545,2024-04-17,Cologne,Organic
+3546,2024-10-07,Hamburg,Organic
+3547,2024-06-04,Leipzig,Paid Search
+3548,2024-11-13,Frankfurt,Email
+3549,2025-12-12,Düsseldorf,Social
+3550,2024-08-13,Cologne,Organic
+3551,2025-12-25,Munich,Organic
+3552,2024-06-19,Berlin,Paid Search
+3553,2024-11-09,Berlin,Referral
+3554,2024-06-13,Leipzig,Email
+3555,2025-06-21,Hamburg,Paid Search
+3556,2024-09-07,Leipzig,Paid Search
+3557,2025-07-16,Stuttgart,Paid Search
+3558,2025-03-29,Cologne,Referral
+3559,2025-12-06,Frankfurt,Referral
+3560,2025-07-19,Düsseldorf,Email
+3561,2025-03-03,Hamburg,Email
+3562,2025-04-16,Stuttgart,Paid Search
+3563,2024-07-19,Düsseldorf,Referral
+3564,2025-08-23,Leipzig,Paid Search
+3565,2024-08-17,Cologne,Social
+3566,2024-12-21,Berlin,Organic
+3567,2024-08-02,Cologne,Paid Search
+3568,2024-01-15,Hamburg,Paid Search
+3569,2025-11-11,Berlin,Referral
+3570,2025-05-16,Frankfurt,Organic
+3571,2025-06-07,Frankfurt,Paid Search
+3572,2024-10-03,Berlin,Organic
+3573,2025-10-15,Düsseldorf,Referral
+3574,2025-03-03,Hamburg,Paid Search
+3575,2024-03-04,Munich,Organic
+3576,2025-07-16,Munich,Organic
+3577,2024-04-22,Hamburg,Email
+3578,2024-03-25,Berlin,Social
+3579,2024-11-02,Frankfurt,Referral
+3580,2025-12-21,Berlin,Organic
+3581,2024-11-15,Stuttgart,Social
+3582,2025-11-04,Stuttgart,Organic
+3583,2025-03-20,Leipzig,Referral
+3584,2025-01-13,Berlin,Social
+3585,2024-04-03,Munich,Email
+3586,2025-07-29,Düsseldorf,Organic
+3587,2024-03-11,Leipzig,Social
+3588,2024-07-14,Berlin,Social
+3589,2024-10-31,Hamburg,Social
+3590,2024-11-22,Hamburg,Social
+3591,2025-04-21,Hamburg,Paid Search
+3592,2025-11-15,Hamburg,Organic
+3593,2024-07-25,Berlin,Social
+3594,2025-08-21,Cologne,Email
+3595,2025-06-05,Cologne,Paid Search
+3596,2024-10-28,Cologne,Social
+3597,2025-08-09,Frankfurt,Social
+3598,2024-03-22,Munich,Social
+3599,2024-10-07,Leipzig,Social
+3600,2024-08-27,Cologne,Organic
+3601,2024-07-18,Düsseldorf,Organic
+3602,2024-09-26,Stuttgart,Paid Search
+3603,2024-11-27,Düsseldorf,Social
+3604,2025-09-26,Munich,Social
+3605,2024-03-02,Leipzig,Email
+3606,2024-06-29,Leipzig,Social
+3607,2024-11-25,Frankfurt,Email
+3608,2024-08-12,Frankfurt,Social
+3609,2024-04-30,Frankfurt,Email
+3610,2024-08-21,Hamburg,Organic
+3611,2025-03-21,Düsseldorf,Social
+3612,2024-06-15,Stuttgart,Social
+3613,2025-04-19,Berlin,Social
+3614,2024-11-08,Stuttgart,Organic
+3615,2025-10-19,Leipzig,Organic
+3616,2025-02-22,Hamburg,Paid Search
+3617,2024-07-26,Munich,Paid Search
+3618,2025-02-16,Berlin,Organic
+3619,2025-01-28,Leipzig,Social
+3620,2025-07-31,Cologne,Paid Search
+3621,2024-09-17,Stuttgart,Paid Search
+3622,2025-02-26,Berlin,Paid Search
+3623,2025-12-14,Hamburg,Referral
+3624,2025-01-16,Leipzig,Email
+3625,2025-05-08,Munich,Organic
+3626,2025-11-18,Cologne,Referral
+3627,2025-12-04,Munich,Social
+3628,2024-06-06,Berlin,Paid Search
+3629,2025-12-14,Munich,Paid Search
+3630,2025-09-10,Munich,Paid Search
+3631,2025-02-12,Cologne,Social
+3632,2025-10-26,Hamburg,Paid Search
+3633,2024-07-24,Leipzig,Referral
+3634,2024-04-30,Stuttgart,Organic
+3635,2024-01-14,Hamburg,Organic
+3636,2025-02-18,Cologne,Social
+3637,2025-11-12,Düsseldorf,Social
+3638,2025-07-16,Hamburg,Email
+3639,2024-12-24,Munich,Paid Search
+3640,2025-01-02,Frankfurt,Paid Search
+3641,2025-09-20,Leipzig,Social
+3642,2025-05-10,Stuttgart,Paid Search
+3643,2025-03-02,Berlin,Social
+3644,2024-08-23,Cologne,Social
+3645,2024-12-11,Berlin,Paid Search
+3646,2025-05-19,Hamburg,Email
+3647,2025-06-09,Cologne,Organic
+3648,2024-03-11,Hamburg,Paid Search
+3649,2024-11-20,Leipzig,Social
+3650,2024-06-25,Düsseldorf,Paid Search
+3651,2024-02-28,Leipzig,Referral
+3652,2024-07-20,Hamburg,Paid Search
+3653,2025-02-15,Hamburg,Organic
+3654,2025-06-16,Berlin,Paid Search
+3655,2024-07-04,Leipzig,Organic
+3656,2025-07-04,Leipzig,Organic
+3657,2025-01-17,Leipzig,Organic
+3658,2024-09-21,Düsseldorf,Social
+3659,2025-03-11,Stuttgart,Email
+3660,2025-10-04,Hamburg,Referral
+3661,2025-09-01,Leipzig,Referral
+3662,2025-10-19,Berlin,Organic
+3663,2024-11-18,Frankfurt,Referral
+3664,2024-08-04,Düsseldorf,Email
+3665,2025-01-25,Berlin,Paid Search
+3666,2024-05-30,Stuttgart,Paid Search
+3667,2024-03-18,Stuttgart,Social
+3668,2024-09-16,Frankfurt,Paid Search
+3669,2025-08-21,Frankfurt,Organic
+3670,2024-07-19,Berlin,Paid Search
+3671,2025-02-02,Berlin,Organic
+3672,2025-05-10,Berlin,Paid Search
+3673,2025-03-30,Munich,Paid Search
+3674,2024-04-23,Munich,Organic
+3675,2025-06-02,Frankfurt,Paid Search
+3676,2024-11-24,Cologne,Paid Search
+3677,2025-11-16,Düsseldorf,Referral
+3678,2024-03-07,Berlin,Paid Search
+3679,2024-06-22,Hamburg,Referral
+3680,2024-12-20,Hamburg,Referral
+3681,2024-11-19,Frankfurt,Social
+3682,2025-01-17,Frankfurt,Organic
+3683,2025-07-25,Hamburg,Social
+3684,2025-09-30,Hamburg,Paid Search
+3685,2025-09-05,Frankfurt,Social
+3686,2025-05-22,Cologne,Paid Search
+3687,2025-07-09,Düsseldorf,Organic
+3688,2024-08-18,Frankfurt,Referral
+3689,2025-08-09,Frankfurt,Email
+3690,2025-03-11,Leipzig,Organic
+3691,2025-11-11,Frankfurt,Social
+3692,2024-01-14,Leipzig,Organic
+3693,2025-06-16,Düsseldorf,Organic
+3694,2025-05-12,Stuttgart,Referral
+3695,2024-05-07,Stuttgart,Organic
+3696,2024-08-23,Düsseldorf,Social
+3697,2025-05-05,Stuttgart,Social
+3698,2025-04-05,Berlin,Paid Search
+3699,2024-11-23,Düsseldorf,Paid Search
+3700,2024-06-26,Düsseldorf,Referral
+3701,2024-08-14,Leipzig,Social
+3702,2024-09-19,Hamburg,Organic
+3703,2025-06-01,Stuttgart,Social
+3704,2024-04-22,Stuttgart,Social
+3705,2024-10-25,Düsseldorf,Email
+3706,2025-06-27,Munich,Organic
+3707,2025-05-27,Leipzig,Social
+3708,2025-12-28,Frankfurt,Organic
+3709,2025-04-15,Cologne,Paid Search
+3710,2024-12-16,Leipzig,Paid Search
+3711,2025-05-17,Hamburg,Email
+3712,2024-12-30,Hamburg,Organic
+3713,2025-04-24,Munich,Organic
+3714,2025-08-21,Leipzig,Referral
+3715,2025-04-11,Cologne,Paid Search
+3716,2025-01-14,Stuttgart,Social
+3717,2025-08-23,Stuttgart,Social
+3718,2025-03-11,Cologne,Paid Search
+3719,2025-10-13,Düsseldorf,Paid Search
+3720,2024-10-12,Munich,Referral
+3721,2025-11-18,Frankfurt,Organic
+3722,2024-01-11,Düsseldorf,Email
+3723,2025-06-16,Hamburg,Social
+3724,2024-12-21,Leipzig,Social
+3725,2025-01-09,Cologne,Social
+3726,2024-06-14,Hamburg,Social
+3727,2025-05-12,Berlin,Social
+3728,2024-11-10,Düsseldorf,Organic
+3729,2025-07-03,Berlin,Referral
+3730,2025-08-07,Leipzig,Referral
+3731,2025-04-12,Munich,Referral
+3732,2025-02-10,Cologne,Social
+3733,2024-07-16,Cologne,Referral
+3734,2024-11-08,Berlin,Organic
+3735,2024-08-12,Cologne,Paid Search
+3736,2025-07-02,Cologne,Paid Search
+3737,2025-09-07,Hamburg,Referral
+3738,2025-09-11,Munich,Email
+3739,2024-09-11,Hamburg,Social
+3740,2024-01-18,Leipzig,Organic
+3741,2025-10-17,Leipzig,Referral
+3742,2024-04-09,Frankfurt,Paid Search
+3743,2025-10-27,Berlin,Paid Search
+3744,2025-01-28,Berlin,Email
+3745,2024-10-17,Berlin,Paid Search
+3746,2024-12-07,Düsseldorf,Social
+3747,2025-01-21,Munich,Organic
+3748,2025-10-06,Hamburg,Email
+3749,2025-07-25,Stuttgart,Paid Search
+3750,2024-06-17,Düsseldorf,Organic
+3751,2024-08-14,Hamburg,Organic
+3752,2025-02-10,Cologne,Social
+3753,2025-08-15,Düsseldorf,Paid Search
+3754,2024-11-14,Frankfurt,Paid Search
+3755,2025-04-22,Munich,Social
+3756,2024-06-23,Cologne,Organic
+3757,2025-10-25,Frankfurt,Social
+3758,2024-10-27,Frankfurt,Social
+3759,2025-02-21,Frankfurt,Paid Search
+3760,2024-06-28,Munich,Email
+3761,2024-06-21,Leipzig,Organic
+3762,2024-09-20,Cologne,Organic
+3763,2025-05-02,Berlin,Organic
+3764,2024-09-22,Leipzig,Social
+3765,2025-02-22,Stuttgart,Referral
+3766,2025-06-08,Stuttgart,Social
+3767,2025-03-25,Düsseldorf,Paid Search
+3768,2025-06-11,Düsseldorf,Referral
+3769,2024-07-16,Berlin,Referral
+3770,2025-06-23,Cologne,Organic
+3771,2024-10-29,Frankfurt,Organic
+3772,2025-05-18,Hamburg,Social
+3773,2025-06-12,Düsseldorf,Paid Search
+3774,2025-04-23,Berlin,Social
+3775,2025-10-02,Cologne,Email
+3776,2025-08-06,Berlin,Paid Search
+3777,2025-01-01,Stuttgart,Organic
+3778,2025-03-14,Hamburg,Organic
+3779,2025-12-14,Cologne,Organic
+3780,2024-09-10,Munich,Email
+3781,2025-07-06,Cologne,Social
+3782,2024-08-29,Munich,Social
+3783,2024-03-06,Frankfurt,Social
+3784,2024-05-01,Hamburg,Organic
+3785,2025-11-08,Frankfurt,Organic
+3786,2024-03-30,Düsseldorf,Organic
+3787,2025-02-14,Berlin,Paid Search
+3788,2024-11-05,Cologne,Social
+3789,2025-02-23,Düsseldorf,Paid Search
+3790,2024-08-04,Cologne,Paid Search
+3791,2025-05-11,Berlin,Organic
+3792,2025-05-01,Hamburg,Referral
+3793,2025-07-24,Cologne,Paid Search
+3794,2025-05-05,Düsseldorf,Social
+3795,2025-12-26,Leipzig,Organic
+3796,2025-05-13,Munich,Paid Search
+3797,2024-11-12,Frankfurt,Paid Search
+3798,2025-12-04,Cologne,Organic
+3799,2024-11-21,Frankfurt,Social
+3800,2025-05-28,Munich,Organic
+3801,2025-03-01,Düsseldorf,Paid Search
+3802,2025-03-07,Leipzig,Organic
+3803,2025-06-26,Düsseldorf,Organic
+3804,2024-11-22,Munich,Social
+3805,2024-08-01,Cologne,Organic
+3806,2024-08-17,Stuttgart,Paid Search
+3807,2025-08-20,Frankfurt,Paid Search
+3808,2025-11-20,Munich,Organic
+3809,2024-11-09,Leipzig,Organic
+3810,2025-09-01,Munich,Referral
+3811,2024-11-10,Düsseldorf,Paid Search
+3812,2025-06-14,Frankfurt,Email
+3813,2024-08-29,Frankfurt,Organic
+3814,2024-12-12,Stuttgart,Paid Search
+3815,2025-09-26,Frankfurt,Paid Search
+3816,2025-01-19,Leipzig,Paid Search
+3817,2024-01-16,Berlin,Referral
+3818,2025-12-13,Munich,Paid Search
+3819,2025-12-17,Berlin,Email
+3820,2025-09-20,Frankfurt,Organic
+3821,2024-10-19,Stuttgart,Paid Search
+3822,2025-01-20,Cologne,Paid Search
+3823,2025-09-08,Düsseldorf,Social
+3824,2025-10-11,Cologne,Organic
+3825,2024-07-04,Düsseldorf,Social
+3826,2025-12-04,Leipzig,Referral
+3827,2025-07-05,Düsseldorf,Referral
+3828,2024-09-14,Leipzig,Referral
+3829,2024-03-28,Stuttgart,Organic
+3830,2024-10-05,Frankfurt,Paid Search
+3831,2024-05-20,Hamburg,Organic
+3832,2024-11-09,Leipzig,Email
+3833,2025-09-23,Frankfurt,Referral
+3834,2025-04-26,Düsseldorf,Social
+3835,2024-09-11,Frankfurt,Social
+3836,2025-04-15,Berlin,Email
+3837,2024-06-16,Stuttgart,Email
+3838,2025-12-07,Düsseldorf,Paid Search
+3839,2025-08-09,Stuttgart,Organic
+3840,2025-02-17,Stuttgart,Paid Search
+3841,2024-08-05,Frankfurt,Referral
+3842,2024-09-19,Berlin,Social
+3843,2024-06-16,Leipzig,Social
+3844,2024-12-30,Berlin,Paid Search
+3845,2025-09-27,Stuttgart,Organic
+3846,2024-02-03,Berlin,Paid Search
+3847,2025-12-08,Stuttgart,Referral
+3848,2025-09-03,Stuttgart,Paid Search
+3849,2025-06-02,Hamburg,Social
+3850,2025-12-16,Munich,Email
+3851,2025-09-08,Hamburg,Email
+3852,2025-04-26,Cologne,Paid Search
+3853,2025-08-12,Leipzig,Email
+3854,2025-09-19,Munich,Paid Search
+3855,2025-06-12,Stuttgart,Organic
+3856,2025-02-07,Leipzig,Email
+3857,2025-10-30,Frankfurt,Paid Search
+3858,2024-01-17,Berlin,Email
+3859,2024-01-21,Munich,Paid Search
+3860,2024-09-21,Stuttgart,Organic
+3861,2025-03-30,Cologne,Social
+3862,2025-08-23,Stuttgart,Social
+3863,2025-11-01,Munich,Social
+3864,2024-07-28,Frankfurt,Organic
+3865,2024-07-22,Berlin,Organic
+3866,2025-08-28,Hamburg,Paid Search
+3867,2024-11-12,Cologne,Paid Search
+3868,2025-06-17,Munich,Organic
+3869,2025-01-18,Cologne,Organic
+3870,2025-08-24,Düsseldorf,Organic
+3871,2024-05-31,Berlin,Referral
+3872,2025-02-01,Cologne,Social
+3873,2024-12-19,Leipzig,Paid Search
+3874,2024-08-05,Hamburg,Email
+3875,2024-05-02,Hamburg,Organic
+3876,2024-07-06,Düsseldorf,Organic
+3877,2025-08-05,Stuttgart,Paid Search
+3878,2025-01-12,Hamburg,Organic
+3879,2025-09-09,Frankfurt,Paid Search
+3880,2025-03-15,Berlin,Referral
+3881,2024-01-19,Leipzig,Email
+3882,2025-12-09,Stuttgart,Organic
+3883,2025-12-01,Leipzig,Email
+3884,2025-12-01,Cologne,Social
+3885,2025-12-30,Leipzig,Organic
+3886,2025-10-22,Frankfurt,Organic
+3887,2025-07-30,Berlin,Referral
+3888,2024-06-16,Berlin,Organic
+3889,2024-06-05,Düsseldorf,Organic
+3890,2025-08-18,Cologne,Organic
+3891,2025-10-17,Stuttgart,Social
+3892,2025-05-23,Leipzig,Email
+3893,2024-07-14,Munich,Referral
+3894,2025-08-06,Munich,Email
+3895,2024-12-08,Munich,Referral
+3896,2024-02-22,Leipzig,Organic
+3897,2025-05-28,Frankfurt,Referral
+3898,2025-05-26,Berlin,Organic
+3899,2024-11-14,Berlin,Referral
+3900,2025-08-02,Leipzig,Organic
+3901,2024-03-14,Munich,Paid Search
+3902,2024-07-02,Cologne,Organic
+3903,2024-05-02,Hamburg,Referral
+3904,2025-12-13,Leipzig,Paid Search
+3905,2025-10-11,Munich,Paid Search
+3906,2025-10-12,Berlin,Email
+3907,2024-10-31,Frankfurt,Paid Search
+3908,2024-06-05,Stuttgart,Social
+3909,2025-12-07,Hamburg,Social
+3910,2025-02-23,Cologne,Social
+3911,2024-06-03,Munich,Paid Search
+3912,2024-08-26,Hamburg,Organic
+3913,2025-07-22,Hamburg,Organic
+3914,2024-09-14,Frankfurt,Organic
+3915,2024-11-12,Frankfurt,Referral
+3916,2025-08-17,Leipzig,Organic
+3917,2024-12-15,Berlin,Organic
+3918,2025-08-10,Berlin,Email
+3919,2025-09-06,Berlin,Referral
+3920,2024-06-18,Cologne,Organic
+3921,2024-07-05,Düsseldorf,Paid Search
+3922,2025-02-27,Leipzig,Paid Search
+3923,2025-02-06,Frankfurt,Organic
+3924,2025-04-08,Frankfurt,Organic
+3925,2025-06-15,Stuttgart,Paid Search
+3926,2024-11-19,Frankfurt,Referral
+3927,2024-11-21,Düsseldorf,Referral
+3928,2025-06-20,Stuttgart,Social
+3929,2025-08-19,Stuttgart,Organic
+3930,2025-01-20,Munich,Organic
+3931,2024-05-04,Hamburg,Referral
+3932,2024-05-29,Munich,Social
+3933,2025-10-21,Leipzig,Paid Search
+3934,2025-04-13,Munich,Referral
+3935,2024-12-31,Cologne,Referral
+3936,2024-06-17,Berlin,Social
+3937,2024-08-05,Munich,Social
+3938,2025-04-19,Berlin,Paid Search
+3939,2025-09-09,Cologne,Paid Search
+3940,2025-07-08,Munich,Referral
+3941,2024-12-15,Munich,Organic
+3942,2025-06-03,Cologne,Referral
+3943,2025-10-04,Munich,Email
+3944,2025-04-05,Leipzig,Referral
+3945,2025-10-12,Leipzig,Organic
+3946,2024-10-20,Leipzig,Referral
+3947,2025-11-02,Munich,Paid Search
+3948,2025-07-25,Hamburg,Organic
+3949,2024-09-16,Frankfurt,Social
+3950,2024-08-13,Hamburg,Social
+3951,2024-03-28,Munich,Paid Search
+3952,2025-02-25,Cologne,Organic
+3953,2024-12-27,Leipzig,Organic
+3954,2024-12-26,Stuttgart,Organic
+3955,2024-04-09,Frankfurt,Referral
+3956,2024-06-16,Munich,Paid Search
+3957,2024-08-11,Frankfurt,Organic
+3958,2025-08-17,Hamburg,Organic
+3959,2025-03-23,Düsseldorf,Paid Search
+3960,2024-09-01,Hamburg,Paid Search
+3961,2025-04-05,Munich,Social
+3962,2024-04-09,Stuttgart,Referral
+3963,2025-10-22,Berlin,Referral
+3964,2024-12-20,Hamburg,Referral
+3965,2025-05-29,Munich,Paid Search
+3966,2025-10-23,Düsseldorf,Social
+3967,2025-08-16,Hamburg,Organic
+3968,2024-04-28,Stuttgart,Social
+3969,2024-09-08,Düsseldorf,Email
+3970,2025-09-30,Leipzig,Referral
+3971,2024-03-25,Frankfurt,Organic
+3972,2025-10-03,Frankfurt,Social
+3973,2025-06-06,Frankfurt,Paid Search
+3974,2025-12-21,Hamburg,Organic
+3975,2025-07-20,Düsseldorf,Paid Search
+3976,2024-08-23,Frankfurt,Paid Search
+3977,2024-05-13,Düsseldorf,Email
+3978,2025-04-17,Leipzig,Email
+3979,2025-05-16,Leipzig,Referral
+3980,2024-03-08,Hamburg,Organic
+3981,2025-04-27,Cologne,Organic
+3982,2024-12-05,Leipzig,Social
+3983,2025-09-18,Berlin,Social
+3984,2024-11-26,Düsseldorf,Email
+3985,2025-04-25,Leipzig,Paid Search
+3986,2025-09-17,Leipzig,Social
+3987,2025-06-24,Munich,Organic
+3988,2024-02-14,Hamburg,Referral
+3989,2024-10-17,Berlin,Paid Search
+3990,2025-07-29,Frankfurt,Email
+3991,2024-12-04,Stuttgart,Social
+3992,2025-12-16,Düsseldorf,Organic
+3993,2025-08-31,Frankfurt,Paid Search
+3994,2025-08-22,Stuttgart,Organic
+3995,2025-08-05,Munich,Email
+3996,2025-10-05,Stuttgart,Referral
+3997,2024-11-29,Cologne,Paid Search
+3998,2024-11-04,Hamburg,Paid Search
+3999,2025-06-06,Düsseldorf,Paid Search
+4000,2025-06-06,Cologne,Email

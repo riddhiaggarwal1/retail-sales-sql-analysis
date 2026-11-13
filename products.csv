@@ -1,0 +1,49 @@
+product_id,product_name,category,list_price
+1,Fashion item 1,Fashion,83.99
+2,Fashion item 2,Fashion,22.99
+3,Fashion item 3,Fashion,47.99
+4,Fashion item 4,Fashion,41.99
+5,Fashion item 5,Fashion,93.99
+6,Fashion item 6,Fashion,87.99
+7,Fashion item 7,Fashion,108.99
+8,Fashion item 8,Fashion,28.99
+9,Home & Living item 1,Home & Living,92.99
+10,Home & Living item 2,Home & Living,20.99
+11,Home & Living item 3,Home & Living,54.99
+12,Home & Living item 4,Home & Living,107.99
+13,Home & Living item 5,Home & Living,19.99
+14,Home & Living item 6,Home & Living,51.99
+15,Home & Living item 7,Home & Living,134.99
+16,Home & Living item 8,Home & Living,115.99
+17,Beauty item 1,Beauty,18.99
+18,Beauty item 2,Beauty,38.99
+19,Beauty item 3,Beauty,49.99
+20,Beauty item 4,Beauty,7.99
+21,Beauty item 5,Beauty,49.99
+22,Beauty item 6,Beauty,43.99
+23,Beauty item 7,Beauty,25.99
+24,Beauty item 8,Beauty,15.99
+25,Books item 1,Books,33.99
+26,Books item 2,Books,16.99
+27,Books item 3,Books,10.99
+28,Books item 4,Books,10.99
+29,Books item 5,Books,30.99
+30,Books item 6,Books,23.99
+31,Books item 7,Books,29.99
+32,Books item 8,Books,27.99
+33,Electronics item 1,Electronics,335.99
+34,Electronics item 2,Electronics,584.99
+35,Electronics item 3,Electronics,245.99
+36,Electronics item 4,Electronics,344.99
+37,Electronics item 5,Electronics,502.99
+38,Electronics item 6,Electronics,382.99
+39,Electronics item 7,Electronics,520.99
+40,Electronics item 8,Electronics,358.99
+41,Sports item 1,Sports,130.99
+42,Sports item 2,Sports,22.99
+43,Sports item 3,Sports,52.99
+44,Sports item 4,Sports,62.99
+45,Sports item 5,Sports,27.99
+46,Sports item 6,Sports,52.99
+47,Sports item 7,Sports,31.99
+48,Sports item 8,Sports,60.99
